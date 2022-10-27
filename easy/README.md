@@ -9,3 +9,4 @@
 | [26. 删除有序数组中的重复项](src/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.md)  | `双指针`  |
 | [27. 移除元素](src/remove-element/remove-element.md)  | `双指针`  |
 | [35. 搜索插入位置](src/search-insert-position/search-insert-position.md)  | `二分查找`  |
+| [58. 最后一个单词的长度](src/length-of-last-word/length-of-last-word.md)  | `字符串`  |

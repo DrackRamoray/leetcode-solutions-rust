@@ -22,3 +22,5 @@ pub mod wildcard_matching;
 pub mod n_queens;
 #[path="n-queens-ii/mod.rs"]
 pub mod n_queens_ii;
+#[path="permutation-sequence/mod.rs"]
+pub mod permutation_sequence;

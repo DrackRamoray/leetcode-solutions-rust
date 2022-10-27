@@ -10,6 +10,7 @@
 | [26. 删除有序数组中的重复项](easy/src/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.md)  | `双指针`  |
 | [27. 移除元素](easy/src/remove-element/remove-element.md)  | `双指针`  |
 | [35. 搜索插入位置](easy/src/search-insert-position/search-insert-position.md)  | `二分查找`  |
+| [58. 最后一个单词的长度](easy/src/length-of-last-word/length-of-last-word.md)  | `字符串`  |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -48,6 +49,9 @@
 | [53. 最大子数组和](medium/src/maximum-subarray/maximum-subarray.md) | `动态规划` `子数组` |
 | [54. 螺旋矩阵](medium/src/spiral-matrix/spiral-matrix.md) | `矩阵` |
 | [55. 跳跃游戏](medium/src/jump-game/jump-game.md) | `贪心` |
+| [56. 合并区间](medium/src/merge-intervals/merge-intervals.md) | `排序` |
+| [57. 插入区间](medium/src/insert-interval/insert-interval.md) | `二分查找` |
+| [59. 螺旋矩阵 II](medium/src/spiral-matrix-ii/spiral-matrix-ii.md) | `矩阵` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -64,3 +68,4 @@
 | [44. 通配符匹配](hard/src/wildcard-matching/wildcard-matching.md) | `动态规划`  |
 | [51. N 皇后](hard/src/n-queens/n-queens.md) | `回溯`  |
 | [52. N皇后 II](hard/src/n-queens-ii/n-queens-ii.md) | `回溯`  |
+| [60. 排列序列](hard/src/permutation-sequence/permutation-sequence.md) | `数学`  |

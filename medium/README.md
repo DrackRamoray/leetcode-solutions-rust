@@ -34,3 +34,6 @@
 | [53. 最大子数组和](src/maximum-subarray/maximum-subarray.md) | `动态规划` `子数组` |
 | [54. 螺旋矩阵](src/spiral-matrix/spiral-matrix.md) | `矩阵` |
 | [55. 跳跃游戏](src/jump-game/jump-game.md) | `贪心` |
+| [56. 合并区间](src/merge-intervals/merge-intervals.md) | `排序` |
+| [57. 插入区间](src/insert-interval/insert-interval.md) | `二分查找` |
+| [59. 螺旋矩阵 II](src/spiral-matrix-ii/spiral-matrix-ii.md) | `矩阵` |

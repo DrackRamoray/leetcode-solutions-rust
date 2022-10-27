@@ -16,3 +16,5 @@ pub mod remove_duplicates_from_sorted_array;
 pub mod remove_element;
 #[path="search-insert-position/mod.rs"]
 pub mod search_insert_position;
+#[path="length-of-last-word/mod.rs"]
+pub mod length_of_last_word;

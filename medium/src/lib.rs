@@ -65,3 +65,9 @@ pub mod maximum_subarray;
 pub mod spiral_matrix;
 #[path="jump-game/mod.rs"]
 pub mod jump_game;
+#[path="merge-intervals/mod.rs"]
+pub mod merge_intervals;
+#[path="insert-interval/mod.rs"]
+pub mod insert_interval;
+#[path="spiral-matrix-ii/mod.rs"]
+pub mod spiral_matrix_ii;
