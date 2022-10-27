@@ -52,6 +52,10 @@
 | [56. 合并区间](medium/src/merge-intervals/merge-intervals.md) | `排序` |
 | [57. 插入区间](medium/src/insert-interval/insert-interval.md) | `二分查找` |
 | [59. 螺旋矩阵 II](medium/src/spiral-matrix-ii/spiral-matrix-ii.md) | `矩阵` |
+| [61. 旋转链表](medium/src/rotate-list/rotate-list.md) | `链表` |
+| [62. 不同路径](medium/src/unique-paths/unique-paths.md) | `动态规划` |
+| [63. 不同路径 II](medium/src/unique-paths-ii/unique-paths-ii.md) | `动态规划` |
+| [64. 最小路径和](medium/src/minimum-path-sum/minimum-path-sum.md) | `动态规划` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -69,3 +73,4 @@
 | [51. N 皇后](hard/src/n-queens/n-queens.md) | `回溯`  |
 | [52. N皇后 II](hard/src/n-queens-ii/n-queens-ii.md) | `回溯`  |
 | [60. 排列序列](hard/src/permutation-sequence/permutation-sequence.md) | `数学`  |
+| [65. 有效数字](hard/src/valid-number/valid-number.md) | `状态机`  |

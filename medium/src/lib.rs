@@ -71,3 +71,11 @@ pub mod merge_intervals;
 pub mod insert_interval;
 #[path="spiral-matrix-ii/mod.rs"]
 pub mod spiral_matrix_ii;
+#[path="rotate-list/mod.rs"]
+pub mod rotate_list;
+#[path="unique-paths/mod.rs"]
+pub mod unique_paths;
+#[path="unique-paths-ii/mod.rs"]
+pub mod unique_paths_ii;
+#[path="minimum-path-sum/mod.rs"]
+pub mod minimum_path_sum;

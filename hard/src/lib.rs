@@ -24,3 +24,5 @@ pub mod n_queens;
 pub mod n_queens_ii;
 #[path="permutation-sequence/mod.rs"]
 pub mod permutation_sequence;
+#[path="valid-number/mod.rs"]
+pub mod valid_number;

@@ -46,11 +46,11 @@ mod tests {
     #[test]
     fn it_works() {
         let lists = vec![
-            Some(Box::new(ListNode{ val: 1, next: Some(Box::new(ListNode{ val: 4, next: Some(Box::new(ListNode::new(5))) })) })),
-            Some(Box::new(ListNode{ val: 1, next: Some(Box::new(ListNode{ val: 3, next: Some(Box::new(ListNode::new(4))) })) })),
-            Some(Box::new(ListNode{ val: 2, next: Some(Box::new(ListNode::new(6))) })),
+            ListNode::from_vec(vec![1,4,5]),
+            ListNode::from_vec(vec![1,3,4]),
+            ListNode::from_vec(vec![2,6]),
         ];
-        let ans = Some(Box::new(ListNode{ val: 1, next: Some(Box::new(ListNode{ val: 1, next: Some(Box::new(ListNode{ val: 2, next: Some(Box::new(ListNode{ val: 3, next: Some(Box::new(ListNode{ val: 4, next: Some(Box::new(ListNode{ val: 4, next: Some(Box::new(ListNode{ val: 5, next: Some(Box::new(ListNode::new(6))) })) })) })) })) })) })) }));
+        let ans = ListNode::from_vec(vec![1,1,2,3,4,4,5,6]);
         assert_eq!(Solution::merge_k_lists(lists), ans);
         assert_eq!(Solution::merge_k_lists(vec![]), None);
         assert_eq!(Solution::merge_k_lists(vec![None]), None);

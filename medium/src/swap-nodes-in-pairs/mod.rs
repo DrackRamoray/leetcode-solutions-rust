@@ -25,10 +25,10 @@ mod tests {
 
     #[test]
     fn it_works() {
-        let head = Some(Box::new(ListNode{ val: 1, next: Some(Box::new(ListNode{ val: 2, next: Some(Box::new(ListNode{ val: 3, next: Some(Box::new(ListNode::new(4))) })) })) }));
-        let ans = Some(Box::new(ListNode{ val: 2, next: Some(Box::new(ListNode{ val: 1, next: Some(Box::new(ListNode{ val: 4, next: Some(Box::new(ListNode::new(3))) })) })) }));
+        let head = ListNode::from_vec(vec![1,2,3,4]);
+        let ans = ListNode::from_vec(vec![2,1,4,3]);
         assert_eq!(Solution::swap_pairs(head), ans);
         assert_eq!(Solution::swap_pairs(None), None);
-        assert_eq!(Solution::swap_pairs(Some(Box::new(ListNode::new(1)))), Some(Box::new(ListNode::new(1))));
+        assert_eq!(Solution::swap_pairs(ListNode::from_vec(vec![1])), ListNode::from_vec(vec![1]));
     }
 }

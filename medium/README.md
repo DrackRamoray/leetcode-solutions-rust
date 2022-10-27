@@ -37,3 +37,7 @@
 | [56. 合并区间](src/merge-intervals/merge-intervals.md) | `排序` |
 | [57. 插入区间](src/insert-interval/insert-interval.md) | `二分查找` |
 | [59. 螺旋矩阵 II](src/spiral-matrix-ii/spiral-matrix-ii.md) | `矩阵` |
+| [61. 旋转链表](src/rotate-list/rotate-list.md) | `链表` |
+| [62. 不同路径](src/unique-paths/unique-paths.md) | `动态规划` |
+| [63. 不同路径 II](src/unique-paths-ii/unique-paths-ii.md) | `动态规划` |
+| [64. 最小路径和](src/minimum-path-sum/minimum-path-sum.md) | `动态规划` |

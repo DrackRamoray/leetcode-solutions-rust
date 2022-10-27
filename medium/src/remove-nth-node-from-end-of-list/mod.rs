@@ -35,14 +35,14 @@ mod tests {
 
     #[test]
     fn it_works() {
-        let head = Some(Box::new(ListNode{ val: 1, next: Some(Box::new(ListNode{ val: 2, next: Some(Box::new(ListNode{ val: 3, next: Some(Box::new(ListNode{ val: 4, next: Some(Box::new(ListNode::new(5))) })) })) })) }));
-        let ans = Some(Box::new(ListNode{ val: 1, next: Some(Box::new(ListNode{ val: 2, next: Some(Box::new(ListNode{ val: 3, next: Some(Box::new(ListNode::new(5))) })) })) }));
+        let head = ListNode::from_vec(vec![1,2,3,4,5]);
+        let ans = ListNode::from_vec(vec![1,2,3,5]);
         assert_eq!(Solution::remove_nth_from_end(head, 2), ans);
-        let head = Some(Box::new(ListNode::new(1)));
+        let head = ListNode::from_vec(vec![1]);
         let ans = None;
         assert_eq!(Solution::remove_nth_from_end(head, 1), ans);
-        let head = Some(Box::new(ListNode{ val: 1, next: Some(Box::new(ListNode::new(2))) }));
-        let ans = Some(Box::new(ListNode::new(1)));
+        let head = ListNode::from_vec(vec![1,2]);
+        let ans = ListNode::from_vec(vec![1]);
         assert_eq!(Solution::remove_nth_from_end(head, 1), ans);
     }
 }
