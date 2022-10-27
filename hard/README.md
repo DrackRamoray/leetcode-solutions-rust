@@ -14,3 +14,4 @@
 | [52. N皇后 II](src/n-queens-ii/n-queens-ii.md) | `回溯`  |
 | [60. 排列序列](src/permutation-sequence/permutation-sequence.md) | `数学`  |
 | [65. 有效数字](src/valid-number/valid-number.md) | `状态机`  |
+| [68. 文本左右对齐](src/text-justification/text-justification.md) | `字符串`  |

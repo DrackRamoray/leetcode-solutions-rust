@@ -10,3 +10,7 @@
 | [27. 移除元素](src/remove-element/remove-element.md)  | `双指针`  |
 | [35. 搜索插入位置](src/search-insert-position/search-insert-position.md)  | `二分查找`  |
 | [58. 最后一个单词的长度](src/length-of-last-word/length-of-last-word.md)  | `字符串`  |
+| [66. 加一](src/plus-one/plus-one.md)  | `数组`  |
+| [67. 二进制求和](src/add-binary/add-binary.md)  | `字符串` `位运算`  |
+| [69. x 的平方根 ](src/sqrtx/sqrtx.md)  | `二分查找`   |
+| [70. 爬楼梯](src/climbing-stairs/climbing-stairs.md)  | `动态规划`   |

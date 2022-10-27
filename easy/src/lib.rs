@@ -18,3 +18,10 @@ pub mod remove_element;
 pub mod search_insert_position;
 #[path="length-of-last-word/mod.rs"]
 pub mod length_of_last_word;
+#[path="plus-one/mod.rs"]
+pub mod plus_one;
+#[path="add-binary/mod.rs"]
+pub mod add_binary;
+pub mod sqrtx;
+#[path="climbing-stairs/mod.rs"]
+pub mod climbing_stairs;

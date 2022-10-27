@@ -11,6 +11,10 @@
 | [27. 移除元素](easy/src/remove-element/remove-element.md)  | `双指针`  |
 | [35. 搜索插入位置](easy/src/search-insert-position/search-insert-position.md)  | `二分查找`  |
 | [58. 最后一个单词的长度](easy/src/length-of-last-word/length-of-last-word.md)  | `字符串`  |
+| [66. 加一](easy/src/plus-one/plus-one.md)  | `数组`  |
+| [67. 二进制求和](easy/src/add-binary/add-binary.md)  | `字符串` `位运算`  |
+| [69. x 的平方根 ](easy/src/sqrtx/sqrtx.md)  | `二分查找`   |
+| [70. 爬楼梯](easy/src/climbing-stairs/climbing-stairs.md)  | `动态规划`   |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -74,3 +78,4 @@
 | [52. N皇后 II](hard/src/n-queens-ii/n-queens-ii.md) | `回溯`  |
 | [60. 排列序列](hard/src/permutation-sequence/permutation-sequence.md) | `数学`  |
 | [65. 有效数字](hard/src/valid-number/valid-number.md) | `状态机`  |
+| [68. 文本左右对齐](hard/src/text-justification/text-justification.md) | `字符串`  |

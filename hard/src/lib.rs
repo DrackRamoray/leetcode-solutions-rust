@@ -26,3 +26,5 @@ pub mod n_queens_ii;
 pub mod permutation_sequence;
 #[path="valid-number/mod.rs"]
 pub mod valid_number;
+#[path="text-justification/mod.rs"]
+pub mod text_justification;
