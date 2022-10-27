@@ -24,3 +24,5 @@
 | [38. 外观数列](src/count-and-say/count-and-say.md) | `字符串` |
 | [39. 组合总和](src/combination-sum/combination-sum.md) | `回溯` `组合` |
 | [40. 组合总和 II](src/combination-sum-ii/combination-sum-ii.md) | `回溯` `组合` |
+| [43. 字符串相乘](src/multiply-strings/multiply-strings.md) | `字符串` `模拟` |
+| [45. 跳跃游戏 II](src/jump-game-ii/jump-game-ii.md) | `动态规划` |

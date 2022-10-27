@@ -38,6 +38,8 @@
 | [38. 外观数列](medium/src/count-and-say/count-and-say.md) | `字符串` |
 | [39. 组合总和](medium/src/combination-sum/combination-sum.md) | `回溯` `组合` |
 | [40. 组合总和 II](medium/src/combination-sum-ii/combination-sum-ii.md) | `回溯` `组合` |
+| [43. 字符串相乘](medium/src/multiply-strings/multiply-strings.md) | `字符串` `模拟` |
+| [45. 跳跃游戏 II](medium/src/jump-game-ii/jump-game-ii.md) | `动态规划` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -49,3 +51,6 @@
 | [30. 串联所有单词的子串](hard/src/substring-with-concatenation-of-all-words/substring-with-concatenation-of-all-words.md)  | `哈希` `滑动窗口`  |
 | [32. 最长有效括号](hard/src/longest-valid-parentheses/longest-valid-parentheses.md) | `哈希` `滑动窗口`  |
 | [37. 解数独](hard/src/sudoku-solver/sudoku-solver.md) | `回溯` `矩阵`  |
+| [41. 缺失的第一个正数](hard/src/first-missing-positive/first-missing-positive.md) | `原地哈希`  |
+| [42. 接雨水](hard/src/trapping-rain-water/trapping-rain-water.md) | `单调栈`  |
+| [44. 通配符匹配](hard/src/wildcard-matching/wildcard-matching.md) | `动态规划`  |

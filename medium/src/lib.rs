@@ -46,3 +46,7 @@ pub mod count_and_say;
 pub mod combination_sum;
 #[path="combination-sum-ii/mod.rs"]
 pub mod combination_sum_ii;
+#[path="multiply-strings/mod.rs"]
+pub mod multiply_strings;
+#[path="jump-game-ii/mod.rs"]
+pub mod jump_game_ii;

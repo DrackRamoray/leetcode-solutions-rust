@@ -12,3 +12,9 @@ pub mod substring_with_concatenation_of_all_words;
 pub mod longest_valid_parentheses;
 #[path="sudoku-solver/mod.rs"]
 pub mod sudoku_solver;
+#[path="first-missing-positive/mod.rs"]
+pub mod first_missing_positive;
+#[path="trapping-rain-water/mod.rs"]
+pub mod trapping_rain_water;
+#[path="wildcard-matching/mod.rs"]
+pub mod wildcard_matching;
