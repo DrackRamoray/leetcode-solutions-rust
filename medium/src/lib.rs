@@ -50,3 +50,12 @@ pub mod combination_sum_ii;
 pub mod multiply_strings;
 #[path="jump-game-ii/mod.rs"]
 pub mod jump_game_ii;
+pub mod permutations;
+#[path="permutations-ii/mod.rs"]
+pub mod permutations_ii;
+#[path="rotate-image/mod.rs"]
+pub mod rotate_image;
+#[path="group-anagrams/mod.rs"]
+pub mod group_anagrams;
+#[path="powx-n/mod.rs"]
+pub mod powx_n;

@@ -54,3 +54,27 @@ impl Solution {
 ```
 
 `动态规划`
+
+```rust
+impl Solution {
+    pub fn jump(nums: Vec<i32>) -> i32 {
+        let n = nums.len();
+        let mut farthest = 0; // 跳跃可达的最远距离
+        let mut steps  = 0; // 跳跃次数
+        let mut bound = 0; // 每一次跳跃的最远边界，跨过这个边界要再进行一次跳跃
+
+        for i in 0..n-1 {
+            farthest = farthest.max(nums[i] as usize + i);
+
+            if i == bound {
+                bound = farthest;
+                steps += 1;
+            }
+        }
+
+        steps as i32
+    }
+}
+```
+
+``

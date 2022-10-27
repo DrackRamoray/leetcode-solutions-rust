@@ -40,6 +40,11 @@
 | [40. 组合总和 II](medium/src/combination-sum-ii/combination-sum-ii.md) | `回溯` `组合` |
 | [43. 字符串相乘](medium/src/multiply-strings/multiply-strings.md) | `字符串` `模拟` |
 | [45. 跳跃游戏 II](medium/src/jump-game-ii/jump-game-ii.md) | `动态规划` |
+| [46. 全排列](medium/src/permutations/permutations.md) | `回溯` `排列` |
+| [47. 全排列 II](medium/src/permutations-ii/permutations-ii.md) | `回溯` `排列` |
+| [48. 旋转图像](medium/src/rotate-image/rotate-image.md) | `矩阵` |
+| [49. 字母异位词分组](medium/src/group-anagrams/group-anagrams.md) | `哈希` |
+| [50. Pow(x, n)](medium/src/powx-n/powx-n.md) | `数学` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |

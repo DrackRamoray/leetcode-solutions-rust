@@ -26,3 +26,8 @@
 | [40. 组合总和 II](src/combination-sum-ii/combination-sum-ii.md) | `回溯` `组合` |
 | [43. 字符串相乘](src/multiply-strings/multiply-strings.md) | `字符串` `模拟` |
 | [45. 跳跃游戏 II](src/jump-game-ii/jump-game-ii.md) | `动态规划` |
+| [46. 全排列](src/permutations/permutations.md) | `回溯` `排列` |
+| [47. 全排列 II](src/permutations-ii/permutations-ii.md) | `回溯` `排列` |
+| [48. 旋转图像](src/rotate-image/rotate-image.md) | `矩阵` |
+| [49. 字母异位词分组](src/group-anagrams/group-anagrams.md) | `哈希` |
+| [50. Pow(x, n)](src/powx-n/powx-n.md) | `数学` |
