@@ -59,3 +59,4 @@
 | [41. 缺失的第一个正数](hard/src/first-missing-positive/first-missing-positive.md) | `原地哈希`  |
 | [42. 接雨水](hard/src/trapping-rain-water/trapping-rain-water.md) | `单调栈`  |
 | [44. 通配符匹配](hard/src/wildcard-matching/wildcard-matching.md) | `动态规划`  |
+| [51. N 皇后](hard/src/n-queens/n-queens.md) | `回溯`  |

@@ -18,3 +18,5 @@ pub mod first_missing_positive;
 pub mod trapping_rain_water;
 #[path="wildcard-matching/mod.rs"]
 pub mod wildcard_matching;
+#[path="n-queens/mod.rs"]
+pub mod n_queens;
