@@ -11,3 +11,4 @@
 | [42. 接雨水](src/trapping-rain-water/trapping-rain-water.md) | `单调栈`  |
 | [44. 通配符匹配](src/wildcard-matching/wildcard-matching.md) | `动态规划`  |
 | [51. N 皇后](src/n-queens/n-queens.md) | `回溯`  |
+| [52. N皇后 II](src/n-queens-ii/n-queens-ii.md) | `回溯`  |
