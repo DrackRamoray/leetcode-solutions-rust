@@ -45,6 +45,9 @@
 | [48. 旋转图像](medium/src/rotate-image/rotate-image.md) | `矩阵` |
 | [49. 字母异位词分组](medium/src/group-anagrams/group-anagrams.md) | `哈希` |
 | [50. Pow(x, n)](medium/src/powx-n/powx-n.md) | `数学` |
+| [53. 最大子数组和](medium/src/maximum-subarray/maximum-subarray.md) | `动态规划` `子数组` |
+| [54. 螺旋矩阵](medium/src/spiral-matrix/spiral-matrix.md) | `矩阵` |
+| [55. 跳跃游戏](medium/src/jump-game/jump-game.md) | `贪心` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |

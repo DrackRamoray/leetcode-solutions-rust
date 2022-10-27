@@ -59,3 +59,9 @@ pub mod rotate_image;
 pub mod group_anagrams;
 #[path="powx-n/mod.rs"]
 pub mod powx_n;
+#[path="maximum-subarray/mod.rs"]
+pub mod maximum_subarray;
+#[path="spiral-matrix/mod.rs"]
+pub mod spiral_matrix;
+#[path="jump-game/mod.rs"]
+pub mod jump_game;
