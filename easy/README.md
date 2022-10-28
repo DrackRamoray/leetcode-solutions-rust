@@ -14,3 +14,4 @@
 | [67. 二进制求和](src/add-binary/add-binary.md)  | `字符串` `位运算`  |
 | [69. x 的平方根 ](src/sqrtx/sqrtx.md)  | `二分查找`   |
 | [70. 爬楼梯](src/climbing-stairs/climbing-stairs.md)  | `动态规划`   |
+| [83. 删除排序链表中的重复元素](src/remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.md)  | `链表`   |

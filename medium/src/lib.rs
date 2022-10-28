@@ -93,3 +93,7 @@ pub mod subsets;
 pub mod word_search;
 #[path="remove-duplicates-from-sorted-array-ii/mod.rs"]
 pub mod remove_duplicates_from_sorted_array_ii;
+#[path="search-in-rotated-sorted-array-ii/mod.rs"]
+pub mod search_in_rotated_sorted_array_ii;
+#[path="remove-duplicates-from-sorted-list-ii/mod.rs"]
+pub mod remove_duplicates_from_sorted_list_ii;

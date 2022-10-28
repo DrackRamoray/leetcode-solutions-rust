@@ -25,3 +25,5 @@ pub mod add_binary;
 pub mod sqrtx;
 #[path="climbing-stairs/mod.rs"]
 pub mod climbing_stairs;
+#[path="remove-duplicates-from-sorted-list/mod.rs"]
+pub mod remove_duplicates_from_sorted_list;

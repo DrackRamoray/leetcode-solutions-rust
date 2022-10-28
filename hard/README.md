@@ -17,3 +17,5 @@
 | [68. 文本左右对齐](src/text-justification/text-justification.md) | `字符串`  |
 | [72. 编辑距离](src/edit-distance/edit-distance.md) | `动态规划`  |
 | [76. 最小覆盖子串](src/minimum-window-substring/minimum-window-substring.md) | `滑动窗口`  |
+| [84. 柱状图中最大的矩形](src/largest-rectangle-in-histogram/largest-rectangle-in-histogram.md) | `单调栈`  |
+| [85. 最大矩形](src/maximal-rectangle/maximal-rectangle.md) | `动态规划`  |

@@ -15,6 +15,7 @@
 | [67. 二进制求和](easy/src/add-binary/add-binary.md)  | `字符串` `位运算`  |
 | [69. x 的平方根 ](easy/src/sqrtx/sqrtx.md)  | `二分查找`   |
 | [70. 爬楼梯](easy/src/climbing-stairs/climbing-stairs.md)  | `动态规划`   |
+| [83. 删除排序链表中的重复元素](easy/src/remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.md)  | `链表`   |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -68,6 +69,8 @@
 | [78. 子集](medium/src/subsets/subsets.md) | `回溯` `子集` |
 | [79. 单词搜索](medium/src/word-search/word-search.md) | `回溯` `矩阵` |
 | [80. 删除有序数组中的重复项 II](medium/src/remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.md) | `双指针` |
+| [81. 搜索旋转排序数组 II](medium/src/search-in-rotated-sorted-array-ii/search-in-rotated-sorted-array-ii.md) | `二分查找` |
+| [82. 删除排序链表中的重复元素 II](medium/src/remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.md) | `链表` `双指针` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -89,3 +92,5 @@
 | [68. 文本左右对齐](hard/src/text-justification/text-justification.md) | `字符串`  |
 | [72. 编辑距离](hard/src/edit-distance/edit-distance.md) | `动态规划`  |
 | [76. 最小覆盖子串](hard/src/minimum-window-substring/minimum-window-substring.md) | `滑动窗口`  |
+| [84. 柱状图中最大的矩形](hard/src/largest-rectangle-in-histogram/largest-rectangle-in-histogram.md) | `单调栈`  |
+| [85. 最大矩形](hard/src/maximal-rectangle/maximal-rectangle.md) | `动态规划`  |

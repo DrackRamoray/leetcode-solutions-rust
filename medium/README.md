@@ -49,3 +49,5 @@
 | [78. 子集](src/subsets/subsets.md) | `回溯` `子集` |
 | [79. 单词搜索](src/word-search/word-search.md) | `回溯` `矩阵` |
 | [80. 删除有序数组中的重复项 II](src/remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.md) | `双指针` |
+| [81. 搜索旋转排序数组 II](src/search-in-rotated-sorted-array-ii/search-in-rotated-sorted-array-ii.md) | `二分查找` |
+| [82. 删除排序链表中的重复元素 II](src/remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.md) | `链表` `双指针` |

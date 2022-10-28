@@ -32,3 +32,7 @@ pub mod text_justification;
 pub mod edit_distance;
 #[path="minimum-window-substring/mod.rs"]
 pub mod minimum_window_substring;
+#[path="largest-rectangle-in-histogram/mod.rs"]
+pub mod largest_rectangle_in_histogram;
+#[path="maximal-rectangle/mod.rs"]
+pub mod maximal_rectangle;
