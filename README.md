@@ -60,6 +60,10 @@
 | [62. 不同路径](medium/src/unique-paths/unique-paths.md) | `动态规划` |
 | [63. 不同路径 II](medium/src/unique-paths-ii/unique-paths-ii.md) | `动态规划` |
 | [64. 最小路径和](medium/src/minimum-path-sum/minimum-path-sum.md) | `动态规划` |
+| [71. 简化路径](medium/src/simplify-path/simplify-path.md) | `栈` |
+| [73. 矩阵置零](medium/src/set-matrix-zeroes/set-matrix-zeroes.md) | `哈希` |
+| [74. 搜索二维矩阵](medium/src/search-a-2d-matrix/search-a-2d-matrix.md) | `二分查找` |
+| [75. 颜色分类](medium/src/sort-colors/sort-colors.md) | `双指针` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -79,3 +83,4 @@
 | [60. 排列序列](hard/src/permutation-sequence/permutation-sequence.md) | `数学`  |
 | [65. 有效数字](hard/src/valid-number/valid-number.md) | `状态机`  |
 | [68. 文本左右对齐](hard/src/text-justification/text-justification.md) | `字符串`  |
+| [72. 编辑距离](hard/src/edit-distance/edit-distance.md) | `动态规划`  |

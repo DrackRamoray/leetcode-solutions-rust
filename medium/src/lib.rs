@@ -79,3 +79,11 @@ pub mod unique_paths;
 pub mod unique_paths_ii;
 #[path="minimum-path-sum/mod.rs"]
 pub mod minimum_path_sum;
+#[path="simplify-path/mod.rs"]
+pub mod simplify_path;
+#[path="set-matrix-zeroes/mod.rs"]
+pub mod set_matrix_zeroes;
+#[path="search-a-2d-matrix/mod.rs"]
+pub mod search_a_2d_matrix;
+#[path="sort-colors/mod.rs"]
+pub mod sort_colors;

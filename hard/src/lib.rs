@@ -28,3 +28,5 @@ pub mod permutation_sequence;
 pub mod valid_number;
 #[path="text-justification/mod.rs"]
 pub mod text_justification;
+#[path="edit-distance/mod.rs"]
+pub mod edit_distance;

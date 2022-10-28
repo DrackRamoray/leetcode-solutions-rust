@@ -41,3 +41,7 @@
 | [62. 不同路径](src/unique-paths/unique-paths.md) | `动态规划` |
 | [63. 不同路径 II](src/unique-paths-ii/unique-paths-ii.md) | `动态规划` |
 | [64. 最小路径和](src/minimum-path-sum/minimum-path-sum.md) | `动态规划` |
+| [71. 简化路径](src/simplify-path/simplify-path.md) | `栈` |
+| [73. 矩阵置零](src/set-matrix-zeroes/set-matrix-zeroes.md) | `哈希` |
+| [74. 搜索二维矩阵](src/search-a-2d-matrix/search-a-2d-matrix.md) | `二分查找` |
+| [75. 颜色分类](src/sort-colors/sort-colors.md) | `双指针` |
