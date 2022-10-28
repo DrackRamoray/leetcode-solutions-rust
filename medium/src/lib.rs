@@ -87,3 +87,9 @@ pub mod set_matrix_zeroes;
 pub mod search_a_2d_matrix;
 #[path="sort-colors/mod.rs"]
 pub mod sort_colors;
+pub mod combinations;
+pub mod subsets;
+#[path="word-search/mod.rs"]
+pub mod word_search;
+#[path="remove-duplicates-from-sorted-array-ii/mod.rs"]
+pub mod remove_duplicates_from_sorted_array_ii;

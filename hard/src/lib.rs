@@ -30,3 +30,5 @@ pub mod valid_number;
 pub mod text_justification;
 #[path="edit-distance/mod.rs"]
 pub mod edit_distance;
+#[path="minimum-window-substring/mod.rs"]
+pub mod minimum_window_substring;

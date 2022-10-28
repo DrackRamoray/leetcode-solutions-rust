@@ -64,6 +64,10 @@
 | [73. 矩阵置零](medium/src/set-matrix-zeroes/set-matrix-zeroes.md) | `哈希` |
 | [74. 搜索二维矩阵](medium/src/search-a-2d-matrix/search-a-2d-matrix.md) | `二分查找` |
 | [75. 颜色分类](medium/src/sort-colors/sort-colors.md) | `双指针` |
+| [77. 组合](medium/src/combinations/combinations.md) | `回溯` `组合` |
+| [78. 子集](medium/src/subsets/subsets.md) | `回溯` `子集` |
+| [79. 单词搜索](medium/src/word-search/word-search.md) | `回溯` `矩阵` |
+| [80. 删除有序数组中的重复项 II](medium/src/remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.md) | `双指针` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -84,3 +88,4 @@
 | [65. 有效数字](hard/src/valid-number/valid-number.md) | `状态机`  |
 | [68. 文本左右对齐](hard/src/text-justification/text-justification.md) | `字符串`  |
 | [72. 编辑距离](hard/src/edit-distance/edit-distance.md) | `动态规划`  |
+| [76. 最小覆盖子串](hard/src/minimum-window-substring/minimum-window-substring.md) | `滑动窗口`  |

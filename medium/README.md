@@ -45,3 +45,7 @@
 | [73. 矩阵置零](src/set-matrix-zeroes/set-matrix-zeroes.md) | `哈希` |
 | [74. 搜索二维矩阵](src/search-a-2d-matrix/search-a-2d-matrix.md) | `二分查找` |
 | [75. 颜色分类](src/sort-colors/sort-colors.md) | `双指针` |
+| [77. 组合](src/combinations/combinations.md) | `回溯` `组合` |
+| [78. 子集](src/subsets/subsets.md) | `回溯` `子集` |
+| [79. 单词搜索](src/word-search/word-search.md) | `回溯` `矩阵` |
+| [80. 删除有序数组中的重复项 II](src/remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.md) | `双指针` |
