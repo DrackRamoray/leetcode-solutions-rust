@@ -111,3 +111,11 @@ pub mod reverse_linked_list_ii;
 pub mod restore_ip_addresses;
 #[path="unique-binary-search-trees-ii/mod.rs"]
 pub mod unique_binary_search_trees_ii;
+#[path="unique-binary-search-trees/mod.rs"]
+pub mod unique_binary_search_trees;
+#[path="interleaving-string/mod.rs"]
+pub mod interleaving_string;
+#[path="validate-binary-search-tree/mod.rs"]
+pub mod validate_binary_search_tree;
+#[path="recover-binary-search-tree/mod.rs"]
+pub mod recover_binary_search_tree;

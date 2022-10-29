@@ -31,3 +31,5 @@ pub mod remove_duplicates_from_sorted_list;
 pub mod merge_sorted_array;
 #[path="binary-tree-inorder-traversal/mod.rs"]
 pub mod binary_tree_inorder_traversal;
+#[path="same-tree/mod.rs"]
+pub mod same_tree;

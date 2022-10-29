@@ -58,3 +58,7 @@
 | [92. 反转链表 II](src/reverse-linked-list-ii/reverse-linked-list-ii.md) | `链表` |
 | [93. 复原 IP 地址](src/restore-ip-addresses/restore-ip-addresses.md) | `回溯` |
 | [95. 不同的二叉搜索树 II](src/unique-binary-search-trees-ii/unique-binary-search-trees-ii.md) | `回溯` `递归` |
+| [96. 不同的二叉搜索树](src/unique-binary-search-trees/unique-binary-search-trees.md) | `数学` `动态规划` |
+| [97. 交错字符串](src/interleaving-string/interleaving-string.md) | `动态规划` |
+| [98. 验证二叉搜索树](src/validate-binary-search-tree/validate-binary-search-tree.md) | `深度优先搜索` |
+| [99. 恢复二叉搜索树](src/recover-binary-search-tree/recover-binary-search-tree.md) | `深度优先搜索` |

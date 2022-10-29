@@ -18,6 +18,7 @@
 | [83. 删除排序链表中的重复元素](easy/src/remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.md)  | `链表`   |
 | [88. 合并两个有序数组](easy/src/merge-sorted-array/merge-sorted-array.md)  | `双指针`   |
 | [94. 二叉树的中序遍历](easy/src/binary-tree-inorder-traversal/binary-tree-inorder-traversal.md)  | `栈`   |
+| [100. 相同的树](easy/src/same-tree/same-tree.md)  | `深度优先搜索`   |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -80,6 +81,10 @@
 | [92. 反转链表 II](medium/src/reverse-linked-list-ii/reverse-linked-list-ii.md) | `链表` |
 | [93. 复原 IP 地址](medium/src/restore-ip-addresses/restore-ip-addresses.md) | `回溯` |
 | [95. 不同的二叉搜索树 II](medium/src/unique-binary-search-trees-ii/unique-binary-search-trees-ii.md) | `回溯` `递归` |
+| [96. 不同的二叉搜索树](medium/src/unique-binary-search-trees/unique-binary-search-trees.md) | `数学` `动态规划` |
+| [97. 交错字符串](medium/src/interleaving-string/interleaving-string.md) | `动态规划` |
+| [98. 验证二叉搜索树](medium/src/validate-binary-search-tree/validate-binary-search-tree.md) | `深度优先搜索` |
+| [99. 恢复二叉搜索树](medium/src/recover-binary-search-tree/recover-binary-search-tree.md) | `深度优先搜索` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
