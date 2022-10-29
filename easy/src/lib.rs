@@ -27,3 +27,5 @@ pub mod sqrtx;
 pub mod climbing_stairs;
 #[path="remove-duplicates-from-sorted-list/mod.rs"]
 pub mod remove_duplicates_from_sorted_list;
+#[path="merge-sorted-array/mod.rs"]
+pub mod merge_sorted_array;

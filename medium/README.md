@@ -51,3 +51,6 @@
 | [80. 删除有序数组中的重复项 II](src/remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.md) | `双指针` |
 | [81. 搜索旋转排序数组 II](src/search-in-rotated-sorted-array-ii/search-in-rotated-sorted-array-ii.md) | `二分查找` |
 | [82. 删除排序链表中的重复元素 II](src/remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.md) | `链表` `双指针` |
+| [86. 分隔链表](src/partition-list/partition-list.md) | `链表` `双指针` |
+| [89. 格雷编码](src/gray-code/gray-code.md) | `数学` |
+| [90. 子集 II](src/subsets-ii/subsets-ii.md) | `回溯` `子集` |

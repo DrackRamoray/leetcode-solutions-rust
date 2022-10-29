@@ -19,3 +19,4 @@
 | [76. 最小覆盖子串](src/minimum-window-substring/minimum-window-substring.md) | `滑动窗口`  |
 | [84. 柱状图中最大的矩形](src/largest-rectangle-in-histogram/largest-rectangle-in-histogram.md) | `单调栈`  |
 | [85. 最大矩形](src/maximal-rectangle/maximal-rectangle.md) | `动态规划`  |
+| [87. 扰乱字符串](src/scramble-string/scramble-string.md) | `记忆化搜索`  |

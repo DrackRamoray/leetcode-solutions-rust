@@ -13,10 +13,10 @@ impl ListNode {
     }
   }
 
-  pub fn from_vec(nums: Vec<i32>) -> Option<Box<ListNode>> {
+  pub fn from_vec(mut nums: Vec<i32>) -> Option<Box<ListNode>> {
     let mut head: Option<Box<ListNode>> = None;
 
-    for num in nums.into_iter().rev() {
+    while let Some(num) = nums.pop() {
       if let Some(mut h) = head {
         h.next = Some(Box::new(ListNode::new(num)));
         head = Some(h);

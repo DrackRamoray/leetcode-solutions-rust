@@ -16,6 +16,7 @@
 | [69. x 的平方根 ](easy/src/sqrtx/sqrtx.md)  | `二分查找`   |
 | [70. 爬楼梯](easy/src/climbing-stairs/climbing-stairs.md)  | `动态规划`   |
 | [83. 删除排序链表中的重复元素](easy/src/remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.md)  | `链表`   |
+| [88. 合并两个有序数组](easy/src/merge-sorted-array/merge-sorted-array.md)  | `双指针`   |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -71,6 +72,9 @@
 | [80. 删除有序数组中的重复项 II](medium/src/remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.md) | `双指针` |
 | [81. 搜索旋转排序数组 II](medium/src/search-in-rotated-sorted-array-ii/search-in-rotated-sorted-array-ii.md) | `二分查找` |
 | [82. 删除排序链表中的重复元素 II](medium/src/remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.md) | `链表` `双指针` |
+| [86. 分隔链表](medium/src/partition-list/partition-list.md) | `链表` `双指针` |
+| [89. 格雷编码](medium/src/gray-code/gray-code.md) | `数学` |
+| [90. 子集 II](medium/src/subsets-ii/subsets-ii.md) | `回溯` `子集` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -94,3 +98,4 @@
 | [76. 最小覆盖子串](hard/src/minimum-window-substring/minimum-window-substring.md) | `滑动窗口`  |
 | [84. 柱状图中最大的矩形](hard/src/largest-rectangle-in-histogram/largest-rectangle-in-histogram.md) | `单调栈`  |
 | [85. 最大矩形](hard/src/maximal-rectangle/maximal-rectangle.md) | `动态规划`  |
+| [87. 扰乱字符串](hard/src/scramble-string/scramble-string.md) | `记忆化搜索`  |

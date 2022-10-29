@@ -36,3 +36,5 @@ pub mod minimum_window_substring;
 pub mod largest_rectangle_in_histogram;
 #[path="maximal-rectangle/mod.rs"]
 pub mod maximal_rectangle;
+#[path="scramble-string/mod.rs"]
+pub mod scramble_string;

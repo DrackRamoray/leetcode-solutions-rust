@@ -97,3 +97,9 @@ pub mod remove_duplicates_from_sorted_array_ii;
 pub mod search_in_rotated_sorted_array_ii;
 #[path="remove-duplicates-from-sorted-list-ii/mod.rs"]
 pub mod remove_duplicates_from_sorted_list_ii;
+#[path="partition-list/mod.rs"]
+pub mod partition_list;
+#[path="gray-code/mod.rs"]
+pub mod gray_code;
+#[path="subsets-ii/mod.rs"]
+pub mod subsets_ii;
