@@ -54,3 +54,7 @@
 | [86. 分隔链表](src/partition-list/partition-list.md) | `链表` `双指针` |
 | [89. 格雷编码](src/gray-code/gray-code.md) | `数学` |
 | [90. 子集 II](src/subsets-ii/subsets-ii.md) | `回溯` `子集` |
+| [91. 解码方法](src/decode-ways/decode-ways.md) | `动态规划` |
+| [92. 反转链表 II](src/reverse-linked-list-ii/reverse-linked-list-ii.md) | `链表` |
+| [93. 复原 IP 地址](src/restore-ip-addresses/restore-ip-addresses.md) | `回溯` |
+| [95. 不同的二叉搜索树 II](src/unique-binary-search-trees-ii/unique-binary-search-trees-ii.md) | `回溯` `递归` |

@@ -29,3 +29,5 @@ pub mod climbing_stairs;
 pub mod remove_duplicates_from_sorted_list;
 #[path="merge-sorted-array/mod.rs"]
 pub mod merge_sorted_array;
+#[path="binary-tree-inorder-traversal/mod.rs"]
+pub mod binary_tree_inorder_traversal;

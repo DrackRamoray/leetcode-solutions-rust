@@ -16,3 +16,4 @@
 | [70. 爬楼梯](src/climbing-stairs/climbing-stairs.md)  | `动态规划`   |
 | [83. 删除排序链表中的重复元素](src/remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.md)  | `链表`   |
 | [88. 合并两个有序数组](src/merge-sorted-array/merge-sorted-array.md)  | `双指针`   |
+| [94. 二叉树的中序遍历](src/binary-tree-inorder-traversal/binary-tree-inorder-traversal.md)  | `栈`   |

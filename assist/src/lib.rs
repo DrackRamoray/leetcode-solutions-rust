@@ -1,3 +1,6 @@
+use std::rc::Rc;
+use std::cell::RefCell;
+
 #[derive(PartialEq, Eq, Clone, Debug)]
 pub struct ListNode {
   pub val: i32,
@@ -25,4 +28,40 @@ impl ListNode {
 
     head
   }
+}
+
+#[derive(Debug, PartialEq, Eq)]
+pub struct TreeNode {
+  pub val: i32,
+  pub left: Option<Rc<RefCell<TreeNode>>>,
+  pub right: Option<Rc<RefCell<TreeNode>>>,
+}
+
+impl TreeNode {
+  #[inline]
+  pub fn new(val: i32) -> Self {
+    TreeNode {
+      val,
+      left: None,
+      right: None
+    }
+  }
+}
+
+#[macro_export]
+macro_rules! tree {
+    ($v:expr) => {
+        Some(Rc::new(RefCell::new(TreeNode {
+            val: $v,
+            left: None,
+            right: None,
+        })))
+    };
+    ($v:expr, $l:expr, $r:expr) => {
+        Some(Rc::new(RefCell::new(TreeNode {
+            val: $v,
+            left: $l,
+            right: $r,
+        })))
+    };
 }

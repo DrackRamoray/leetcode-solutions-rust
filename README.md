@@ -17,6 +17,7 @@
 | [70. 爬楼梯](easy/src/climbing-stairs/climbing-stairs.md)  | `动态规划`   |
 | [83. 删除排序链表中的重复元素](easy/src/remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.md)  | `链表`   |
 | [88. 合并两个有序数组](easy/src/merge-sorted-array/merge-sorted-array.md)  | `双指针`   |
+| [94. 二叉树的中序遍历](easy/src/binary-tree-inorder-traversal/binary-tree-inorder-traversal.md)  | `栈`   |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -75,6 +76,10 @@
 | [86. 分隔链表](medium/src/partition-list/partition-list.md) | `链表` `双指针` |
 | [89. 格雷编码](medium/src/gray-code/gray-code.md) | `数学` |
 | [90. 子集 II](medium/src/subsets-ii/subsets-ii.md) | `回溯` `子集` |
+| [91. 解码方法](medium/src/decode-ways/decode-ways.md) | `动态规划` |
+| [92. 反转链表 II](medium/src/reverse-linked-list-ii/reverse-linked-list-ii.md) | `链表` |
+| [93. 复原 IP 地址](medium/src/restore-ip-addresses/restore-ip-addresses.md) | `回溯` |
+| [95. 不同的二叉搜索树 II](medium/src/unique-binary-search-trees-ii/unique-binary-search-trees-ii.md) | `回溯` `递归` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |

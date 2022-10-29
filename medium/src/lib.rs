@@ -103,3 +103,11 @@ pub mod partition_list;
 pub mod gray_code;
 #[path="subsets-ii/mod.rs"]
 pub mod subsets_ii;
+#[path="decode-ways/mod.rs"]
+pub mod decode_ways;
+#[path="reverse-linked-list-ii/mod.rs"]
+pub mod reverse_linked_list_ii;
+#[path="restore-ip-addresses/mod.rs"]
+pub mod restore_ip_addresses;
+#[path="unique-binary-search-trees-ii/mod.rs"]
+pub mod unique_binary_search_trees_ii;
