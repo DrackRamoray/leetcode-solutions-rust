@@ -19,6 +19,8 @@
 | [88. 合并两个有序数组](easy/src/merge-sorted-array/merge-sorted-array.md)  | `双指针`   |
 | [94. 二叉树的中序遍历](easy/src/binary-tree-inorder-traversal/binary-tree-inorder-traversal.md)  | `栈`   |
 | [100. 相同的树](easy/src/same-tree/same-tree.md)  | `深度优先搜索`   |
+| [101. 对称二叉树](easy/src/symmetric-tree/symmetric-tree.md)  | `队列`   |
+| [104. 二叉树的最大深度](easy/src/maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.md) | `深度优先搜索` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -85,6 +87,9 @@
 | [97. 交错字符串](medium/src/interleaving-string/interleaving-string.md) | `动态规划` |
 | [98. 验证二叉搜索树](medium/src/validate-binary-search-tree/validate-binary-search-tree.md) | `深度优先搜索` |
 | [99. 恢复二叉搜索树](medium/src/recover-binary-search-tree/recover-binary-search-tree.md) | `深度优先搜索` |
+| [102. 二叉树的层序遍历](medium/src/binary-tree-level-order-traversal/binary-tree-level-order-traversal.md) | `层序遍历` |
+| [103. 二叉树的锯齿形层序遍历](medium/src/binary-tree-zigzag-level-order-traversal/binary-tree-zigzag-level-order-traversal.md) | `层序遍历` |
+| [105. 从前序与中序遍历序列构造二叉树](medium/src/construct-binary-tree-from-preorder-and-inorder-traversal/construct-binary-tree-from-preorder-and-inorder-traversal.md) | `分治` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |

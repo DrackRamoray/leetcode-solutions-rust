@@ -33,3 +33,7 @@ pub mod merge_sorted_array;
 pub mod binary_tree_inorder_traversal;
 #[path="same-tree/mod.rs"]
 pub mod same_tree;
+#[path="symmetric-tree/mod.rs"]
+pub mod symmetric_tree;
+#[path="maximum-depth-of-binary-tree/mod.rs"]
+pub mod maximum_depth_of_binary_tree;

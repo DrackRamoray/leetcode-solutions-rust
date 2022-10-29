@@ -18,3 +18,5 @@
 | [88. 合并两个有序数组](src/merge-sorted-array/merge-sorted-array.md)  | `双指针`   |
 | [94. 二叉树的中序遍历](src/binary-tree-inorder-traversal/binary-tree-inorder-traversal.md)  | `栈`   |
 | [100. 相同的树](src/same-tree/same-tree.md)  | `深度优先搜索`   |
+| [101. 对称二叉树](src/symmetric-tree/symmetric-tree.md)  | `队列`   |
+| [104. 二叉树的最大深度](src/maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.md) | `深度优先搜索` |
