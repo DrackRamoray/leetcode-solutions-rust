@@ -20,3 +20,7 @@
 | [100. 相同的树](src/same-tree/same-tree.md)  | `深度优先搜索`   |
 | [101. 对称二叉树](src/symmetric-tree/symmetric-tree.md)  | `队列`   |
 | [104. 二叉树的最大深度](src/maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.md) | `深度优先搜索` |
+| [108. 将有序数组转换为二叉搜索树](src/convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.md) | `递归` |
+| [110. 平衡二叉树](src/balanced-binary-tree/balanced-binary-tree.md) | `深度优先搜索` |
+| [111. 二叉树的最小深度](src/minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.md) | `深度优先搜索` |
+| [112. 路径总和](src/path-sum/path-sum.md) | `深度优先搜索` |

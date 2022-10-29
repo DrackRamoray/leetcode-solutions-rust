@@ -47,7 +47,7 @@ mod tests {
     fn it_works() {
         let l1 = ListNode::from_vec(vec![2,4,3]);
         let l2 = ListNode::from_vec(vec![5,6,4]);
-        let ans = ListNode::from_vec(vec![8,0,7]);
+        let ans = ListNode::from_vec(vec![7,0,8]);
         assert_eq!(Solution::add_two_numbers(l1, l2), ans);
         let l1 = ListNode::from_vec(vec![0]);
         let l2 = ListNode::from_vec(vec![0]);

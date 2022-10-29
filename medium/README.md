@@ -64,4 +64,7 @@
 | [99. 恢复二叉搜索树](src/recover-binary-search-tree/recover-binary-search-tree.md) | `深度优先搜索` |
 | [102. 二叉树的层序遍历](src/binary-tree-level-order-traversal/binary-tree-level-order-traversal.md) | `层序遍历` |
 | [103. 二叉树的锯齿形层序遍历](src/binary-tree-zigzag-level-order-traversal/binary-tree-zigzag-level-order-traversal.md) | `层序遍历` |
-| [105. 从前序与中序遍历序列构造二叉树](src/construct-binary-tree-from-preorder-and-inorder-traversal/construct-binary-tree-from-preorder-and-inorder-traversal.md) | `分治` |
+| [105. 从前序与中序遍历序列构造二叉树](src/construct-binary-tree-from-preorder-and-inorder-traversal/construct-binary-tree-from-preorder-and-inorder-traversal.md) | `递归` |
+| [106. 从中序与后序遍历序列构造二叉树](src/construct-binary-tree-from-inorder-and-postorder-traversal/construct-binary-tree-from-inorder-and-postorder-traversal.md) | `递归` |
+| [107. 二叉树的层序遍历 II](src/binary-tree-level-order-traversal-ii/binary-tree-level-order-traversal-ii.md) | `层序遍历` |
+| [109. 有序链表转换二叉搜索树](src/convert-sorted-list-to-binary-search-tree/convert-sorted-list-to-binary-search-tree.md) | `递归` |

@@ -37,3 +37,11 @@ pub mod same_tree;
 pub mod symmetric_tree;
 #[path="maximum-depth-of-binary-tree/mod.rs"]
 pub mod maximum_depth_of_binary_tree;
+#[path="convert-sorted-array-to-binary-search-tree/mod.rs"]
+pub mod convert_sorted_array_to_binary_search_tree;
+#[path="balanced-binary-tree/mod.rs"]
+pub mod balanced_binary_tree;
+#[path="minimum-depth-of-binary-tree/mod.rs"]
+pub mod minimum_depth_of_binary_tree;
+#[path="path-sum/mod.rs"]
+pub mod path_sum;

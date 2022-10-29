@@ -36,7 +36,7 @@ mod tests {
     fn it_works() {
         let l1 = ListNode::from_vec(vec![1,2,4]);
         let l2 = ListNode::from_vec(vec![1,3,4]);
-        let l3 = ListNode::from_vec(vec![1,1,2,3,4]);
+        let l3 = ListNode::from_vec(vec![1,1,2,3,4,4]);
         assert_eq!(Solution::merge_two_lists(l1, l2), l3);
         assert_eq!(Solution::merge_two_lists(None, None), None);
         assert_eq!(Solution::merge_two_lists(None, ListNode::from_vec(vec![1])), ListNode::from_vec(vec![1]));

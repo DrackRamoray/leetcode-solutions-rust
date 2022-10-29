@@ -125,3 +125,9 @@ pub mod binary_tree_level_order_traversal;
 pub mod binary_tree_zigzag_level_order_traversal;
 #[path="construct-binary-tree-from-preorder-and-inorder-traversal/mod.rs"]
 pub mod construct_binary_tree_from_preorder_and_inorder_traversal;
+#[path="construct-binary-tree-from-inorder-and-postorder-traversal/mod.rs"]
+pub mod construct_binary_tree_from_inorder_and_postorder_traversal;
+#[path="binary-tree-level-order-traversal-ii/mod.rs"]
+pub mod binary_tree_level_order_traversal_ii;
+#[path="convert-sorted-list-to-binary-search-tree/mod.rs"]
+pub mod convert_sorted_list_to_binary_search_tree;
