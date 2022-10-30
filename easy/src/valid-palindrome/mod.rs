@@ -2,7 +2,7 @@ pub struct Solution;
 
 impl Solution {
     pub fn is_palindrome(s: String) -> bool {
-        let mut bytes = s.into_bytes();
+        let bytes = s.into_bytes();
         let mut lo = 0;
         let mut hi = bytes.len() - 1;
 

@@ -132,3 +132,5 @@
 | [115. 不同的子序列](hard/src/distinct-subsequences/distinct-subsequences.md) | `动态规划`  |
 | [123. 买卖股票的最佳时机 III](hard/src/best-time-to-buy-and-sell-stock-iii/best-time-to-buy-and-sell-stock-iii.md) | `动态规划`  |
 | [124. 二叉树中的最大路径和](hard/src/binary-tree-maximum-path-sum/binary-tree-maximum-path-sum.md) | `动态规划`  |
+| [126. 单词接龙 II](hard/src/word-ladder-ii/word-ladder-ii.md) | `广度优先搜索`  |
+| [127. 单词接龙](hard/src/word-ladder/word-ladder.md) | `广度优先搜索`  |

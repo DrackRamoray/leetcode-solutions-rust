@@ -44,3 +44,7 @@ pub mod distinct_subsequences;
 pub mod best_time_to_buy_and_sell_stock_iii;
 #[path="binary-tree-maximum-path-sum/mod.rs"]
 pub mod binary_tree_maximum_path_sum;
+#[path="word-ladder-ii/mod.rs"]
+pub mod word_ladder_ii;
+#[path="word-ladder/mod.rs"]
+pub mod word_ladder;
