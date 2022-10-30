@@ -29,3 +29,4 @@
 | [135. 分发糖果](src/candy/candy.md) | `贪心`  |
 | [140. 单词拆分 II](src/word-break-ii/word-break-ii.md) | `回溯`  |
 | [149. 直线上最多的点数](src/max-points-on-a-line/max-points-on-a-line.md) | `数学`  |
+| [154. 寻找旋转排序数组中的最小值 II](src/find-minimum-in-rotated-sorted-array-ii/find-minimum-in-rotated-sorted-array-ii.md) | `二分查找`  |

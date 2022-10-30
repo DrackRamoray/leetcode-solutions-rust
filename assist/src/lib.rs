@@ -16,6 +16,10 @@ impl ListNode {
         }
     }
 
+    pub fn append(val: i32, next: Option<Box<ListNode>>) -> Option<Box<ListNode>> {
+        Some(Box::new(ListNode { val, next }))
+    }
+
     pub fn from_vec(mut nums: Vec<i32>) -> Option<Box<ListNode>> {
         let mut head: Option<Box<ListNode>> = None;
 
@@ -27,6 +31,19 @@ impl ListNode {
 
         head
     }
+}
+
+#[macro_export]
+macro_rules! list {
+    () => {
+        None
+    };
+    ($v:expr) => {
+        ListNode::append($v, None)
+    };
+    ($v:expr, $($tail:tt)*) => {
+        ListNode::append($v, list!($($tail)*))
+    };
 }
 
 #[derive(Debug, PartialEq, Eq)]

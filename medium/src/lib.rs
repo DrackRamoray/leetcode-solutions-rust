@@ -162,3 +162,11 @@ pub mod insertion_sort_list;
 pub mod sort_list;
 #[path="evaluate-reverse-polish-notation/mod.rs"]
 pub mod evaluate_reverse_polish_notation;
+#[path="reverse-words-in-a-string/mod.rs"]
+pub mod reverse_words_in_a_string;
+#[path="maximum-product-subarray/mod.rs"]
+pub mod maximum_product_subarray;
+#[path="find-minimum-in-rotated-sorted-array/mod.rs"]
+pub mod find_minimum_in_rotated_sorted_array;
+#[path="min-stack/mod.rs"]
+pub mod min_stack;

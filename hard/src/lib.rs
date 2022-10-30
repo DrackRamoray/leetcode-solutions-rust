@@ -55,3 +55,5 @@ pub mod candy;
 pub mod word_break_ii;
 #[path="max-points-on-a-line/mod.rs"]
 pub mod max_points_on_a_line;
+#[path="find-minimum-in-rotated-sorted-array-ii/mod.rs"]
+pub mod find_minimum_in_rotated_sorted_array_ii;

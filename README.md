@@ -120,6 +120,10 @@
 | [147. 对链表进行插入排序](medium/src/insertion-sort-list/insertion-sort-list.md) | `链表` |
 | [148. 排序链表](medium/src/sort-list/sort-list.md) | `链表` |
 | [150. 逆波兰表达式求值](medium/src/evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.md) | `栈` |
+| [151. 反转字符串中的单词](medium/src/reverse-words-in-a-string/reverse-words-in-a-string.md) | `字符串` |
+| [152. 乘积最大子数组](medium/src/maximum-product-subarray/maximum-product-subarray.md) | `动态规划` |
+| [153. 寻找旋转排序数组中的最小值](medium/src/find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.md) | `二分查找` |
+| [155. 最小栈](medium/src/min-stack/min-stack.md) | `栈` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -153,3 +157,4 @@
 | [135. 分发糖果](hard/src/candy/candy.md) | `贪心`  |
 | [140. 单词拆分 II](hard/src/word-break-ii/word-break-ii.md) | `回溯`  |
 | [149. 直线上最多的点数](hard/src/max-points-on-a-line/max-points-on-a-line.md) | `数学`  |
+| [154. 寻找旋转排序数组中的最小值 II](hard/src/find-minimum-in-rotated-sorted-array-ii/find-minimum-in-rotated-sorted-array-ii.md) | `二分查找`  |
