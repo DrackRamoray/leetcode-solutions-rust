@@ -45,3 +45,11 @@ pub mod balanced_binary_tree;
 pub mod minimum_depth_of_binary_tree;
 #[path="path-sum/mod.rs"]
 pub mod path_sum;
+#[path="pascals-triangle/mod.rs"]
+pub mod pascals_triangle;
+#[path="pascals-triangle-ii/mod.rs"]
+pub mod pascals_triangle_ii;
+#[path="best-time-to-buy-and-sell-stock/mod.rs"]
+pub mod best_time_to_buy_and_sell_stock;
+#[path="valid-palindrome/mod.rs"]
+pub mod valid_palindrome;

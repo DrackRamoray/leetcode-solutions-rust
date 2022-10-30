@@ -21,3 +21,5 @@
 | [85. 最大矩形](src/maximal-rectangle/maximal-rectangle.md) | `动态规划`  |
 | [87. 扰乱字符串](src/scramble-string/scramble-string.md) | `记忆化搜索`  |
 | [115. 不同的子序列](src/distinct-subsequences/distinct-subsequences.md) | `动态规划`  |
+| [123. 买卖股票的最佳时机 III](src/best-time-to-buy-and-sell-stock-iii/best-time-to-buy-and-sell-stock-iii.md) | `动态规划`  |
+| [124. 二叉树中的最大路径和](src/binary-tree-maximum-path-sum/binary-tree-maximum-path-sum.md) | `动态规划`  |

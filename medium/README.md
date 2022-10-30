@@ -70,3 +70,5 @@
 | [109. 有序链表转换二叉搜索树](src/convert-sorted-list-to-binary-search-tree/convert-sorted-list-to-binary-search-tree.md) | `递归` |
 | [113. 路径总和 II](src/path-sum-ii/path-sum-ii.md) | `回溯` |
 | [114. 二叉树展开为链表](src/flatten-binary-tree-to-linked-list/flatten-binary-tree-to-linked-list.md) | `后序遍历` |
+| [120. 三角形最小路径和](src/triangle/triangle.md) | `动态规划` |
+| [122. 买卖股票的最佳时机 II](src/best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.md) | `动态规划` |

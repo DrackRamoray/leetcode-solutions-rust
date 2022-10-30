@@ -24,3 +24,7 @@
 | [110. 平衡二叉树](src/balanced-binary-tree/balanced-binary-tree.md) | `深度优先搜索` |
 | [111. 二叉树的最小深度](src/minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.md) | `深度优先搜索` |
 | [112. 路径总和](src/path-sum/path-sum.md) | `深度优先搜索` |
+| [118. 杨辉三角](src/pascals-triangle/pascals-triangle.md) | `动态规划` |
+| [119. 杨辉三角 II](src/pascals-triangle-ii/pascals-triangle-ii.md) | `动态规划` |
+| [121. 买卖股票的最佳时机](src/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.md) | `动态规划` |
+| [125. 验证回文串](src/valid-palindrome/valid-palindrome.md) | `双指针` |

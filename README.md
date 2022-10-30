@@ -25,6 +25,10 @@
 | [110. 平衡二叉树](easy/src/balanced-binary-tree/balanced-binary-tree.md) | `深度优先搜索` |
 | [111. 二叉树的最小深度](easy/src/minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.md) | `深度优先搜索` |
 | [112. 路径总和](easy/src/path-sum/path-sum.md) | `深度优先搜索` |
+| [118. 杨辉三角](easy/src/pascals-triangle/pascals-triangle.md) | `动态规划` |
+| [119. 杨辉三角 II](easy/src/pascals-triangle-ii/pascals-triangle-ii.md) | `动态规划` |
+| [121. 买卖股票的最佳时机](easy/src/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.md) | `动态规划` |
+| [125. 验证回文串](easy/src/valid-palindrome/valid-palindrome.md) | `双指针` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -99,6 +103,8 @@
 | [109. 有序链表转换二叉搜索树](medium/src/convert-sorted-list-to-binary-search-tree/convert-sorted-list-to-binary-search-tree.md) | `递归` |
 | [113. 路径总和 II](medium/src/path-sum-ii/path-sum-ii.md) | `回溯` |
 | [114. 二叉树展开为链表](medium/src/flatten-binary-tree-to-linked-list/flatten-binary-tree-to-linked-list.md) | `后序遍历` |
+| [120. 三角形最小路径和](medium/src/triangle/triangle.md) | `动态规划` |
+| [122. 买卖股票的最佳时机 II](medium/src/best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.md) | `动态规划` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -124,3 +130,5 @@
 | [85. 最大矩形](hard/src/maximal-rectangle/maximal-rectangle.md) | `动态规划`  |
 | [87. 扰乱字符串](hard/src/scramble-string/scramble-string.md) | `记忆化搜索`  |
 | [115. 不同的子序列](hard/src/distinct-subsequences/distinct-subsequences.md) | `动态规划`  |
+| [123. 买卖股票的最佳时机 III](hard/src/best-time-to-buy-and-sell-stock-iii/best-time-to-buy-and-sell-stock-iii.md) | `动态规划`  |
+| [124. 二叉树中的最大路径和](hard/src/binary-tree-maximum-path-sum/binary-tree-maximum-path-sum.md) | `动态规划`  |

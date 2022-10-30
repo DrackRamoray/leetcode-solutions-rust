@@ -40,3 +40,7 @@ pub mod maximal_rectangle;
 pub mod scramble_string;
 #[path="distinct-subsequences/mod.rs"]
 pub mod distinct_subsequences;
+#[path="best-time-to-buy-and-sell-stock-iii/mod.rs"]
+pub mod best_time_to_buy_and_sell_stock_iii;
+#[path="binary-tree-maximum-path-sum/mod.rs"]
+pub mod binary_tree_maximum_path_sum;

@@ -135,3 +135,6 @@ pub mod convert_sorted_list_to_binary_search_tree;
 pub mod path_sum_ii;
 #[path="flatten-binary-tree-to-linked-list/mod.rs"]
 pub mod flatten_binary_tree_to_linked_list;
+pub mod triangle;
+#[path="best-time-to-buy-and-sell-stock-ii/mod.rs"]
+pub mod best_time_to_buy_and_sell_stock_ii;
