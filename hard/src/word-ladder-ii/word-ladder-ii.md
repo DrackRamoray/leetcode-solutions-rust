@@ -10,18 +10,20 @@
 
 
 ##### 示例 1：
-
+```
 输入：beginWord = "hit", endWord = "cog", wordList = ["hot","dot","dog","lot","log","cog"]
 输出：[["hit","hot","dot","dog","cog"],["hit","hot","lot","log","cog"]]
 解释：存在 2 种最短的转换序列：
 "hit" -> "hot" -> "dot" -> "dog" -> "cog"
 "hit" -> "hot" -> "lot" -> "log" -> "cog"
-##### 示例 2：
+```
 
+##### 示例 2：
+```
 输入：beginWord = "hit", endWord = "cog", wordList = ["hot","dot","dog","lot","log"]
 输出：[]
 解释：endWord "cog" 不在字典 wordList 中，所以不存在符合要求的转换序列。
-
+```
 
 ##### 提示：
 

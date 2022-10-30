@@ -138,3 +138,9 @@ pub mod flatten_binary_tree_to_linked_list;
 pub mod triangle;
 #[path="best-time-to-buy-and-sell-stock-ii/mod.rs"]
 pub mod best_time_to_buy_and_sell_stock_ii;
+#[path="longest-consecutive-sequence/mod.rs"]
+pub mod longest_consecutive_sequence;
+#[path="sum-root-to-leaf-numbers/mod.rs"]
+pub mod sum_root_to_leaf_numbers;
+#[path="surrounded-regions/mod.rs"]
+pub mod surrounded_regions;

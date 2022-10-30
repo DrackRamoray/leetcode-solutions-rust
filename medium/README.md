@@ -72,3 +72,6 @@
 | [114. 二叉树展开为链表](src/flatten-binary-tree-to-linked-list/flatten-binary-tree-to-linked-list.md) | `后序遍历` |
 | [120. 三角形最小路径和](src/triangle/triangle.md) | `动态规划` |
 | [122. 买卖股票的最佳时机 II](src/best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.md) | `动态规划` |
+| [128. 最长连续序列](src/longest-consecutive-sequence/longest-consecutive-sequence.md) | `哈希` |
+| [129. 求根节点到叶节点数字之和](src/sum-root-to-leaf-numbers/sum-root-to-leaf-numbers.md) | `深度优先搜索` |
+| [130. 被围绕的区域](src/surrounded-regions/surrounded-regions.md) | `深度优先搜索` |
