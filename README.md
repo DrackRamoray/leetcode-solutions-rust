@@ -30,6 +30,8 @@
 | [121. 买卖股票的最佳时机](easy/src/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.md) | `动态规划` |
 | [125. 验证回文串](easy/src/valid-palindrome/valid-palindrome.md) | `双指针` |
 | [136. 只出现一次的数字](easy/src/single-number/single-number.md) | `位运算` |
+| [144. 二叉树的前序遍历](easy/src/binary-tree-preorder-traversal/binary-tree-preorder-traversal.md) | `前序遍历` |
+| [145. 二叉树的后序遍历](easy/src/binary-tree-postorder-traversal/binary-tree-postorder-traversal.md) | `后序遍历` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -113,6 +115,7 @@
 | [134. 加油站](medium/src/gas-station/gas-station.md) | `贪心` |
 | [137. 只出现一次的数字 II](medium/src/single-number-ii/single-number-ii.md) | `位运算` |
 | [139. 单词拆分](medium/src/word-break/word-break.md) | `动态规划` |
+| [143. 重排链表](medium/src/reorder-list/reorder-list.md) | `链表` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |

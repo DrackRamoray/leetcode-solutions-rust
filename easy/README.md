@@ -29,3 +29,5 @@
 | [121. 买卖股票的最佳时机](src/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.md) | `动态规划` |
 | [125. 验证回文串](src/valid-palindrome/valid-palindrome.md) | `双指针` |
 | [136. 只出现一次的数字](src/single-number/single-number.md) | `位运算` |
+| [144. 二叉树的前序遍历](src/binary-tree-preorder-traversal/binary-tree-preorder-traversal.md) | `前序遍历` |
+| [145. 二叉树的后序遍历](src/binary-tree-postorder-traversal/binary-tree-postorder-traversal.md) | `后序遍历` |

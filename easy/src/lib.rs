@@ -55,3 +55,7 @@ pub mod best_time_to_buy_and_sell_stock;
 pub mod valid_palindrome;
 #[path="single-number/mod.rs"]
 pub mod single_number;
+#[path="binary-tree-preorder-traversal/mod.rs"]
+pub mod binary_tree_preorder_traversal;
+#[path="binary-tree-postorder-traversal/mod.rs"]
+pub mod binary_tree_postorder_traversal;

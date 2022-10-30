@@ -79,3 +79,4 @@
 | [134. 加油站](src/gas-station/gas-station.md) | `贪心` |
 | [137. 只出现一次的数字 II](src/single-number-ii/single-number-ii.md) | `位运算` |
 | [139. 单词拆分](src/word-break/word-break.md) | `动态规划` |
+| [143. 重排链表](src/reorder-list/reorder-list.md) | `链表` |
