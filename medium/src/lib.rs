@@ -144,3 +144,7 @@ pub mod longest_consecutive_sequence;
 pub mod sum_root_to_leaf_numbers;
 #[path="surrounded-regions/mod.rs"]
 pub mod surrounded_regions;
+#[path="palindrome-partitioning/mod.rs"]
+pub mod palindrome_partitioning;
+#[path="gas-station/mod.rs"]
+pub mod gas_station;

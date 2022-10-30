@@ -25,3 +25,5 @@
 | [124. 二叉树中的最大路径和](src/binary-tree-maximum-path-sum/binary-tree-maximum-path-sum.md) | `动态规划`  |
 | [126. 单词接龙 II](src/word-ladder-ii/word-ladder-ii.md) | `广度优先搜索`  |
 | [127. 单词接龙](src/word-ladder/word-ladder.md) | `广度优先搜索`  |
+| [132. 分割回文串 II](src/palindrome-partitioning-ii/palindrome-partitioning-ii.md) | `动态规划`  |
+| [135. 分发糖果](src/candy/candy.md) | `贪心`  |

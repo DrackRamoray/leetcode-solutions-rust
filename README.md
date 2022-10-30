@@ -108,6 +108,8 @@
 | [128. 最长连续序列](medium/src/longest-consecutive-sequence/longest-consecutive-sequence.md) | `哈希` |
 | [129. 求根节点到叶节点数字之和](medium/src/sum-root-to-leaf-numbers/sum-root-to-leaf-numbers.md) | `深度优先搜索` |
 | [130. 被围绕的区域](medium/src/surrounded-regions/surrounded-regions.md) | `深度优先搜索` |
+| [131. 分割回文串](medium/src/palindrome-partitioning/palindrome-partitioning.md) | `动态规划` `回溯` |
+| [134. 加油站](medium/src/gas-station/gas-station.md) | `贪心` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -137,3 +139,5 @@
 | [124. 二叉树中的最大路径和](hard/src/binary-tree-maximum-path-sum/binary-tree-maximum-path-sum.md) | `动态规划`  |
 | [126. 单词接龙 II](hard/src/word-ladder-ii/word-ladder-ii.md) | `广度优先搜索`  |
 | [127. 单词接龙](hard/src/word-ladder/word-ladder.md) | `广度优先搜索`  |
+| [132. 分割回文串 II](hard/src/palindrome-partitioning-ii/palindrome-partitioning-ii.md) | `动态规划`  |
+| [135. 分发糖果](hard/src/candy/candy.md) | `贪心`  |

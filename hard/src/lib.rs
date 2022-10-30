@@ -48,3 +48,6 @@ pub mod binary_tree_maximum_path_sum;
 pub mod word_ladder_ii;
 #[path="word-ladder/mod.rs"]
 pub mod word_ladder;
+#[path="palindrome-partitioning-ii/mod.rs"]
+pub mod palindrome_partitioning_ii;
+pub mod candy;

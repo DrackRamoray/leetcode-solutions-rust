@@ -75,3 +75,5 @@
 | [128. 最长连续序列](src/longest-consecutive-sequence/longest-consecutive-sequence.md) | `哈希` |
 | [129. 求根节点到叶节点数字之和](src/sum-root-to-leaf-numbers/sum-root-to-leaf-numbers.md) | `深度优先搜索` |
 | [130. 被围绕的区域](src/surrounded-regions/surrounded-regions.md) | `深度优先搜索` |
+| [131. 分割回文串](src/palindrome-partitioning/palindrome-partitioning.md) | `动态规划` `回溯` |
+| [134. 加油站](src/gas-station/gas-station.md) | `贪心` |
