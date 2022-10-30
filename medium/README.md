@@ -88,3 +88,5 @@
 | [152. 乘积最大子数组](src/maximum-product-subarray/maximum-product-subarray.md) | `动态规划` |
 | [153. 寻找旋转排序数组中的最小值](src/find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.md) | `二分查找` |
 | [155. 最小栈](src/min-stack/min-stack.md) | `栈` |
+| [156. 上下翻转二叉树](src/binary-tree-upside-down/binary-tree-upside-down.md) | `深度优先搜索` |
+| [159. 至多包含两个不同字符的最长子串](src/longest-substring-with-at-most-two-distinct-characters/longest-substring-with-at-most-two-distinct-characters.md) | `滑动窗口` |

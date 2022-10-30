@@ -32,6 +32,7 @@
 | [136. 只出现一次的数字](easy/src/single-number/single-number.md) | `位运算` |
 | [144. 二叉树的前序遍历](easy/src/binary-tree-preorder-traversal/binary-tree-preorder-traversal.md) | `前序遍历` |
 | [145. 二叉树的后序遍历](easy/src/binary-tree-postorder-traversal/binary-tree-postorder-traversal.md) | `后序遍历` |
+| [157. 用 Read4 读取 N 个字符](easy/src/read-n-characters-given-read4/read-n-characters-given-read4.md) | `字符串` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -124,6 +125,8 @@
 | [152. 乘积最大子数组](medium/src/maximum-product-subarray/maximum-product-subarray.md) | `动态规划` |
 | [153. 寻找旋转排序数组中的最小值](medium/src/find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.md) | `二分查找` |
 | [155. 最小栈](medium/src/min-stack/min-stack.md) | `栈` |
+| [156. 上下翻转二叉树](medium/src/binary-tree-upside-down/binary-tree-upside-down.md) | `深度优先搜索` |
+| [159. 至多包含两个不同字符的最长子串](medium/src/longest-substring-with-at-most-two-distinct-characters/longest-substring-with-at-most-two-distinct-characters.md) | `滑动窗口` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |

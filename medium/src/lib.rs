@@ -170,3 +170,7 @@ pub mod maximum_product_subarray;
 pub mod find_minimum_in_rotated_sorted_array;
 #[path="min-stack/mod.rs"]
 pub mod min_stack;
+#[path="binary-tree-upside-down/mod.rs"]
+pub mod binary_tree_upside_down;
+#[path="longest-substring-with-at-most-two-distinct-characters/mod.rs"]
+pub mod longest_substring_with_at_most_two_distinct_characters;
