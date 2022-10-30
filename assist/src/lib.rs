@@ -64,3 +64,10 @@ macro_rules! tree {
         })))
     };
 }
+
+#[macro_export]
+macro_rules! vec_stringify {
+    ($v: expr) => {
+        $v.iter().map(|v| v.to_string()).collect::<Vec<_>>()
+    };
+}

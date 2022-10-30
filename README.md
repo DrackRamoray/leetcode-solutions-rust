@@ -29,6 +29,7 @@
 | [119. 杨辉三角 II](easy/src/pascals-triangle-ii/pascals-triangle-ii.md) | `动态规划` |
 | [121. 买卖股票的最佳时机](easy/src/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.md) | `动态规划` |
 | [125. 验证回文串](easy/src/valid-palindrome/valid-palindrome.md) | `双指针` |
+| [136. 只出现一次的数字](easy/src/single-number/single-number.md) | `位运算` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -110,6 +111,8 @@
 | [130. 被围绕的区域](medium/src/surrounded-regions/surrounded-regions.md) | `深度优先搜索` |
 | [131. 分割回文串](medium/src/palindrome-partitioning/palindrome-partitioning.md) | `动态规划` `回溯` |
 | [134. 加油站](medium/src/gas-station/gas-station.md) | `贪心` |
+| [137. 只出现一次的数字 II](medium/src/single-number-ii/single-number-ii.md) | `位运算` |
+| [139. 单词拆分](medium/src/word-break/word-break.md) | `动态规划` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -141,3 +144,4 @@
 | [127. 单词接龙](hard/src/word-ladder/word-ladder.md) | `广度优先搜索`  |
 | [132. 分割回文串 II](hard/src/palindrome-partitioning-ii/palindrome-partitioning-ii.md) | `动态规划`  |
 | [135. 分发糖果](hard/src/candy/candy.md) | `贪心`  |
+| [140. 单词拆分 II](hard/src/word-break-ii/word-break-ii.md) | `回溯`  |

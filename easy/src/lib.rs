@@ -53,3 +53,5 @@ pub mod pascals_triangle_ii;
 pub mod best_time_to_buy_and_sell_stock;
 #[path="valid-palindrome/mod.rs"]
 pub mod valid_palindrome;
+#[path="single-number/mod.rs"]
+pub mod single_number;

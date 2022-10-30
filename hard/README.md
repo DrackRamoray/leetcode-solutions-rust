@@ -27,3 +27,4 @@
 | [127. 单词接龙](src/word-ladder/word-ladder.md) | `广度优先搜索`  |
 | [132. 分割回文串 II](src/palindrome-partitioning-ii/palindrome-partitioning-ii.md) | `动态规划`  |
 | [135. 分发糖果](src/candy/candy.md) | `贪心`  |
+| [140. 单词拆分 II](src/word-break-ii/word-break-ii.md) | `回溯`  |

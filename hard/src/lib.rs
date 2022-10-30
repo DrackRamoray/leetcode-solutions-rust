@@ -51,3 +51,5 @@ pub mod word_ladder;
 #[path="palindrome-partitioning-ii/mod.rs"]
 pub mod palindrome_partitioning_ii;
 pub mod candy;
+#[path="word-break-ii/mod.rs"]
+pub mod word_break_ii;

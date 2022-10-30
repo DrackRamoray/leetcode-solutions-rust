@@ -77,3 +77,5 @@
 | [130. 被围绕的区域](src/surrounded-regions/surrounded-regions.md) | `深度优先搜索` |
 | [131. 分割回文串](src/palindrome-partitioning/palindrome-partitioning.md) | `动态规划` `回溯` |
 | [134. 加油站](src/gas-station/gas-station.md) | `贪心` |
+| [137. 只出现一次的数字 II](src/single-number-ii/single-number-ii.md) | `位运算` |
+| [139. 单词拆分](src/word-break/word-break.md) | `动态规划` |

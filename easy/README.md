@@ -28,3 +28,4 @@
 | [119. 杨辉三角 II](src/pascals-triangle-ii/pascals-triangle-ii.md) | `动态规划` |
 | [121. 买卖股票的最佳时机](src/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.md) | `动态规划` |
 | [125. 验证回文串](src/valid-palindrome/valid-palindrome.md) | `双指针` |
+| [136. 只出现一次的数字](src/single-number/single-number.md) | `位运算` |

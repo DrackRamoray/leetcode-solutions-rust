@@ -148,3 +148,7 @@ pub mod surrounded_regions;
 pub mod palindrome_partitioning;
 #[path="gas-station/mod.rs"]
 pub mod gas_station;
+#[path="single-number-ii/mod.rs"]
+pub mod single_number_ii;
+#[path="word-break/mod.rs"]
+pub mod word_break;
