@@ -116,6 +116,10 @@
 | [137. 只出现一次的数字 II](medium/src/single-number-ii/single-number-ii.md) | `位运算` |
 | [139. 单词拆分](medium/src/word-break/word-break.md) | `动态规划` |
 | [143. 重排链表](medium/src/reorder-list/reorder-list.md) | `链表` |
+| [146. LRU 缓存](medium/src/lru-cache/lru-cache.md) | `哈希` |
+| [147. 对链表进行插入排序](medium/src/insertion-sort-list/insertion-sort-list.md) | `链表` |
+| [148. 排序链表](medium/src/sort-list/sort-list.md) | `链表` |
+| [150. 逆波兰表达式求值](medium/src/evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.md) | `栈` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -148,3 +152,4 @@
 | [132. 分割回文串 II](hard/src/palindrome-partitioning-ii/palindrome-partitioning-ii.md) | `动态规划`  |
 | [135. 分发糖果](hard/src/candy/candy.md) | `贪心`  |
 | [140. 单词拆分 II](hard/src/word-break-ii/word-break-ii.md) | `回溯`  |
+| [149. 直线上最多的点数](hard/src/max-points-on-a-line/max-points-on-a-line.md) | `数学`  |

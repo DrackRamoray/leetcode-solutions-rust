@@ -80,3 +80,7 @@
 | [137. 只出现一次的数字 II](src/single-number-ii/single-number-ii.md) | `位运算` |
 | [139. 单词拆分](src/word-break/word-break.md) | `动态规划` |
 | [143. 重排链表](src/reorder-list/reorder-list.md) | `链表` |
+| [146. LRU 缓存](src/lru-cache/lru-cache.md) | `哈希` |
+| [147. 对链表进行插入排序](src/insertion-sort-list/insertion-sort-list.md) | `链表` |
+| [148. 排序链表](src/sort-list/sort-list.md) | `链表` |
+| [150. 逆波兰表达式求值](src/evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.md) | `栈` |

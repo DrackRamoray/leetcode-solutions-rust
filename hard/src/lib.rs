@@ -53,3 +53,5 @@ pub mod palindrome_partitioning_ii;
 pub mod candy;
 #[path="word-break-ii/mod.rs"]
 pub mod word_break_ii;
+#[path="max-points-on-a-line/mod.rs"]
+pub mod max_points_on_a_line;

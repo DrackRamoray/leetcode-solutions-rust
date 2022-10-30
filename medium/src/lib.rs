@@ -154,3 +154,11 @@ pub mod single_number_ii;
 pub mod word_break;
 #[path="reorder-list/mod.rs"]
 pub mod reorder_list;
+#[path="lru-cache/mod.rs"]
+pub mod lru_cache;
+#[path="insertion-sort-list/mod.rs"]
+pub mod insertion_sort_list;
+#[path="sort-list/mod.rs"]
+pub mod sort_list;
+#[path="evaluate-reverse-polish-notation/mod.rs"]
+pub mod evaluate_reverse_polish_notation;
