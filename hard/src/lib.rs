@@ -38,3 +38,5 @@ pub mod largest_rectangle_in_histogram;
 pub mod maximal_rectangle;
 #[path="scramble-string/mod.rs"]
 pub mod scramble_string;
+#[path="distinct-subsequences/mod.rs"]
+pub mod distinct_subsequences;

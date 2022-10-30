@@ -131,3 +131,7 @@ pub mod construct_binary_tree_from_inorder_and_postorder_traversal;
 pub mod binary_tree_level_order_traversal_ii;
 #[path="convert-sorted-list-to-binary-search-tree/mod.rs"]
 pub mod convert_sorted_list_to_binary_search_tree;
+#[path="path-sum-ii/mod.rs"]
+pub mod path_sum_ii;
+#[path="flatten-binary-tree-to-linked-list/mod.rs"]
+pub mod flatten_binary_tree_to_linked_list;

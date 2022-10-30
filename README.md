@@ -97,6 +97,8 @@
 | [106. 从中序与后序遍历序列构造二叉树](medium/src/construct-binary-tree-from-inorder-and-postorder-traversal/construct-binary-tree-from-inorder-and-postorder-traversal.md) | `递归` |
 | [107. 二叉树的层序遍历 II](medium/src/binary-tree-level-order-traversal-ii/binary-tree-level-order-traversal-ii.md) | `层序遍历` |
 | [109. 有序链表转换二叉搜索树](medium/src/convert-sorted-list-to-binary-search-tree/convert-sorted-list-to-binary-search-tree.md) | `递归` |
+| [113. 路径总和 II](medium/src/path-sum-ii/path-sum-ii.md) | `回溯` |
+| [114. 二叉树展开为链表](medium/src/flatten-binary-tree-to-linked-list/flatten-binary-tree-to-linked-list.md) | `后序遍历` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -121,3 +123,4 @@
 | [84. 柱状图中最大的矩形](hard/src/largest-rectangle-in-histogram/largest-rectangle-in-histogram.md) | `单调栈`  |
 | [85. 最大矩形](hard/src/maximal-rectangle/maximal-rectangle.md) | `动态规划`  |
 | [87. 扰乱字符串](hard/src/scramble-string/scramble-string.md) | `记忆化搜索`  |
+| [115. 不同的子序列](hard/src/distinct-subsequences/distinct-subsequences.md) | `动态规划`  |

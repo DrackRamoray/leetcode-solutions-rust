@@ -68,3 +68,5 @@
 | [106. 从中序与后序遍历序列构造二叉树](src/construct-binary-tree-from-inorder-and-postorder-traversal/construct-binary-tree-from-inorder-and-postorder-traversal.md) | `递归` |
 | [107. 二叉树的层序遍历 II](src/binary-tree-level-order-traversal-ii/binary-tree-level-order-traversal-ii.md) | `层序遍历` |
 | [109. 有序链表转换二叉搜索树](src/convert-sorted-list-to-binary-search-tree/convert-sorted-list-to-binary-search-tree.md) | `递归` |
+| [113. 路径总和 II](src/path-sum-ii/path-sum-ii.md) | `回溯` |
+| [114. 二叉树展开为链表](src/flatten-binary-tree-to-linked-list/flatten-binary-tree-to-linked-list.md) | `后序遍历` |
