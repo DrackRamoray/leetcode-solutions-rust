@@ -196,3 +196,9 @@ pub mod reverse_words_in_a_string_ii;
 pub mod repeated_dna_sequences;
 #[path="rotate-array/mod.rs"]
 pub mod rotate_array;
+#[path="house-robber/mod.rs"]
+pub mod house_robber;
+#[path="binary-tree-right-side-view/mod.rs"]
+pub mod binary_tree_right_side_view;
+#[path="number-of-islands/mod.rs"]
+pub mod number_of_islands;

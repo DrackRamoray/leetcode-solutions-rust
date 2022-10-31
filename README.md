@@ -39,6 +39,7 @@
 | [170. 两数之和 III - 数据结构设计](easy/src/two-sum-iii-data-structure-design/two-sum-iii-data-structure-design.md) | `哈希` |
 | [171. Excel 表列序号](easy/src/excel-sheet-column-number/excel-sheet-column-number.md) | `字符串` |
 | [190. 颠倒二进制位](easy/src/reverse-bits/reverse-bits.md) | `位运算` |
+| [191. 位1的个数](easy/src/number-of-1-bits/number-of-1-bits.md) | `位运算` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -144,6 +145,9 @@
 | [186. 反转字符串中的单词 II](medium/src/reverse-words-in-a-string-ii/reverse-words-in-a-string-ii.md) | `双指针` |
 | [187. 重复的DNA序列](medium/src/repeated-dna-sequences/repeated-dna-sequences.md) | `哈希` |
 | [189. 轮转数组](medium/src/rotate-array/rotate-array.md) | `递归` |
+| [198. 打家劫舍](medium/src/house-robber/house-robber.md) | `动态规划` |
+| [199. 二叉树的右视图](medium/src/binary-tree-right-side-view/binary-tree-right-side-view.md) | `层序遍历` |
+| [200. 岛屿数量](medium/src/number-of-islands/number-of-islands.md) | `深度优先搜索` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |

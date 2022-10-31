@@ -71,3 +71,5 @@ pub mod two_sum_iii_data_structure_design;
 pub mod excel_sheet_column_number;
 #[path="reverse-bits/mod.rs"]
 pub mod reverse_bits;
+#[path="number-of-1-bits/mod.rs"]
+pub mod number_of_1_bits;
