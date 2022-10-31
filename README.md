@@ -46,6 +46,7 @@
 | [206. 反转链表](easy/src/reverse-linked-list/reverse-linked-list.md) | `链表` |
 | [217. 存在重复元素](easy/src/contains-duplicate/contains-duplicate.md) | `哈希` |
 | [219. 存在重复元素 II](easy/src/contains-duplicate-ii/contains-duplicate-ii.md) | `哈希` |
+| [225. 用队列实现栈](easy/src/implement-stack-using-queues/implement-stack-using-queues.md) | `队列` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -164,6 +165,9 @@
 | [213. 打家劫舍 II](medium/src/house-robber-ii/house-robber-ii.md) | `动态规划` |
 | [215. 数组中的第K个最大元素](medium/src/kth-largest-element-in-an-array/kth-largest-element-in-an-array.md) | `优先队列` |
 | [216. 组合总和 III](medium/src/combination-sum-iii/combination-sum-iii.md) | `回溯` |
+| [221. 最大正方形](medium/src/maximal-square/maximal-square.md) | `动态规划` |
+| [222. 完全二叉树的节点个数](medium/src/count-complete-tree-nodes/count-complete-tree-nodes.md) | `层序遍历` |
+| [223. 矩形面积](medium/src/rectangle-area/rectangle-area.md) | `数学` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -205,3 +209,4 @@
 | [214. 最短回文串](hard/src/shortest-palindrome/shortest-palindrome.md) | `字符串` |
 | [218. 天际线问题](hard/src/the-skyline-problem/the-skyline-problem.md) | `队列` |
 | [220. 存在重复元素 III](hard/src/contains-duplicate-iii/contains-duplicate-iii.md) | `滑动窗口` |
+| [224. 基本计算器](hard/src/basic-calculator/basic-calculator.md) | `栈` |

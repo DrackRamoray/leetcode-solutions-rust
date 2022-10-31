@@ -85,3 +85,5 @@ pub mod reverse_linked_list;
 pub mod contains_duplicate;
 #[path="contains-duplicate-ii/mod.rs"]
 pub mod contains_duplicate_ii;
+#[path="implement-stack-using-queues/mod.rs"]
+pub mod implement_stack_using_queues;

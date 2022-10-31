@@ -222,3 +222,9 @@ pub mod house_robber_ii;
 pub mod kth_largest_element_in_an_array;
 #[path="combination-sum-iii/mod.rs"]
 pub mod combination_sum_iii;
+#[path="maximal-square/mod.rs"]
+pub mod maximal_square;
+#[path="count-complete-tree-nodes/mod.rs"]
+pub mod count_complete_tree_nodes;
+#[path="rectangle-area/mod.rs"]
+pub mod rectangle_area;

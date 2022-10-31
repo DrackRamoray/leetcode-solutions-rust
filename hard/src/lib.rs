@@ -71,3 +71,5 @@ pub mod shortest_palindrome;
 pub mod the_skyline_problem;
 #[path="contains-duplicate-iii/mod.rs"]
 pub mod contains_duplicate_iii;
+#[path="basic-calculator/mod.rs"]
+pub mod basic_calculator;

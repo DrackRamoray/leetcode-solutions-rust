@@ -37,3 +37,4 @@
 | [214. 最短回文串](src/shortest-palindrome/shortest-palindrome.md) | `字符串` |
 | [218. 天际线问题](src/the-skyline-problem/the-skyline-problem.md) | `队列` |
 | [220. 存在重复元素 III](src/contains-duplicate-iii/contains-duplicate-iii.md) | `滑动窗口` |
+| [224. 基本计算器](src/basic-calculator/basic-calculator.md) | `栈` |

@@ -114,3 +114,6 @@
 | [213. 打家劫舍 II](src/house-robber-ii/house-robber-ii.md) | `动态规划` |
 | [215. 数组中的第K个最大元素](src/kth-largest-element-in-an-array/kth-largest-element-in-an-array.md) | `优先队列` |
 | [216. 组合总和 III](src/combination-sum-iii/combination-sum-iii.md) | `回溯` |
+| [221. 最大正方形](src/maximal-square/maximal-square.md) | `动态规划` |
+| [222. 完全二叉树的节点个数](src/count-complete-tree-nodes/count-complete-tree-nodes.md) | `层序遍历` |
+| [223. 矩形面积](src/rectangle-area/rectangle-area.md) | `数学` |

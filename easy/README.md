@@ -45,3 +45,4 @@
 | [206. 反转链表](src/reverse-linked-list/reverse-linked-list.md) | `链表` |
 | [217. 存在重复元素](src/contains-duplicate/contains-duplicate.md) | `哈希` |
 | [219. 存在重复元素 II](src/contains-duplicate-ii/contains-duplicate-ii.md) | `哈希` |
+| [225. 用队列实现栈](src/implement-stack-using-queues/implement-stack-using-queues.md) | `队列` |
