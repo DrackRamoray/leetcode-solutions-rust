@@ -59,3 +59,5 @@ pub mod max_points_on_a_line;
 pub mod find_minimum_in_rotated_sorted_array_ii;
 #[path="maximum-gap/mod.rs"]
 pub mod maximum_gap;
+#[path="dungeon-game/mod.rs"]
+pub mod dungeon_game;

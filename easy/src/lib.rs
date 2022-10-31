@@ -67,3 +67,5 @@ pub mod excel_sheet_column_title;
 pub mod majority_element;
 #[path="two-sum-iii-data-structure-design/mod.rs"]
 pub mod two_sum_iii_data_structure_design;
+#[path="excel-sheet-column-number/mod.rs"]
+pub mod excel_sheet_column_number;

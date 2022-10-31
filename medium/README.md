@@ -95,3 +95,6 @@
 | [165. 比较版本号](src/compare-version-numbers/compare-version-numbers.md) | `字符串` |
 | [166. 分数到小数](src/fraction-to-recurring-decimal/fraction-to-recurring-decimal.md) | `字符串` |
 | [167. 两数之和 II - 输入有序数组](src/two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.md) | `二分查找` |
+| [172. 阶乘后的零](src/factorial-trailing-zeroes/factorial-trailing-zeroes.md) | `数学` |
+| [173. 二叉搜索树迭代器](src/binary-search-tree-iterator/binary-search-tree-iterator.md) | `栈` |
+| [179. 最大数](src/largest-number/largest-number.md) | `排序` |

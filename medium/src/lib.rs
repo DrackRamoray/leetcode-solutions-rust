@@ -184,3 +184,9 @@ pub mod compare_version_numbers;
 pub mod fraction_to_recurring_decimal;
 #[path="two-sum-ii-input-array-is-sorted/mod.rs"]
 pub mod two_sum_ii_input_array_is_sorted;
+#[path="factorial-trailing-zeroes/mod.rs"]
+pub mod factorial_trailing_zeroes;
+#[path="binary-search-tree-iterator/mod.rs"]
+pub mod binary_search_tree_iterator;
+#[path="largest-number/mod.rs"]
+pub mod largest_number;

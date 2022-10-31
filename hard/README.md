@@ -31,3 +31,4 @@
 | [149. 直线上最多的点数](src/max-points-on-a-line/max-points-on-a-line.md) | `数学`  |
 | [154. 寻找旋转排序数组中的最小值 II](src/find-minimum-in-rotated-sorted-array-ii/find-minimum-in-rotated-sorted-array-ii.md) | `二分查找`  |
 | [~~164. 最大间距~~](src/maximum-gap/maximum-gap.md) |   |
+| [174. 地下城游戏](src/dungeon-game/dungeon-game.md) | `动态规划` |
