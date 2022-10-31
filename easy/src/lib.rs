@@ -73,3 +73,9 @@ pub mod excel_sheet_column_number;
 pub mod reverse_bits;
 #[path="number-of-1-bits/mod.rs"]
 pub mod number_of_1_bits;
+#[path="happy-number/mod.rs"]
+pub mod happy_number;
+#[path="remove-linked-list-elements/mod.rs"]
+pub mod remove_linked_list_elements;
+#[path="isomorphic-strings/mod.rs"]
+pub mod isomorphic_strings;

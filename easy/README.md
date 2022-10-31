@@ -39,3 +39,6 @@
 | [171. Excel 表列序号](src/excel-sheet-column-number/excel-sheet-column-number.md) | `字符串` |
 | [190. 颠倒二进制位](src/reverse-bits/reverse-bits.md) | `位运算` |
 | [191. 位1的个数](src/number-of-1-bits/number-of-1-bits.md) | `位运算` |
+| [202. 快乐数](src/happy-number/happy-number.md) | `双指针` |
+| [203. 移除链表元素](src/remove-linked-list-elements/remove-linked-list-elements.md) | `链表` |
+| [205. 同构字符串](src/isomorphic-strings/isomorphic-strings.md) | `哈希表` |

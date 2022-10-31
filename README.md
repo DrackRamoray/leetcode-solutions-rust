@@ -40,6 +40,9 @@
 | [171. Excel 表列序号](easy/src/excel-sheet-column-number/excel-sheet-column-number.md) | `字符串` |
 | [190. 颠倒二进制位](easy/src/reverse-bits/reverse-bits.md) | `位运算` |
 | [191. 位1的个数](easy/src/number-of-1-bits/number-of-1-bits.md) | `位运算` |
+| [202. 快乐数](easy/src/happy-number/happy-number.md) | `双指针` |
+| [203. 移除链表元素](easy/src/remove-linked-list-elements/remove-linked-list-elements.md) | `链表` |
+| [205. 同构字符串](easy/src/isomorphic-strings/isomorphic-strings.md) | `哈希表` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -148,6 +151,8 @@
 | [198. 打家劫舍](medium/src/house-robber/house-robber.md) | `动态规划` |
 | [199. 二叉树的右视图](medium/src/binary-tree-right-side-view/binary-tree-right-side-view.md) | `层序遍历` |
 | [200. 岛屿数量](medium/src/number-of-islands/number-of-islands.md) | `深度优先搜索` |
+| [201. 数字范围按位与](medium/src/bitwise-and-of-numbers-range/bitwise-and-of-numbers-range.md) | `位运算` |
+| [204. 计数质数](medium/src/count-primes/count-primes.md) | `数学` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |

@@ -202,3 +202,7 @@ pub mod house_robber;
 pub mod binary_tree_right_side_view;
 #[path="number-of-islands/mod.rs"]
 pub mod number_of_islands;
+#[path="bitwise-and-of-numbers-range/mod.rs"]
+pub mod bitwise_and_of_numbers_range;
+#[path="count-primes/mod.rs"]
+pub mod count_primes;

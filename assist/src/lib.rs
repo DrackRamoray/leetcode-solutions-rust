@@ -36,7 +36,7 @@ impl ListNode {
 #[macro_export]
 macro_rules! list {
     () => {
-        None
+        None as Option<Box<ListNoe>>
     };
     ($v:expr) => {
         ListNode::append($v, None)

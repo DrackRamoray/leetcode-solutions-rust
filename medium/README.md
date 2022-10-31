@@ -104,3 +104,5 @@
 | [198. 打家劫舍](src/house-robber/house-robber.md) | `动态规划` |
 | [199. 二叉树的右视图](src/binary-tree-right-side-view/binary-tree-right-side-view.md) | `层序遍历` |
 | [200. 岛屿数量](src/number-of-islands/number-of-islands.md) | `深度优先搜索` |
+| [201. 数字范围按位与](src/bitwise-and-of-numbers-range/bitwise-and-of-numbers-range.md) | `位运算` |
+| [204. 计数质数](src/count-primes/count-primes.md) | `数学` |
