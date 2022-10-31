@@ -106,3 +106,7 @@
 | [200. 岛屿数量](src/number-of-islands/number-of-islands.md) | `深度优先搜索` |
 | [201. 数字范围按位与](src/bitwise-and-of-numbers-range/bitwise-and-of-numbers-range.md) | `位运算` |
 | [204. 计数质数](src/count-primes/count-primes.md) | `数学` |
+| [207. 课程表](src/course-schedule/course-schedule.md) | `图` |
+| [208. 实现 Trie (前缀树)](src/implement-trie-prefix-tree/implement-trie-prefix-tree.md) | `trie` |
+| [209. 长度最小的子数组](src/minimum-size-subarray-sum/minimum-size-subarray-sum.md) | `前缀和` `滑动窗口` |
+| [210. 课程表 II](src/course-schedule-ii/course-schedule-ii.md) | `图` |

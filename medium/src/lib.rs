@@ -206,3 +206,11 @@ pub mod number_of_islands;
 pub mod bitwise_and_of_numbers_range;
 #[path="count-primes/mod.rs"]
 pub mod count_primes;
+#[path="course-schedule/mod.rs"]
+pub mod course_schedule;
+#[path="implement-trie-prefix-tree/mod.rs"]
+pub mod implement_trie_prefix_tree;
+#[path="minimum-size-subarray-sum/mod.rs"]
+pub mod minimum_size_subarray_sum;
+#[path="course-schedule-ii/mod.rs"]
+pub mod course_schedule_ii;

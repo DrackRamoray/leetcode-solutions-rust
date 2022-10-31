@@ -42,3 +42,4 @@
 | [202. 快乐数](src/happy-number/happy-number.md) | `双指针` |
 | [203. 移除链表元素](src/remove-linked-list-elements/remove-linked-list-elements.md) | `链表` |
 | [205. 同构字符串](src/isomorphic-strings/isomorphic-strings.md) | `哈希表` |
+| [206. 反转链表](src/reverse-linked-list/reverse-linked-list.md) | `链表` |

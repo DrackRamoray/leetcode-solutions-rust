@@ -79,3 +79,5 @@ pub mod happy_number;
 pub mod remove_linked_list_elements;
 #[path="isomorphic-strings/mod.rs"]
 pub mod isomorphic_strings;
+#[path="reverse-linked-list/mod.rs"]
+pub mod reverse_linked_list;

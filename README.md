@@ -43,6 +43,7 @@
 | [202. 快乐数](easy/src/happy-number/happy-number.md) | `双指针` |
 | [203. 移除链表元素](easy/src/remove-linked-list-elements/remove-linked-list-elements.md) | `链表` |
 | [205. 同构字符串](easy/src/isomorphic-strings/isomorphic-strings.md) | `哈希表` |
+| [206. 反转链表](easy/src/reverse-linked-list/reverse-linked-list.md) | `链表` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -153,6 +154,10 @@
 | [200. 岛屿数量](medium/src/number-of-islands/number-of-islands.md) | `深度优先搜索` |
 | [201. 数字范围按位与](medium/src/bitwise-and-of-numbers-range/bitwise-and-of-numbers-range.md) | `位运算` |
 | [204. 计数质数](medium/src/count-primes/count-primes.md) | `数学` |
+| [207. 课程表](medium/src/course-schedule/course-schedule.md) | `图`  |
+| [208. 实现 Trie (前缀树)](medium/src/implement-trie-prefix-tree/implement-trie-prefix-tree.md) | `trie` |
+| [209. 长度最小的子数组](medium/src/minimum-size-subarray-sum/minimum-size-subarray-sum.md) | `前缀和` `滑动窗口` |
+| [210. 课程表 II](medium/src/course-schedule-ii/course-schedule-ii.md) | `图` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
