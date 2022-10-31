@@ -190,3 +190,9 @@ pub mod factorial_trailing_zeroes;
 pub mod binary_search_tree_iterator;
 #[path="largest-number/mod.rs"]
 pub mod largest_number;
+#[path="reverse-words-in-a-string-ii/mod.rs"]
+pub mod reverse_words_in_a_string_ii;
+#[path="repeated-dna-sequences/mod.rs"]
+pub mod repeated_dna_sequences;
+#[path="rotate-array/mod.rs"]
+pub mod rotate_array;

@@ -69,3 +69,5 @@ pub mod majority_element;
 pub mod two_sum_iii_data_structure_design;
 #[path="excel-sheet-column-number/mod.rs"]
 pub mod excel_sheet_column_number;
+#[path="reverse-bits/mod.rs"]
+pub mod reverse_bits;

@@ -32,3 +32,4 @@
 | [154. 寻找旋转排序数组中的最小值 II](src/find-minimum-in-rotated-sorted-array-ii/find-minimum-in-rotated-sorted-array-ii.md) | `二分查找`  |
 | [~~164. 最大间距~~](src/maximum-gap/maximum-gap.md) |   |
 | [174. 地下城游戏](src/dungeon-game/dungeon-game.md) | `动态规划` |
+| [~~188. 买卖股票的最佳时机 IV~~](src/best-time-to-buy-and-sell-stock-iv/best-time-to-buy-and-sell-stock-iv.md) |  |

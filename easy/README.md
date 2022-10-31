@@ -37,3 +37,4 @@
 | [169. 多数元素](src/majority-element/majority-element.md) | `计数` |
 | [170. 两数之和 III - 数据结构设计](src/two-sum-iii-data-structure-design/two-sum-iii-data-structure-design.md) | `哈希` |
 | [171. Excel 表列序号](src/excel-sheet-column-number/excel-sheet-column-number.md) | `字符串` |
+| [190. 颠倒二进制位](src/reverse-bits/reverse-bits.md) | `位运算` |

@@ -98,3 +98,6 @@
 | [172. 阶乘后的零](src/factorial-trailing-zeroes/factorial-trailing-zeroes.md) | `数学` |
 | [173. 二叉搜索树迭代器](src/binary-search-tree-iterator/binary-search-tree-iterator.md) | `栈` |
 | [179. 最大数](src/largest-number/largest-number.md) | `排序` |
+| [186. 反转字符串中的单词 II](src/reverse-words-in-a-string-ii/reverse-words-in-a-string-ii.md) | `双指针` |
+| [187. 重复的DNA序列](src/repeated-dna-sequences/repeated-dna-sequences.md) | `哈希` |
+| [189. 轮转数组](src/rotate-array/rotate-array.md) | `递归` |

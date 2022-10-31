@@ -61,3 +61,5 @@ pub mod find_minimum_in_rotated_sorted_array_ii;
 pub mod maximum_gap;
 #[path="dungeon-game/mod.rs"]
 pub mod dungeon_game;
+#[path="best-time-to-buy-and-sell-stock-iv/mod.rs"]
+pub mod best_time_to_buy_and_sell_stock_iv;

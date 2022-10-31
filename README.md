@@ -38,6 +38,7 @@
 | [169. 多数元素](easy/src/majority-element/majority-element.md) | `计数` |
 | [170. 两数之和 III - 数据结构设计](easy/src/two-sum-iii-data-structure-design/two-sum-iii-data-structure-design.md) | `哈希` |
 | [171. Excel 表列序号](easy/src/excel-sheet-column-number/excel-sheet-column-number.md) | `字符串` |
+| [190. 颠倒二进制位](easy/src/reverse-bits/reverse-bits.md) | `位运算` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -140,6 +141,9 @@
 | [172. 阶乘后的零](medium/src/factorial-trailing-zeroes/factorial-trailing-zeroes.md) | `数学` |
 | [173. 二叉搜索树迭代器](medium/src/binary-search-tree-iterator/binary-search-tree-iterator.md) | `栈` |
 | [179. 最大数](medium/src/largest-number/largest-number.md) | `排序` |
+| [186. 反转字符串中的单词 II](medium/src/reverse-words-in-a-string-ii/reverse-words-in-a-string-ii.md) | `双指针` |
+| [187. 重复的DNA序列](medium/src/repeated-dna-sequences/repeated-dna-sequences.md) | `哈希` |
+| [189. 轮转数组](medium/src/rotate-array/rotate-array.md) | `递归` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -176,3 +180,4 @@
 | [154. 寻找旋转排序数组中的最小值 II](hard/src/find-minimum-in-rotated-sorted-array-ii/find-minimum-in-rotated-sorted-array-ii.md) | `二分查找`  |
 | [~~164. 最大间距~~](hard/src/maximum-gap/maximum-gap.md) |   |
 | [174. 地下城游戏](hard/src/dungeon-game/dungeon-game.md) | `动态规划` |
+| [~~188. 买卖股票的最佳时机 IV~~](hard/src/best-time-to-buy-and-sell-stock-iv/best-time-to-buy-and-sell-stock-iv.md) |  |
