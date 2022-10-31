@@ -110,3 +110,6 @@
 | [208. 实现 Trie (前缀树)](src/implement-trie-prefix-tree/implement-trie-prefix-tree.md) | `trie` |
 | [209. 长度最小的子数组](src/minimum-size-subarray-sum/minimum-size-subarray-sum.md) | `前缀和` `滑动窗口` |
 | [210. 课程表 II](src/course-schedule-ii/course-schedule-ii.md) | `图` |
+| [211. 添加与搜索单词 - 数据结构设计](src/design-add-and-search-words-data-structure/design-add-and-search-words-data-structure.md) | `trie` |
+| [213. 打家劫舍 II](src/house-robber-ii/house-robber-ii.md) | `动态规划` |
+| [215. 数组中的第K个最大元素](src/kth-largest-element-in-an-array/kth-largest-element-in-an-array.md) | `优先队列` |

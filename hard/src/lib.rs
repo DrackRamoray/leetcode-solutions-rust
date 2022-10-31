@@ -63,3 +63,7 @@ pub mod maximum_gap;
 pub mod dungeon_game;
 #[path="best-time-to-buy-and-sell-stock-iv/mod.rs"]
 pub mod best_time_to_buy_and_sell_stock_iv;
+#[path="word-search-ii/mod.rs"]
+pub mod word_search_ii;
+#[path="shortest-palindrome/mod.rs"]
+pub mod shortest_palindrome;

@@ -158,6 +158,9 @@
 | [208. 实现 Trie (前缀树)](medium/src/implement-trie-prefix-tree/implement-trie-prefix-tree.md) | `trie` |
 | [209. 长度最小的子数组](medium/src/minimum-size-subarray-sum/minimum-size-subarray-sum.md) | `前缀和` `滑动窗口` |
 | [210. 课程表 II](medium/src/course-schedule-ii/course-schedule-ii.md) | `图` |
+| [211. 添加与搜索单词 - 数据结构设计](medium/src/design-add-and-search-words-data-structure/design-add-and-search-words-data-structure.md) | `trie` |
+| [213. 打家劫舍 II](medium/src/house-robber-ii/house-robber-ii.md) | `动态规划` |
+| [215. 数组中的第K个最大元素](medium/src/kth-largest-element-in-an-array/kth-largest-element-in-an-array.md) | `优先队列` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -195,3 +198,5 @@
 | [~~164. 最大间距~~](hard/src/maximum-gap/maximum-gap.md) |   |
 | [174. 地下城游戏](hard/src/dungeon-game/dungeon-game.md) | `动态规划` |
 | [~~188. 买卖股票的最佳时机 IV~~](hard/src/best-time-to-buy-and-sell-stock-iv/best-time-to-buy-and-sell-stock-iv.md) |  |
+| [212. 单词搜索 II](hard/src/word-search-ii/word-search-ii.md) | `trie` |
+| [214. 最短回文串](hard/src/shortest-palindrome/shortest-palindrome.md) | `字符串` |

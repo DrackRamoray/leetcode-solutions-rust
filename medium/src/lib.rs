@@ -214,3 +214,9 @@ pub mod implement_trie_prefix_tree;
 pub mod minimum_size_subarray_sum;
 #[path="course-schedule-ii/mod.rs"]
 pub mod course_schedule_ii;
+#[path="design-add-and-search-words-data-structure/mod.rs"]
+pub mod design_add_and_search_words_data_structure;
+#[path="house-robber-ii/mod.rs"]
+pub mod house_robber_ii;
+#[path="kth-largest-element-in-an-array/mod.rs"]
+pub mod kth_largest_element_in_an_array;

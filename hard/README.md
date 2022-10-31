@@ -33,3 +33,5 @@
 | [~~164. 最大间距~~](src/maximum-gap/maximum-gap.md) |   |
 | [174. 地下城游戏](src/dungeon-game/dungeon-game.md) | `动态规划` |
 | [~~188. 买卖股票的最佳时机 IV~~](src/best-time-to-buy-and-sell-stock-iv/best-time-to-buy-and-sell-stock-iv.md) |  |
+| [212. 单词搜索 II](src/word-search-ii/word-search-ii.md) | `trie` |
+| [214. 最短回文串](src/shortest-palindrome/shortest-palindrome.md) | `字符串` |
