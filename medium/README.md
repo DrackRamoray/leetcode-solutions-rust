@@ -90,3 +90,6 @@
 | [155. 最小栈](src/min-stack/min-stack.md) | `栈` |
 | [156. 上下翻转二叉树](src/binary-tree-upside-down/binary-tree-upside-down.md) | `深度优先搜索` |
 | [159. 至多包含两个不同字符的最长子串](src/longest-substring-with-at-most-two-distinct-characters/longest-substring-with-at-most-two-distinct-characters.md) | `滑动窗口` |
+| [161. 相隔为 1 的编辑距离](src/one-edit-distance/one-edit-distance.md) | `字符串` |
+| [162. 寻找峰值](src/find-peak-element/find-peak-element.md) | `二分查找` |
+| [165. 比较版本号](src/compare-version-numbers/compare-version-numbers.md) | `字符串` |

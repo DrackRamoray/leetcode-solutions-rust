@@ -174,3 +174,9 @@ pub mod min_stack;
 pub mod binary_tree_upside_down;
 #[path="longest-substring-with-at-most-two-distinct-characters/mod.rs"]
 pub mod longest_substring_with_at_most_two_distinct_characters;
+#[path="one-edit-distance/mod.rs"]
+pub mod one_edit_distance;
+#[path="find-peak-element/mod.rs"]
+pub mod find_peak_element;
+#[path="compare-version-numbers/mod.rs"]
+pub mod compare_version_numbers;

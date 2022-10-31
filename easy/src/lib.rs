@@ -59,3 +59,5 @@ pub mod single_number;
 pub mod binary_tree_preorder_traversal;
 #[path="binary-tree-postorder-traversal/mod.rs"]
 pub mod binary_tree_postorder_traversal;
+#[path="missing-ranges/mod.rs"]
+pub mod missing_ranges;
