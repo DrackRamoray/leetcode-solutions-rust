@@ -220,3 +220,5 @@ pub mod design_add_and_search_words_data_structure;
 pub mod house_robber_ii;
 #[path="kth-largest-element-in-an-array/mod.rs"]
 pub mod kth_largest_element_in_an_array;
+#[path="combination-sum-iii/mod.rs"]
+pub mod combination_sum_iii;

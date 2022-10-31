@@ -81,3 +81,7 @@ pub mod remove_linked_list_elements;
 pub mod isomorphic_strings;
 #[path="reverse-linked-list/mod.rs"]
 pub mod reverse_linked_list;
+#[path="contains-duplicate/mod.rs"]
+pub mod contains_duplicate;
+#[path="contains-duplicate-ii/mod.rs"]
+pub mod contains_duplicate_ii;

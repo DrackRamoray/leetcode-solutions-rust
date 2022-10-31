@@ -44,6 +44,8 @@
 | [203. 移除链表元素](easy/src/remove-linked-list-elements/remove-linked-list-elements.md) | `链表` |
 | [205. 同构字符串](easy/src/isomorphic-strings/isomorphic-strings.md) | `哈希表` |
 | [206. 反转链表](easy/src/reverse-linked-list/reverse-linked-list.md) | `链表` |
+| [217. 存在重复元素](easy/src/contains-duplicate/contains-duplicate.md) | `哈希` |
+| [219. 存在重复元素 II](easy/src/contains-duplicate-ii/contains-duplicate-ii.md) | `哈希` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -161,6 +163,7 @@
 | [211. 添加与搜索单词 - 数据结构设计](medium/src/design-add-and-search-words-data-structure/design-add-and-search-words-data-structure.md) | `trie` |
 | [213. 打家劫舍 II](medium/src/house-robber-ii/house-robber-ii.md) | `动态规划` |
 | [215. 数组中的第K个最大元素](medium/src/kth-largest-element-in-an-array/kth-largest-element-in-an-array.md) | `优先队列` |
+| [216. 组合总和 III](medium/src/combination-sum-iii/combination-sum-iii.md) | `回溯` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -200,3 +203,5 @@
 | [~~188. 买卖股票的最佳时机 IV~~](hard/src/best-time-to-buy-and-sell-stock-iv/best-time-to-buy-and-sell-stock-iv.md) |  |
 | [212. 单词搜索 II](hard/src/word-search-ii/word-search-ii.md) | `trie` |
 | [214. 最短回文串](hard/src/shortest-palindrome/shortest-palindrome.md) | `字符串` |
+| [218. 天际线问题](hard/src/the-skyline-problem/the-skyline-problem.md) | `队列` |
+| [220. 存在重复元素 III](hard/src/contains-duplicate-iii/contains-duplicate-iii.md) | `滑动窗口` |

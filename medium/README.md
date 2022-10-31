@@ -113,3 +113,4 @@
 | [211. 添加与搜索单词 - 数据结构设计](src/design-add-and-search-words-data-structure/design-add-and-search-words-data-structure.md) | `trie` |
 | [213. 打家劫舍 II](src/house-robber-ii/house-robber-ii.md) | `动态规划` |
 | [215. 数组中的第K个最大元素](src/kth-largest-element-in-an-array/kth-largest-element-in-an-array.md) | `优先队列` |
+| [216. 组合总和 III](src/combination-sum-iii/combination-sum-iii.md) | `回溯` |

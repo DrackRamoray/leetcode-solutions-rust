@@ -67,3 +67,7 @@ pub mod best_time_to_buy_and_sell_stock_iv;
 pub mod word_search_ii;
 #[path="shortest-palindrome/mod.rs"]
 pub mod shortest_palindrome;
+#[path="the-skyline-problem/mod.rs"]
+pub mod the_skyline_problem;
+#[path="contains-duplicate-iii/mod.rs"]
+pub mod contains_duplicate_iii;

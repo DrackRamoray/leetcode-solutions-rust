@@ -43,3 +43,5 @@
 | [203. 移除链表元素](src/remove-linked-list-elements/remove-linked-list-elements.md) | `链表` |
 | [205. 同构字符串](src/isomorphic-strings/isomorphic-strings.md) | `哈希表` |
 | [206. 反转链表](src/reverse-linked-list/reverse-linked-list.md) | `链表` |
+| [217. 存在重复元素](src/contains-duplicate/contains-duplicate.md) | `哈希` |
+| [219. 存在重复元素 II](src/contains-duplicate-ii/contains-duplicate-ii.md) | `哈希` |
