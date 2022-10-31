@@ -180,3 +180,7 @@ pub mod one_edit_distance;
 pub mod find_peak_element;
 #[path="compare-version-numbers/mod.rs"]
 pub mod compare_version_numbers;
+#[path="fraction-to-recurring-decimal/mod.rs"]
+pub mod fraction_to_recurring_decimal;
+#[path="two-sum-ii-input-array-is-sorted/mod.rs"]
+pub mod two_sum_ii_input_array_is_sorted;

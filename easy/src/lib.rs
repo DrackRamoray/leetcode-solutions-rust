@@ -61,3 +61,9 @@ pub mod binary_tree_preorder_traversal;
 pub mod binary_tree_postorder_traversal;
 #[path="missing-ranges/mod.rs"]
 pub mod missing_ranges;
+#[path="excel-sheet-column-title/mod.rs"]
+pub mod excel_sheet_column_title;
+#[path="majority-element/mod.rs"]
+pub mod majority_element;
+#[path="two-sum-iii-data-structure-design/mod.rs"]
+pub mod two_sum_iii_data_structure_design;

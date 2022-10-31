@@ -34,6 +34,9 @@
 | [145. 二叉树的后序遍历](easy/src/binary-tree-postorder-traversal/binary-tree-postorder-traversal.md) | `后序遍历` |
 | [157. 用 Read4 读取 N 个字符](easy/src/read-n-characters-given-read4/read-n-characters-given-read4.md) | `字符串` |
 | [163. 缺失的区间](easy/src/missing-ranges/missing-ranges.md) | `数组` |
+| [168. Excel表列名称](easy/src/excel-sheet-column-title/excel-sheet-column-title.md) | `数组` |
+| [169. 多数元素](easy/src/majority-element/majority-element.md) | `计数` |
+| [170. 两数之和 III - 数据结构设计](easy/src/two-sum-iii-data-structure-design/two-sum-iii-data-structure-design.md) | `哈希` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -131,6 +134,8 @@
 | [161. 相隔为 1 的编辑距离](medium/src/one-edit-distance/one-edit-distance.md) | `字符串` |
 | [162. 寻找峰值](medium/src/find-peak-element/find-peak-element.md) | `二分查找` |
 | [165. 比较版本号](medium/src/compare-version-numbers/compare-version-numbers.md) | `字符串` |
+| [166. 分数到小数](medium/src/fraction-to-recurring-decimal/fraction-to-recurring-decimal.md) | `字符串` |
+| [167. 两数之和 II - 输入有序数组](medium/src/two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.md) | `二分查找` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -165,3 +170,4 @@
 | [140. 单词拆分 II](hard/src/word-break-ii/word-break-ii.md) | `回溯`  |
 | [149. 直线上最多的点数](hard/src/max-points-on-a-line/max-points-on-a-line.md) | `数学`  |
 | [154. 寻找旋转排序数组中的最小值 II](hard/src/find-minimum-in-rotated-sorted-array-ii/find-minimum-in-rotated-sorted-array-ii.md) | `二分查找`  |
+| [~~164. 最大间距~~](hard/src/maximum-gap/maximum-gap.md) |   |

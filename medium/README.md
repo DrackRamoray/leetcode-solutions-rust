@@ -93,3 +93,5 @@
 | [161. 相隔为 1 的编辑距离](src/one-edit-distance/one-edit-distance.md) | `字符串` |
 | [162. 寻找峰值](src/find-peak-element/find-peak-element.md) | `二分查找` |
 | [165. 比较版本号](src/compare-version-numbers/compare-version-numbers.md) | `字符串` |
+| [166. 分数到小数](src/fraction-to-recurring-decimal/fraction-to-recurring-decimal.md) | `字符串` |
+| [167. 两数之和 II - 输入有序数组](src/two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.md) | `二分查找` |
