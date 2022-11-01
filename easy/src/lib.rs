@@ -101,3 +101,5 @@ pub mod palindrome_linked_list;
 pub mod valid_anagram;
 #[path="shortest-word-distance/mod.rs"]
 pub mod shortest_word_distance;
+#[path="strobogrammatic-number/mod.rs"]
+pub mod strobogrammatic_number;

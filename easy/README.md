@@ -53,3 +53,4 @@
 | [234. 回文链表](src/palindrome-linked-list/palindrome-linked-list.md) | `链表` |
 | [242. 有效的字母异位词](src/valid-anagram/valid-anagram.md) | `哈希` |
 | [243. 最短单词距离](src/shortest-word-distance/shortest-word-distance.md) | `字符串` |
+| [246. 中心对称数](src/strobogrammatic-number/strobogrammatic-number.md) | `双指针` |

@@ -77,3 +77,5 @@ pub mod basic_calculator;
 pub mod number_of_digit_one;
 #[path="sliding-window-maximum/mod.rs"]
 pub mod sliding_window_maximum;
+#[path="strobogrammatic-number-iii/mod.rs"]
+pub mod strobogrammatic_number_iii;

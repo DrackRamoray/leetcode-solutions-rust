@@ -127,3 +127,7 @@
 | [241. 为运算表达式设计优先级](src/different-ways-to-add-parentheses/different-ways-to-add-parentheses.md) | `递归` |
 | [244. 最短单词距离 II](src/shortest-word-distance-ii/shortest-word-distance-ii.md) | `双指针` |
 | [245. 最短单词距离 III](src/shortest-word-distance-iii/shortest-word-distance-iii.md) | `字符串` |
+| [247. 中心对称数 II](src/strobogrammatic-number-ii/strobogrammatic-number-ii.md) | `递归` |
+| [249. 移位字符串分组](src/group-shifted-strings/group-shifted-strings.md) | `哈希` |
+| [250. 统计同值子树](src/count-univalue-subtrees/count-univalue-subtrees.md) | `深度优先搜索` |
+| [251. 展开二维向量](src/flatten-2d-vector/flatten-2d-vector.md) | `数组` |

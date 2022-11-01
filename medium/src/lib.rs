@@ -248,3 +248,11 @@ pub mod different_ways_to_add_parentheses;
 pub mod shortest_word_distance_ii;
 #[path="shortest-word-distance-iii/mod.rs"]
 pub mod shortest_word_distance_iii;
+#[path="strobogrammatic-number-ii/mod.rs"]
+pub mod strobogrammatic_number_ii;
+#[path="group-shifted-strings/mod.rs"]
+pub mod group_shifted_strings;
+#[path="count-univalue-subtrees/mod.rs"]
+pub mod count_univalue_subtrees;
+#[path="flatten-2d-vector/mod.rs"]
+pub mod flatten_2_d_vector;

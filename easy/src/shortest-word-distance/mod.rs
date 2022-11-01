@@ -34,6 +34,13 @@ mod tests {
 
     #[test]
     fn it_works() {
-        assert_eq!(Solution)
+        let words: Vec<String> = vec_stringify!(vec!["practice", "makes", "perfect", "coding", "makes"]);
+        let word1 = "coding".to_string();
+        let word2 = "practice".to_string();
+        assert_eq!(Solution::shortest_distance(words, word1, word2), 3);
+        let words: Vec<String> = vec_stringify!(vec!["practice", "makes", "perfect", "coding", "makes"]);
+        let word1 = "makes".to_string();
+        let word2 = "coding".to_string();
+        assert_eq!(Solution::shortest_distance(words, word1, word2), 1);
     }
 }

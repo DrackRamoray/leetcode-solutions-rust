@@ -54,6 +54,7 @@
 | [234. 回文链表](easy/src/palindrome-linked-list/palindrome-linked-list.md) | `链表` |
 | [242. 有效的字母异位词](easy/src/valid-anagram/valid-anagram.md) | `哈希` |
 | [243. 最短单词距离](easy/src/shortest-word-distance/shortest-word-distance.md) | `字符串` |
+| [246. 中心对称数](easy/src/strobogrammatic-number/strobogrammatic-number.md) | `双指针` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -185,6 +186,10 @@
 | [241. 为运算表达式设计优先级](medium/src/different-ways-to-add-parentheses/different-ways-to-add-parentheses.md) | `递归` |
 | [244. 最短单词距离 II](medium/src/shortest-word-distance-ii/shortest-word-distance-ii.md) | `双指针` |
 | [245. 最短单词距离 III](medium/src/shortest-word-distance-iii/shortest-word-distance-iii.md) | `字符串` |
+| [247. 中心对称数 II](medium/src/strobogrammatic-number-ii/strobogrammatic-number-ii.md) | `递归` |
+| [249. 移位字符串分组](medium/src/group-shifted-strings/group-shifted-strings.md) | `哈希` |
+| [250. 统计同值子树](medium/src/count-univalue-subtrees/count-univalue-subtrees.md) | `深度优先搜索` |
+| [251. 展开二维向量](medium/src/flatten-2d-vector/flatten-2d-vector.md) | `数组` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -228,4 +233,5 @@
 | [220. 存在重复元素 III](hard/src/contains-duplicate-iii/contains-duplicate-iii.md) | `滑动窗口` |
 | [224. 基本计算器](hard/src/basic-calculator/basic-calculator.md) | `栈` |
 | [233. 数字 1 的个数](hard/src/number-of-digit-one/number-of-digit-one.md) | `数学` |
-| [239. 滑动窗口最大值](src/sliding-window-maximum/sliding-window-maximum.md) | `队列` |
+| [239. 滑动窗口最大值](hard/src/sliding-window-maximum/sliding-window-maximum.md) | `队列` |
+| [248. 中心对称数 III](hard/src/strobogrammatic-number-iii/strobogrammatic-number-iii.md) | `递归` |
