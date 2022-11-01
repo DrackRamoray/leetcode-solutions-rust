@@ -117,3 +117,6 @@
 | [221. 最大正方形](src/maximal-square/maximal-square.md) | `动态规划` |
 | [222. 完全二叉树的节点个数](src/count-complete-tree-nodes/count-complete-tree-nodes.md) | `层序遍历` |
 | [223. 矩形面积](src/rectangle-area/rectangle-area.md) | `数学` |
+| [227. 基本计算器 II](src/basic-calculator-ii/basic-calculator-ii.md) | `栈` |
+| [229. 多数元素 II](src/majority-element-ii/majority-element-ii.md) | `计数` |
+| [230. 二叉搜索树中第K小的元素](src/kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.md) | `中序遍历` |

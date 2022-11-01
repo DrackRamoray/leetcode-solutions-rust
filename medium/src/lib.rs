@@ -228,3 +228,9 @@ pub mod maximal_square;
 pub mod count_complete_tree_nodes;
 #[path="rectangle-area/mod.rs"]
 pub mod rectangle_area;
+#[path="basic-calculator-ii/mod.rs"]
+pub mod basic_calculator_ii;
+#[path="majority-element-ii/mod.rs"]
+pub mod majority_element_ii;
+#[path="kth-smallest-element-in-a-bst/mod.rs"]
+pub mod kth_smallest_element_in_a_bst;

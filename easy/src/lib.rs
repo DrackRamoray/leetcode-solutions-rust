@@ -87,3 +87,7 @@ pub mod contains_duplicate;
 pub mod contains_duplicate_ii;
 #[path="implement-stack-using-queues/mod.rs"]
 pub mod implement_stack_using_queues;
+#[path="invert-binary-tree/mod.rs"]
+pub mod invert_binary_tree;
+#[path="summary-ranges/mod.rs"]
+pub mod summary_ranges;

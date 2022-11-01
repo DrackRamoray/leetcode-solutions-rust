@@ -47,6 +47,8 @@
 | [217. 存在重复元素](easy/src/contains-duplicate/contains-duplicate.md) | `哈希` |
 | [219. 存在重复元素 II](easy/src/contains-duplicate-ii/contains-duplicate-ii.md) | `哈希` |
 | [225. 用队列实现栈](easy/src/implement-stack-using-queues/implement-stack-using-queues.md) | `队列` |
+| [226. 翻转二叉树](easy/src/invert-binary-tree/invert-binary-tree.md) | `链表` |
+| [228. 汇总区间](easy/src/summary-ranges/summary-ranges.md) | `双指针` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -168,6 +170,9 @@
 | [221. 最大正方形](medium/src/maximal-square/maximal-square.md) | `动态规划` |
 | [222. 完全二叉树的节点个数](medium/src/count-complete-tree-nodes/count-complete-tree-nodes.md) | `层序遍历` |
 | [223. 矩形面积](medium/src/rectangle-area/rectangle-area.md) | `数学` |
+| [227. 基本计算器 II](medium/src/basic-calculator-ii/basic-calculator-ii.md) | `栈` |
+| [229. 多数元素 II](medium/src/majority-element-ii/majority-element-ii.md) | `计数` |
+| [230. 二叉搜索树中第K小的元素](medium/src/kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.md) | `中序遍历` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
