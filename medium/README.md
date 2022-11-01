@@ -124,3 +124,6 @@
 | [236. 二叉树的最近公共祖先](src/lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.md) | `深度优先搜索` |
 | [238. 除自身以外数组的乘积](src/product-of-array-except-self/product-of-array-except-self.md) | `前缀和` |
 | [240. 搜索二维矩阵 II](src/search-a-2d-matrix-ii/search-a-2d-matrix-ii.md) | `矩阵` |
+| [241. 为运算表达式设计优先级](src/different-ways-to-add-parentheses/different-ways-to-add-parentheses.md) | `递归` |
+| [244. 最短单词距离 II](src/shortest-word-distance-ii/shortest-word-distance-ii.md) | `双指针` |
+| [245. 最短单词距离 III](src/shortest-word-distance-iii/shortest-word-distance-iii.md) | `字符串` |

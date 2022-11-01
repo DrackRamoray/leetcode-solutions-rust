@@ -52,6 +52,8 @@
 | [231. 2 的幂](easy/src/power-of-two/power-of-two.md) | `数学` |
 | [232. 用栈实现队列](easy/src/implement-queue-using-stacks/implement-queue-using-stacks.md) | `栈` |
 | [234. 回文链表](easy/src/palindrome-linked-list/palindrome-linked-list.md) | `链表` |
+| [242. 有效的字母异位词](easy/src/valid-anagram/valid-anagram.md) | `哈希` |
+| [243. 最短单词距离](easy/src/shortest-word-distance/shortest-word-distance.md) | `字符串` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -180,6 +182,9 @@
 | [236. 二叉树的最近公共祖先](medium/src/lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.md) | `深度优先搜索` |
 | [238. 除自身以外数组的乘积](medium/src/product-of-array-except-self/product-of-array-except-self.md) | `前缀和` |
 | [240. 搜索二维矩阵 II](medium/src/search-a-2d-matrix-ii/search-a-2d-matrix-ii.md) | `矩阵` |
+| [241. 为运算表达式设计优先级](medium/src/different-ways-to-add-parentheses/different-ways-to-add-parentheses.md) | `递归` |
+| [244. 最短单词距离 II](medium/src/shortest-word-distance-ii/shortest-word-distance-ii.md) | `双指针` |
+| [245. 最短单词距离 III](medium/src/shortest-word-distance-iii/shortest-word-distance-iii.md) | `字符串` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |

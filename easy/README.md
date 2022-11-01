@@ -51,3 +51,5 @@
 | [231. 2 的幂](src/power-of-two/power-of-two.md) | `数学` |
 | [232. 用栈实现队列](src/implement-queue-using-stacks/implement-queue-using-stacks.md) | `栈` |
 | [234. 回文链表](src/palindrome-linked-list/palindrome-linked-list.md) | `链表` |
+| [242. 有效的字母异位词](src/valid-anagram/valid-anagram.md) | `哈希` |
+| [243. 最短单词距离](src/shortest-word-distance/shortest-word-distance.md) | `字符串` |

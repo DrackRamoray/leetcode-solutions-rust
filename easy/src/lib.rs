@@ -97,3 +97,7 @@ pub mod power_of_two;
 pub mod implement_queue_using_stacks;
 #[path="palindrome-linked-list/mod.rs"]
 pub mod palindrome_linked_list;
+#[path="valid-anagram/mod.rs"]
+pub mod valid_anagram;
+#[path="shortest-word-distance/mod.rs"]
+pub mod shortest_word_distance;

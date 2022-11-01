@@ -242,3 +242,9 @@ pub mod lowest_common_ancestor_of_a_binary_tree;
 pub mod product_of_array_except_self;
 #[path="search-a-2d-matrix-ii/mod.rs"]
 pub mod search_a_2_d_matrix_ii;
+#[path="different-ways-to-add-parentheses/mod.rs"]
+pub mod different_ways_to_add_parentheses;
+#[path="shortest-word-distance-ii/mod.rs"]
+pub mod shortest_word_distance_ii;
+#[path="shortest-word-distance-iii/mod.rs"]
+pub mod shortest_word_distance_iii;
