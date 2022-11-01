@@ -122,3 +122,5 @@
 | [230. 二叉搜索树中第K小的元素](src/kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.md) | `中序遍历` |
 | [235. 二叉搜索树的最近公共祖先](src/lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.md) | `深度优先搜索` |
 | [236. 二叉树的最近公共祖先](src/lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.md) | `深度优先搜索` |
+| [238. 除自身以外数组的乘积](src/product-of-array-except-self/product-of-array-except-self.md) | `前缀和` |
+| [240. 搜索二维矩阵 II](src/search-a-2d-matrix-ii/search-a-2d-matrix-ii.md) | `矩阵` |

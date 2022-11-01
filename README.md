@@ -178,6 +178,8 @@
 | [230. 二叉搜索树中第K小的元素](medium/src/kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.md) | `中序遍历` |
 | [235. 二叉搜索树的最近公共祖先](medium/src/lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.md) | `深度优先搜索` |
 | [236. 二叉树的最近公共祖先](medium/src/lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.md) | `深度优先搜索` |
+| [238. 除自身以外数组的乘积](medium/src/product-of-array-except-self/product-of-array-except-self.md) | `前缀和` |
+| [240. 搜索二维矩阵 II](medium/src/search-a-2d-matrix-ii/search-a-2d-matrix-ii.md) | `矩阵` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -221,3 +223,4 @@
 | [220. 存在重复元素 III](hard/src/contains-duplicate-iii/contains-duplicate-iii.md) | `滑动窗口` |
 | [224. 基本计算器](hard/src/basic-calculator/basic-calculator.md) | `栈` |
 | [233. 数字 1 的个数](hard/src/number-of-digit-one/number-of-digit-one.md) | `数学` |
+| [239. 滑动窗口最大值](src/sliding-window-maximum/sliding-window-maximum.md) | `队列` |

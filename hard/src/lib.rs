@@ -75,3 +75,5 @@ pub mod contains_duplicate_iii;
 pub mod basic_calculator;
 #[path="number-of-digit-one/mod.rs"]
 pub mod number_of_digit_one;
+#[path="sliding-window-maximum/mod.rs"]
+pub mod sliding_window_maximum;

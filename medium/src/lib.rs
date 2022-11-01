@@ -238,3 +238,7 @@ pub mod kth_smallest_element_in_a_bst;
 pub mod lowest_common_ancestor_of_a_binary_search_tree;
 #[path="lowest-common-ancestor-of-a-binary-tree/mod.rs"]
 pub mod lowest_common_ancestor_of_a_binary_tree;
+#[path="product-of-array-except-self/mod.rs"]
+pub mod product_of_array_except_self;
+#[path="search-a-2d-matrix-ii/mod.rs"]
+pub mod search_a_2_d_matrix_ii;

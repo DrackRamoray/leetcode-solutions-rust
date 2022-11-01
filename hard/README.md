@@ -39,3 +39,4 @@
 | [220. 存在重复元素 III](src/contains-duplicate-iii/contains-duplicate-iii.md) | `滑动窗口` |
 | [224. 基本计算器](src/basic-calculator/basic-calculator.md) | `栈` |
 | [233. 数字 1 的个数](src/number-of-digit-one/number-of-digit-one.md) | `数学` |
+| [239. 滑动窗口最大值](src/sliding-window-maximum/sliding-window-maximum.md) | `队列` |
