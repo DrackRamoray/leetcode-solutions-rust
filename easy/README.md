@@ -48,3 +48,6 @@
 | [225. 用队列实现栈](src/implement-stack-using-queues/implement-stack-using-queues.md) | `队列` |
 | [226. 翻转二叉树](src/invert-binary-tree/invert-binary-tree.md) | `链表` |
 | [228. 汇总区间](src/summary-ranges/summary-ranges.md) | `双指针` |
+| [231. 2 的幂](src/power-of-two/power-of-two.md) | `数学` |
+| [232. 用栈实现队列](src/implement-queue-using-stacks/implement-queue-using-stacks.md) | `栈` |
+| [234. 回文链表](src/palindrome-linked-list/palindrome-linked-list.md) | `链表` |

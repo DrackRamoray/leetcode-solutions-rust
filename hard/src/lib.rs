@@ -73,3 +73,5 @@ pub mod the_skyline_problem;
 pub mod contains_duplicate_iii;
 #[path="basic-calculator/mod.rs"]
 pub mod basic_calculator;
+#[path="number-of-digit-one/mod.rs"]
+pub mod number_of_digit_one;

@@ -91,3 +91,9 @@ pub mod implement_stack_using_queues;
 pub mod invert_binary_tree;
 #[path="summary-ranges/mod.rs"]
 pub mod summary_ranges;
+#[path="power-of-two/mod.rs"]
+pub mod power_of_two;
+#[path="implement-queue-using-stacks/mod.rs"]
+pub mod implement_queue_using_stacks;
+#[path="palindrome-linked-list/mod.rs"]
+pub mod palindrome_linked_list;

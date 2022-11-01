@@ -234,3 +234,7 @@ pub mod basic_calculator_ii;
 pub mod majority_element_ii;
 #[path="kth-smallest-element-in-a-bst/mod.rs"]
 pub mod kth_smallest_element_in_a_bst;
+#[path="lowest-common-ancestor-of-a-binary-search-tree/mod.rs"]
+pub mod lowest_common_ancestor_of_a_binary_search_tree;
+#[path="lowest-common-ancestor-of-a-binary-tree/mod.rs"]
+pub mod lowest_common_ancestor_of_a_binary_tree;

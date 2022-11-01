@@ -120,3 +120,5 @@
 | [227. 基本计算器 II](src/basic-calculator-ii/basic-calculator-ii.md) | `栈` |
 | [229. 多数元素 II](src/majority-element-ii/majority-element-ii.md) | `计数` |
 | [230. 二叉搜索树中第K小的元素](src/kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.md) | `中序遍历` |
+| [235. 二叉搜索树的最近公共祖先](src/lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.md) | `深度优先搜索` |
+| [236. 二叉树的最近公共祖先](src/lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.md) | `深度优先搜索` |

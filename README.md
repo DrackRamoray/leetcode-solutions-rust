@@ -49,6 +49,9 @@
 | [225. 用队列实现栈](easy/src/implement-stack-using-queues/implement-stack-using-queues.md) | `队列` |
 | [226. 翻转二叉树](easy/src/invert-binary-tree/invert-binary-tree.md) | `链表` |
 | [228. 汇总区间](easy/src/summary-ranges/summary-ranges.md) | `双指针` |
+| [231. 2 的幂](easy/src/power-of-two/power-of-two.md) | `数学` |
+| [232. 用栈实现队列](easy/src/implement-queue-using-stacks/implement-queue-using-stacks.md) | `栈` |
+| [234. 回文链表](easy/src/palindrome-linked-list/palindrome-linked-list.md) | `链表` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -173,6 +176,8 @@
 | [227. 基本计算器 II](medium/src/basic-calculator-ii/basic-calculator-ii.md) | `栈` |
 | [229. 多数元素 II](medium/src/majority-element-ii/majority-element-ii.md) | `计数` |
 | [230. 二叉搜索树中第K小的元素](medium/src/kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.md) | `中序遍历` |
+| [235. 二叉搜索树的最近公共祖先](medium/src/lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.md) | `深度优先搜索` |
+| [236. 二叉树的最近公共祖先](medium/src/lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.md) | `深度优先搜索` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -215,3 +220,4 @@
 | [218. 天际线问题](hard/src/the-skyline-problem/the-skyline-problem.md) | `队列` |
 | [220. 存在重复元素 III](hard/src/contains-duplicate-iii/contains-duplicate-iii.md) | `滑动窗口` |
 | [224. 基本计算器](hard/src/basic-calculator/basic-calculator.md) | `栈` |
+| [233. 数字 1 的个数](hard/src/number-of-digit-one/number-of-digit-one.md) | `数学` |
