@@ -1,4 +1,4 @@
-pub struct Solution;
+struct Solution;
 
 enum State {
     Begin,

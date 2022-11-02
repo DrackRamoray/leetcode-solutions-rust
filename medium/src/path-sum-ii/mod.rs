@@ -2,7 +2,7 @@ use assist::TreeNode;
 use std::rc::Rc;
 use std::cell::RefCell;
 
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn path_sum(root: Option<Rc<RefCell<TreeNode>>>, target_sum: i32) -> Vec<Vec<i32>> {

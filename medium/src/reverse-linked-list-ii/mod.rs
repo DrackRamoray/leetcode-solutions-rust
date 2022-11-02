@@ -1,6 +1,6 @@
 use assist::ListNode;
 
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn reverse_between(mut head: Option<Box<ListNode>>, left: i32, right: i32) -> Option<Box<ListNode>> {

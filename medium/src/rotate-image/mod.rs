@@ -1,4 +1,4 @@
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn rotate(matrix: &mut Vec<Vec<i32>>) {

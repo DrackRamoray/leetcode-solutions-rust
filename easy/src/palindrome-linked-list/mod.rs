@@ -35,7 +35,7 @@ impl Iterator for IntoIter {
     }
 }
 
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     fn is_palindrome(head: Option<Box<ListNode>>) -> bool {

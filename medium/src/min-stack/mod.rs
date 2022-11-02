@@ -1,5 +1,3 @@
-pub struct Solution;
-
 struct MinStack {
     s: Vec<i32>,
     m: Vec<i32>

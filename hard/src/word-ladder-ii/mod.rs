@@ -1,4 +1,4 @@
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn find_ladders(begin_word: String, end_word: String, mut word_list: Vec<String>) -> Vec<Vec<String>> {

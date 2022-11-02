@@ -135,3 +135,5 @@
 | [254. 因子的组合](src/factor-combinations/factor-combinations.md) | `递归` |
 | [255. 验证前序遍历序列二叉搜索树](src/verify-preorder-sequence-in-binary-search-tree/verify-preorder-sequence-in-binary-search-tree.md) | `单调栈` |
 | [256. 粉刷房子](src/paint-house/paint-house.md) | `动态规划` |
+| [259. 较小的三数之和](src/three-sum-smaller/three-sum-smaller.md) | `二分查找` |
+| [260. 只出现一次的数字 III](src/single-number-iii/single-number-iii.md) | `位运算` |

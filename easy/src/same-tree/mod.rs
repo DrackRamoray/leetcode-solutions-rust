@@ -2,7 +2,7 @@ use assist::TreeNode;
 use std::rc::Rc;
 use std::cell::RefCell;
 
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn is_same_tree(p: Option<Rc<RefCell<TreeNode>>>, q: Option<Rc<RefCell<TreeNode>>>) -> bool {

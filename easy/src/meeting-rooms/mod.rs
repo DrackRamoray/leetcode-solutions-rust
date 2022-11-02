@@ -1,4 +1,4 @@
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn can_attend_meetings(mut intervals: Vec<Vec<i32>>) -> bool {

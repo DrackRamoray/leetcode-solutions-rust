@@ -1,6 +1,6 @@
 use std::collections::HashSet;
 
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn is_valid_sudoku(board: Vec<Vec<char>>) -> bool {

@@ -1,6 +1,6 @@
 use std::collections::HashMap;
 
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn group_strings(strings: Vec<String>) -> Vec<Vec<String>> {

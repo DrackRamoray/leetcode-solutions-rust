@@ -1,4 +1,4 @@
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn my_pow(mut x: f64, n: i32) -> f64 {

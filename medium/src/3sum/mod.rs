@@ -1,4 +1,4 @@
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn three_sum(mut nums: Vec<i32>) -> Vec<Vec<i32>> {

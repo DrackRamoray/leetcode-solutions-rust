@@ -2,7 +2,7 @@ use assist::TreeNode;
 use std::rc::Rc;
 use std::cell::RefCell;
 
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn kth_smallest(root: Option<Rc<RefCell<TreeNode>>>, k: i32) -> i32 {

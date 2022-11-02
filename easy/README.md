@@ -55,3 +55,5 @@
 | [243. 最短单词距离](src/shortest-word-distance/shortest-word-distance.md) | `字符串` |
 | [246. 中心对称数](src/strobogrammatic-number/strobogrammatic-number.md) | `双指针` |
 | [252. 会议室](src/meeting-rooms/meeting-rooms.md) | `排序` |
+| [257. 二叉树的所有路径](src/binary-tree-paths/binary-tree-paths.md) | `深度优先搜索` |
+| [258. 各位相加](src/add-digits/add-digits.md) | `数学` |

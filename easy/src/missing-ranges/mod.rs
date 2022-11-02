@@ -1,4 +1,4 @@
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn find_missing_ranges(mut nums: Vec<i32>, mut lower: i32, upper: i32) -> Vec<String> {

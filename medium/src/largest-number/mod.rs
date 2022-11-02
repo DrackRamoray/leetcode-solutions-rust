@@ -1,4 +1,4 @@
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn largest_number(mut nums: Vec<i32>) -> String {

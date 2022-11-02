@@ -264,3 +264,7 @@ pub mod factor_combinations;
 pub mod verify_preorder_sequence_in_binary_search_tree;
 #[path="paint-house/mod.rs"]
 pub mod paint_house;
+#[path="three-sum-smaller/mod.rs"]
+pub mod three_sum_smaller;
+#[path="single-number-iii/mod.rs"]
+pub mod single_number_iii;

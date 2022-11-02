@@ -1,4 +1,4 @@
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn num_islands(mut grid: Vec<Vec<char>>) -> i32 {

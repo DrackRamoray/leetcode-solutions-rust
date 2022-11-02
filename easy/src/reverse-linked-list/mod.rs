@@ -1,6 +1,6 @@
 use assist::ListNode;
 
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn reverse_list(head: Option<Box<ListNode>>) -> Option<Box<ListNode>> {

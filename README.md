@@ -56,6 +56,8 @@
 | [243. 最短单词距离](easy/src/shortest-word-distance/shortest-word-distance.md) | `字符串` |
 | [246. 中心对称数](easy/src/strobogrammatic-number/strobogrammatic-number.md) | `双指针` |
 | [252. 会议室](easy/src/meeting-rooms/meeting-rooms.md) | `排序` |
+| [257. 二叉树的所有路径](easy/src/binary-tree-paths/binary-tree-paths.md) | `深度优先搜索` |
+| [258. 各位相加](easy/src/add-digits/add-digits.md) | `数学` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -195,6 +197,8 @@
 | [254. 因子的组合](medium/src/factor-combinations/factor-combinations.md) | `递归` |
 | [255. 验证前序遍历序列二叉搜索树](medium/src/verify-preorder-sequence-in-binary-search-tree/verify-preorder-sequence-in-binary-search-tree.md) | `单调栈` |
 | [256. 粉刷房子](medium/src/paint-house/paint-house.md) | `动态规划` |
+| [259. 较小的三数之和](medium/src/three-sum-smaller/three-sum-smaller.md) | `二分查找` |
+| [260. 只出现一次的数字 III](medium/src/single-number-iii/single-number-iii.md) | `位运算` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |

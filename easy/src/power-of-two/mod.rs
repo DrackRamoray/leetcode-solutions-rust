@@ -1,4 +1,4 @@
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn is_power_of_two(n: i32) -> bool {
@@ -10,7 +10,7 @@ impl Solution {
     }
 }
 
-#[cfg(tset)]
+#[cfg(test)]
 mod tests {
     use super::Solution;
 

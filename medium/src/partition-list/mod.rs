@@ -1,6 +1,6 @@
 use assist::ListNode;
 
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn partition(mut head: Option<Box<ListNode>>, x: i32) -> Option<Box<ListNode>> {

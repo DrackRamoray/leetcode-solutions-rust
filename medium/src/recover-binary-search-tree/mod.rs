@@ -3,7 +3,7 @@ use std::rc::Rc;
 use std::cell::RefCell;
 use std::mem::swap;
 
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn recover_tree(root: &mut Option<Rc<RefCell<TreeNode>>>) {

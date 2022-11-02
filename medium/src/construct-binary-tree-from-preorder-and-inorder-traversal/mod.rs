@@ -2,7 +2,7 @@ use assist::TreeNode;
 use std::rc::Rc;
 use std::cell::RefCell;
 
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn build_tree(preorder: Vec<i32>, inorder: Vec<i32>) -> Option<Rc<RefCell<TreeNode>>> {

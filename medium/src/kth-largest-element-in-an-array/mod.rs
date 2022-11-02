@@ -1,7 +1,7 @@
 use std::collections::BinaryHeap;
 use std::cmp::Reverse;
 
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn find_kth_largest(nums: Vec<i32>, k: i32) -> i32 {

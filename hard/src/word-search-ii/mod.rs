@@ -1,4 +1,4 @@
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     fn find_words(mut board: Vec<Vec<char>>, words: Vec<String>) -> Vec<String> {

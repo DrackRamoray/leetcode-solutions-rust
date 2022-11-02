@@ -1,6 +1,6 @@
 use std::collections::HashMap;
 
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     pub fn str_str(haystack: String, needle: String) -> i32 {

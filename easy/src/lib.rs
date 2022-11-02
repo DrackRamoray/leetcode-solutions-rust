@@ -105,3 +105,7 @@ pub mod shortest_word_distance;
 pub mod strobogrammatic_number;
 #[path="meeting-rooms/mod.rs"]
 pub mod meeting_rooms;
+#[path="binary-tree-paths/mod.rs"]
+pub mod binary_tree_paths;
+#[path="add-digits/mod.rs"]
+pub mod add_digits;
