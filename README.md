@@ -62,6 +62,7 @@
 | [266. 回文排列](easy/src/palindrome-permutation/palindrome-permutation.md) | `哈希` |
 | [268. 丢失的数字](easy/src/missing-number/missing-number.md) | `数学` |
 | [270. 最接近的二叉搜索树值](easy/src/closest-binary-search-tree-value/closest-binary-search-tree-value.md) | `深度优先搜索` |
+| [278. 第一个错误的版本](easy/src/first-bad-version/first-bad-version.md) | `二分查找` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -207,6 +208,12 @@
 | [264. 丑数 II](medium/src/ugly-number-ii/ugly-number-ii.md) | `动态规划` |
 | [267. 回文排列 II](medium/src/palindrome-permutation-ii/palindrome-permutation-ii.md) | `哈希` |
 | [271. 字符串的编码与解码](medium/src/encode-and-decode-strings/encode-and-decode-strings.md) | `字符串` |
+| [274. H 指数](medium/src/h-index/h-index.md) | `计数` |
+| [275. H 指数 II](medium/src/h-index-ii/h-index-ii.md) | `二分查找` |
+| [276. 栅栏涂色](medium/src/paint-fence/paint-fence.md) | `动态规划` |
+| [277. 搜寻名人](medium/src/find-the-celebrity/find-the-celebrity.md) | `图` |
+| [279. 完全平方数](medium/src/perfect-squares/perfect-squares.md) | `动态规划` |
+| [280. 摆动排序](medium/src/wiggle-sort/wiggle-sort.md) | `排序` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -255,3 +262,4 @@
 | [265. 粉刷房子 II](hard/src/paint-house-ii/paint-house-ii.md) | `动态规划` |
 | [269. 火星词典](hard/src/alien-dictionary/alien-dictionary.md) | `图` |
 | [272. 最接近的二叉搜索树值 II](hard/src/closest-binary-search-tree-value-ii/closest-binary-search-tree-value-ii.md) | `中序遍历` |
+| [273. 整数转换英文表示](hard/src/integer-to-english-words/integer-to-english-words.md) | `递归` |

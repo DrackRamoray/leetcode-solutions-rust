@@ -61,3 +61,4 @@
 | [266. 回文排列](src/palindrome-permutation/palindrome-permutation.md) | `哈希` |
 | [268. 丢失的数字](src/missing-number/missing-number.md) | `数学` |
 | [270. 最接近的二叉搜索树值](src/closest-binary-search-tree-value/closest-binary-search-tree-value.md) | `深度优先搜索` |
+| [278. 第一个错误的版本](src/first-bad-version/first-bad-version.md) | `二分查找` |

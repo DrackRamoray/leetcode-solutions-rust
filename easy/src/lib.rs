@@ -117,3 +117,5 @@ pub mod palindrome_permutation;
 pub mod missing_number;
 #[path="closest-binary-search-tree-value/mod.rs"]
 pub mod closest_binary_search_tree_value;
+#[path="first-bad-version/mod.rs"]
+pub mod first_bad_version;

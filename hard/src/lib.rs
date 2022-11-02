@@ -85,3 +85,5 @@ pub mod paint_house_ii;
 pub mod alien_dictionary;
 #[path="closest-binary-search-tree-value-ii/mod.rs"]
 pub mod closest_binary_search_tree_value_ii;
+#[path="integer-to-english-words/mod.rs"]
+pub mod integer_to_english_words;

@@ -141,3 +141,9 @@
 | [264. 丑数 II](src/ugly-number-ii/ugly-number-ii.md) | `动态规划` |
 | [267. 回文排列 II](src/palindrome-permutation-ii/palindrome-permutation-ii.md) | `哈希` |
 | [271. 字符串的编码与解码](src/encode-and-decode-strings/encode-and-decode-strings.md) | `字符串` |
+| [274. H 指数](src/h-index/h-index.md) | `计数` |
+| [275. H 指数 II](src/h-index-ii/h-index-ii.md) | `二分查找` |
+| [276. 栅栏涂色](src/paint-fence/paint-fence.md) | `动态规划` |
+| [277. 搜寻名人](src/find-the-celebrity/find-the-celebrity.md) | `图` |
+| [279. 完全平方数](src/perfect-squares/perfect-squares.md) | `动态规划` |
+| [280. 摆动排序](src/wiggle-sort/wiggle-sort.md) | `排序` |

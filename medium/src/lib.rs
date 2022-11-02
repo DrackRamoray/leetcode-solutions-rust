@@ -276,3 +276,15 @@ pub mod ugly_number_ii;
 pub mod palindrome_permutation_ii;
 #[path="encode-and-decode-strings/mod.rs"]
 pub mod encode_and_decode_strings;
+#[path="h-index/mod.rs"]
+pub mod h_index;
+#[path="h-index-ii/mod.rs"]
+pub mod h_index_ii;
+#[path="paint-fence/mod.rs"]
+pub mod paint_fence;
+#[path="find-the-celebrity/mod.rs"]
+pub mod find_the_celebrity;
+#[path="perfect-squares/mod.rs"]
+pub mod perfect_squares;
+#[path="wiggle-sort/mod.rs"]
+pub mod wiggle_sort;
