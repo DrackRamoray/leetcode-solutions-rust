@@ -256,3 +256,11 @@ pub mod group_shifted_strings;
 pub mod count_univalue_subtrees;
 #[path="flatten-2d-vector/mod.rs"]
 pub mod flatten_2_d_vector;
+#[path="meeting-rooms-ii/mod.rs"]
+pub mod meeting_rooms_ii;
+#[path="factor-combinations/mod.rs"]
+pub mod factor_combinations;
+#[path="verify-preorder-sequence-in-binary-search-tree/mod.rs"]
+pub mod verify_preorder_sequence_in_binary_search_tree;
+#[path="paint-house/mod.rs"]
+pub mod paint_house;

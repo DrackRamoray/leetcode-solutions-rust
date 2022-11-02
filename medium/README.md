@@ -131,3 +131,7 @@
 | [249. 移位字符串分组](src/group-shifted-strings/group-shifted-strings.md) | `哈希` |
 | [250. 统计同值子树](src/count-univalue-subtrees/count-univalue-subtrees.md) | `深度优先搜索` |
 | [251. 展开二维向量](src/flatten-2d-vector/flatten-2d-vector.md) | `数组` |
+| [253. 会议室 II](src/meeting-rooms-ii/meeting-rooms-ii.md) | `前缀和` |
+| [254. 因子的组合](src/factor-combinations/factor-combinations.md) | `递归` |
+| [255. 验证前序遍历序列二叉搜索树](src/verify-preorder-sequence-in-binary-search-tree/verify-preorder-sequence-in-binary-search-tree.md) | `单调栈` |
+| [256. 粉刷房子](src/paint-house/paint-house.md) | `动态规划` |

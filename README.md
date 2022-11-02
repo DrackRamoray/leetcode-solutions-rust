@@ -55,6 +55,7 @@
 | [242. 有效的字母异位词](easy/src/valid-anagram/valid-anagram.md) | `哈希` |
 | [243. 最短单词距离](easy/src/shortest-word-distance/shortest-word-distance.md) | `字符串` |
 | [246. 中心对称数](easy/src/strobogrammatic-number/strobogrammatic-number.md) | `双指针` |
+| [252. 会议室](easy/src/meeting-rooms/meeting-rooms.md) | `排序` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -190,6 +191,10 @@
 | [249. 移位字符串分组](medium/src/group-shifted-strings/group-shifted-strings.md) | `哈希` |
 | [250. 统计同值子树](medium/src/count-univalue-subtrees/count-univalue-subtrees.md) | `深度优先搜索` |
 | [251. 展开二维向量](medium/src/flatten-2d-vector/flatten-2d-vector.md) | `数组` |
+| [253. 会议室 II](medium/src/meeting-rooms-ii/meeting-rooms-ii.md) | `前缀和` |
+| [254. 因子的组合](medium/src/factor-combinations/factor-combinations.md) | `递归` |
+| [255. 验证前序遍历序列二叉搜索树](medium/src/verify-preorder-sequence-in-binary-search-tree/verify-preorder-sequence-in-binary-search-tree.md) | `单调栈` |
+| [256. 粉刷房子](medium/src/paint-house/paint-house.md) | `动态规划` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |

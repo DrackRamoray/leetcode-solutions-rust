@@ -103,3 +103,5 @@ pub mod valid_anagram;
 pub mod shortest_word_distance;
 #[path="strobogrammatic-number/mod.rs"]
 pub mod strobogrammatic_number;
+#[path="meeting-rooms/mod.rs"]
+pub mod meeting_rooms;
