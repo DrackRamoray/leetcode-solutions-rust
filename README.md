@@ -58,6 +58,7 @@
 | [252. 会议室](easy/src/meeting-rooms/meeting-rooms.md) | `排序` |
 | [257. 二叉树的所有路径](easy/src/binary-tree-paths/binary-tree-paths.md) | `深度优先搜索` |
 | [258. 各位相加](easy/src/add-digits/add-digits.md) | `数学` |
+| [263. 丑数](easy/src/ugly-number/ugly-number.md) | `数学` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -199,6 +200,8 @@
 | [256. 粉刷房子](medium/src/paint-house/paint-house.md) | `动态规划` |
 | [259. 较小的三数之和](medium/src/three-sum-smaller/three-sum-smaller.md) | `二分查找` |
 | [260. 只出现一次的数字 III](medium/src/single-number-iii/single-number-iii.md) | `位运算` |
+| [261. 以图判树](medium/src/graph-valid-tree/graph-valid-tree.md) | `并查集` |
+| [264. 丑数 II](medium/src/ugly-number-ii/ugly-number-ii.md) | `动态规划` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -244,3 +247,4 @@
 | [233. 数字 1 的个数](hard/src/number-of-digit-one/number-of-digit-one.md) | `数学` |
 | [239. 滑动窗口最大值](hard/src/sliding-window-maximum/sliding-window-maximum.md) | `队列` |
 | [248. 中心对称数 III](hard/src/strobogrammatic-number-iii/strobogrammatic-number-iii.md) | `递归` |
+| [265. 粉刷房子 II](hard/src/paint-house-ii/paint-house-ii.md) | `动态规划` |

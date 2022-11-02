@@ -109,3 +109,5 @@ pub mod meeting_rooms;
 pub mod binary_tree_paths;
 #[path="add-digits/mod.rs"]
 pub mod add_digits;
+#[path="ugly-number/mod.rs"]
+pub mod ugly_number;

@@ -268,3 +268,7 @@ pub mod paint_house;
 pub mod three_sum_smaller;
 #[path="single-number-iii/mod.rs"]
 pub mod single_number_iii;
+#[path="graph-valid-tree/mod.rs"]
+pub mod graph_valid_tree;
+#[path="ugly-number-ii/mod.rs"]
+pub mod ugly_number_ii;

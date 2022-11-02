@@ -137,3 +137,5 @@
 | [256. 粉刷房子](src/paint-house/paint-house.md) | `动态规划` |
 | [259. 较小的三数之和](src/three-sum-smaller/three-sum-smaller.md) | `二分查找` |
 | [260. 只出现一次的数字 III](src/single-number-iii/single-number-iii.md) | `位运算` |
+| [261. 以图判树](src/graph-valid-tree/graph-valid-tree.md) | `并查集` |
+| [264. 丑数 II](src/ugly-number-ii/ugly-number-ii.md) | `动态规划` |

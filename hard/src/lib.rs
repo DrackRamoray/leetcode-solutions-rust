@@ -79,3 +79,5 @@ pub mod number_of_digit_one;
 pub mod sliding_window_maximum;
 #[path="strobogrammatic-number-iii/mod.rs"]
 pub mod strobogrammatic_number_iii;
+#[path="paint-house-ii/mod.rs"]
+pub mod paint_house_ii;
