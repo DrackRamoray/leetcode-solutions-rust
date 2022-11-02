@@ -2,7 +2,7 @@ use assist::TreeNode;
 use std::rc::Rc;
 use std::cell::RefCell;
 
-struct Solution;
+pub struct Solution;
 
 impl Solution {
     pub fn level_order_bottom(root: Option<Rc<RefCell<TreeNode>>>) -> Vec<Vec<i32>> {

@@ -113,3 +113,7 @@ pub mod add_digits;
 pub mod ugly_number;
 #[path="palindrome-permutation/mod.rs"]
 pub mod palindrome_permutation;
+#[path="missing-number/mod.rs"]
+pub mod missing_number;
+#[path="closest-binary-search-tree-value/mod.rs"]
+pub mod closest_binary_search_tree_value;

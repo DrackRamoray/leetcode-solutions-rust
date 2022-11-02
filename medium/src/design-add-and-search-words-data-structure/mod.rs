@@ -20,7 +20,7 @@ impl Trie {
     }
 }
 
-struct WordDictionary {
+pub struct WordDictionary {
     trie: Trie,
 }
 

@@ -1,7 +1,7 @@
 use std::collections::VecDeque;
 
 #[derive(Default)]
-struct MyStack {
+pub struct MyStack {
     queue: VecDeque<i32>,
 }
 

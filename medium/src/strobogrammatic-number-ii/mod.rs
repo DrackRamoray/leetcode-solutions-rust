@@ -1,4 +1,4 @@
-struct Solution;
+pub struct Solution;
 
 impl Solution {
     pub fn find_strobogrammatic(n: i32) -> Vec<String> {

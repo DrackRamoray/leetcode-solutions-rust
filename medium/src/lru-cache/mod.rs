@@ -87,7 +87,7 @@ impl List {
     }
 }
 
-struct LRUCache {
+pub struct LRUCache {
     cap: usize,
     used: usize,
     data: HashMap<i32, Rc<RefCell<ListNode>>>,

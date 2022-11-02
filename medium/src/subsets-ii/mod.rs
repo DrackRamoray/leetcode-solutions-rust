@@ -1,4 +1,4 @@
-struct Solution;
+pub struct Solution;
 
 impl Solution {
     pub fn subsets_with_dup(mut nums: Vec<i32>) -> Vec<Vec<i32>> {

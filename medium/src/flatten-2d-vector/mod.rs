@@ -1,4 +1,4 @@
-struct Vector2D {
+pub struct Vector2D {
     pc: usize,
     data: Vec<i32>,
 }

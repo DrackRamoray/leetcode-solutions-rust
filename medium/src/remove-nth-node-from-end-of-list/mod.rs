@@ -1,6 +1,6 @@
 use assist::ListNode;
 
-struct Solution;
+pub struct Solution;
 
 impl Solution {
     pub fn remove_nth_from_end(head: Option<Box<ListNode>>, n: i32) -> Option<Box<ListNode>> {

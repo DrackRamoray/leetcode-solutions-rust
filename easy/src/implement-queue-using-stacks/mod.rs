@@ -1,4 +1,4 @@
-struct MyQueue {
+pub struct MyQueue {
     s1: Vec<i32>,
     s2: Vec<i32>
 }

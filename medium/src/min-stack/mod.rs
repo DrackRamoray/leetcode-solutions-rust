@@ -1,4 +1,4 @@
-struct MinStack {
+pub struct MinStack {
     s: Vec<i32>,
     m: Vec<i32>
 }

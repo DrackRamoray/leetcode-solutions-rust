@@ -59,3 +59,5 @@
 | [258. 各位相加](src/add-digits/add-digits.md) | `数学` |
 | [263. 丑数](src/ugly-number/ugly-number.md) | `数学` |
 | [266. 回文排列](src/palindrome-permutation/palindrome-permutation.md) | `哈希` |
+| [268. 丢失的数字](src/missing-number/missing-number.md) | `数学` |
+| [270. 最接近的二叉搜索树值](src/closest-binary-search-tree-value/closest-binary-search-tree-value.md) | `深度优先搜索` |

@@ -1,5 +1,5 @@
 #[derive(Default)]
-struct Trie {
+pub struct Trie {
     children: [Option<Box<Trie>>;26],
     is_end: bool,
 }

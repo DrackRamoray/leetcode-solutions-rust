@@ -139,3 +139,5 @@
 | [260. 只出现一次的数字 III](src/single-number-iii/single-number-iii.md) | `位运算` |
 | [261. 以图判树](src/graph-valid-tree/graph-valid-tree.md) | `并查集` |
 | [264. 丑数 II](src/ugly-number-ii/ugly-number-ii.md) | `动态规划` |
+| [267. 回文排列 II](src/palindrome-permutation-ii/palindrome-permutation-ii.md) | `哈希` |
+| [271. 字符串的编码与解码](src/encode-and-decode-strings/encode-and-decode-strings.md) | `字符串` |

@@ -1,6 +1,6 @@
 use assist::ListNode;
 
-struct Solution;
+pub struct Solution;
 
 impl Solution {
     pub fn rotate_right(mut head: Option<Box<ListNode>>, k: i32) -> Option<Box<ListNode>> {

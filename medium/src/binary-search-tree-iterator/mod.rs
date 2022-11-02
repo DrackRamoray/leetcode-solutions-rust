@@ -2,7 +2,7 @@ use assist::TreeNode;
 use std::rc::Rc;
 use std::cell::RefCell;
 
-struct BSTIterator {
+pub struct BSTIterator {
     index: usize,
     data: Vec<i32>,
 }

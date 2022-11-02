@@ -1,4 +1,4 @@
-struct WordDistance {
+pub struct WordDistance {
     words: Vec<String>,
 }
 

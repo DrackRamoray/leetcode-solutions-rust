@@ -1,6 +1,6 @@
 use std::collections::HashMap;
 
-struct TwoSum {
+pub struct TwoSum {
     cache: HashMap<i32, i32>,
 }
 

@@ -1,6 +1,6 @@
 use assist::ListNode;
 
-struct Solution;
+pub struct Solution;
 
 impl Solution {
     pub fn insertion_sort_list(mut head: Option<Box<ListNode>>) -> Option<Box<ListNode>> {

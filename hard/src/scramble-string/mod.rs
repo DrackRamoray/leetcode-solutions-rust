@@ -1,6 +1,6 @@
 use std::collections::HashMap;
 
-pub  struct Solution;
+pub struct Solution;
 
 impl Solution {
     fn is_scramble(s1: String, s2: String) -> bool {

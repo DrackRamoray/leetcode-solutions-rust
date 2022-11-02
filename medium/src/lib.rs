@@ -272,3 +272,7 @@ pub mod single_number_iii;
 pub mod graph_valid_tree;
 #[path="ugly-number-ii/mod.rs"]
 pub mod ugly_number_ii;
+#[path="palindrome-permutation-ii/mod.rs"]
+pub mod palindrome_permutation_ii;
+#[path="encode-and-decode-strings/mod.rs"]
+pub mod encode_and_decode_strings;

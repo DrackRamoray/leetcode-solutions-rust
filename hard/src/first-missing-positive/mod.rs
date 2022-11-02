@@ -1,4 +1,4 @@
-struct Solution;
+pub struct Solution;
 
 impl Solution {
     pub fn first_missing_positive(mut nums: Vec<i32>) -> i32 {

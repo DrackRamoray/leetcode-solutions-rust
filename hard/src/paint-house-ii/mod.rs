@@ -1,4 +1,4 @@
-struct Solution;
+pub struct Solution;
 
 impl Solution {
     pub fn min_cost_ii(costs: Vec<Vec<i32>>) -> i32 {

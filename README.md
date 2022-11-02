@@ -60,6 +60,8 @@
 | [258. 各位相加](easy/src/add-digits/add-digits.md) | `数学` |
 | [263. 丑数](easy/src/ugly-number/ugly-number.md) | `数学` |
 | [266. 回文排列](easy/src/palindrome-permutation/palindrome-permutation.md) | `哈希` |
+| [268. 丢失的数字](easy/src/missing-number/missing-number.md) | `数学` |
+| [270. 最接近的二叉搜索树值](easy/src/closest-binary-search-tree-value/closest-binary-search-tree-value.md) | `深度优先搜索` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -203,6 +205,8 @@
 | [260. 只出现一次的数字 III](medium/src/single-number-iii/single-number-iii.md) | `位运算` |
 | [261. 以图判树](medium/src/graph-valid-tree/graph-valid-tree.md) | `并查集` |
 | [264. 丑数 II](medium/src/ugly-number-ii/ugly-number-ii.md) | `动态规划` |
+| [267. 回文排列 II](medium/src/palindrome-permutation-ii/palindrome-permutation-ii.md) | `哈希` |
+| [271. 字符串的编码与解码](medium/src/encode-and-decode-strings/encode-and-decode-strings.md) | `字符串` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -249,3 +253,5 @@
 | [239. 滑动窗口最大值](hard/src/sliding-window-maximum/sliding-window-maximum.md) | `队列` |
 | [248. 中心对称数 III](hard/src/strobogrammatic-number-iii/strobogrammatic-number-iii.md) | `递归` |
 | [265. 粉刷房子 II](hard/src/paint-house-ii/paint-house-ii.md) | `动态规划` |
+| [269. 火星词典](hard/src/alien-dictionary/alien-dictionary.md) | `图` |
+| [272. 最接近的二叉搜索树值 II](hard/src/closest-binary-search-tree-value-ii/closest-binary-search-tree-value-ii.md) | `中序遍历` |

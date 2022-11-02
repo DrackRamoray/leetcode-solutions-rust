@@ -81,3 +81,7 @@ pub mod sliding_window_maximum;
 pub mod strobogrammatic_number_iii;
 #[path="paint-house-ii/mod.rs"]
 pub mod paint_house_ii;
+#[path="alien-dictionary/mod.rs"]
+pub mod alien_dictionary;
+#[path="closest-binary-search-tree-value-ii/mod.rs"]
+pub mod closest_binary_search_tree_value_ii;
