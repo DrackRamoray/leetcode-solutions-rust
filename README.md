@@ -59,6 +59,7 @@
 | [257. 二叉树的所有路径](easy/src/binary-tree-paths/binary-tree-paths.md) | `深度优先搜索` |
 | [258. 各位相加](easy/src/add-digits/add-digits.md) | `数学` |
 | [263. 丑数](easy/src/ugly-number/ugly-number.md) | `数学` |
+| [266. 回文排列](easy/src/palindrome-permutation/palindrome-permutation.md) | `哈希` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |

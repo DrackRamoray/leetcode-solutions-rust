@@ -111,3 +111,5 @@ pub mod binary_tree_paths;
 pub mod add_digits;
 #[path="ugly-number/mod.rs"]
 pub mod ugly_number;
+#[path="palindrome-permutation/mod.rs"]
+pub mod palindrome_permutation;
