@@ -63,6 +63,7 @@
 | [268. 丢失的数字](easy/src/missing-number/missing-number.md) | `数学` |
 | [270. 最接近的二叉搜索树值](easy/src/closest-binary-search-tree-value/closest-binary-search-tree-value.md) | `深度优先搜索` |
 | [278. 第一个错误的版本](easy/src/first-bad-version/first-bad-version.md) | `二分查找` |
+| [283. 移动零](easy/src/move-zeroes/move-zeroes.md) | `双指针` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -214,6 +215,8 @@
 | [277. 搜寻名人](medium/src/find-the-celebrity/find-the-celebrity.md) | `图` |
 | [279. 完全平方数](medium/src/perfect-squares/perfect-squares.md) | `动态规划` |
 | [280. 摆动排序](medium/src/wiggle-sort/wiggle-sort.md) | `排序` |
+| [281. 锯齿迭代器](medium/src/zigzag-iterator/zigzag-iterator.md) | `队列` |
+| [285. 二叉搜索树中的中序后继](medium/src/inorder-successor-in-bst/inorder-successor-in-bst.md) | `深度优先搜索` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -263,3 +266,4 @@
 | [269. 火星词典](hard/src/alien-dictionary/alien-dictionary.md) | `图` |
 | [272. 最接近的二叉搜索树值 II](hard/src/closest-binary-search-tree-value-ii/closest-binary-search-tree-value-ii.md) | `中序遍历` |
 | [273. 整数转换英文表示](hard/src/integer-to-english-words/integer-to-english-words.md) | `递归` |
+| [282. 给表达式添加运算符](hard/src/expression-add-operators/expression-add-operators.md) | `回溯` |

@@ -87,3 +87,5 @@ pub mod alien_dictionary;
 pub mod closest_binary_search_tree_value_ii;
 #[path="integer-to-english-words/mod.rs"]
 pub mod integer_to_english_words;
+#[path="expression-add-operators/mod.rs"]
+pub mod expression_add_operators;

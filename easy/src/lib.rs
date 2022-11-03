@@ -119,3 +119,5 @@ pub mod missing_number;
 pub mod closest_binary_search_tree_value;
 #[path="first-bad-version/mod.rs"]
 pub mod first_bad_version;
+#[path="move-zeroes/mod.rs"]
+pub mod move_zeroes;

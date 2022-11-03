@@ -288,3 +288,7 @@ pub mod find_the_celebrity;
 pub mod perfect_squares;
 #[path="wiggle-sort/mod.rs"]
 pub mod wiggle_sort;
+#[path="zigzag-iterator/mod.rs"]
+pub mod zigzag_iterator;
+#[path="inorder-successor-in-bst/mod.rs"]
+pub mod inorder_successor_in_bst;
