@@ -292,3 +292,7 @@ pub mod wiggle_sort;
 pub mod zigzag_iterator;
 #[path="inorder-successor-in-bst/mod.rs"]
 pub mod inorder_successor_in_bst;
+#[path="walls-and-gates/mod.rs"]
+pub mod walls_and_gates;
+#[path="find-the-duplicate-number/mod.rs"]
+pub mod find_the_duplicate_number;

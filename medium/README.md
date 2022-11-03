@@ -149,3 +149,5 @@
 | [280. 摆动排序](src/wiggle-sort/wiggle-sort.md) | `排序` |
 | [281. 锯齿迭代器](src/zigzag-iterator/zigzag-iterator.md) | `队列` |
 | [285. 二叉搜索树中的中序后继](src/inorder-successor-in-bst/inorder-successor-in-bst.md) | `深度优先搜索` |
+| [286. 墙与门](src/walls-and-gates/walls-and-gates.md) | `广度优先搜索` |
+| [287. 寻找重复数](src/find-the-duplicate-number/find-the-duplicate-number.md) | `双指针` |

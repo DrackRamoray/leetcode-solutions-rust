@@ -217,6 +217,8 @@
 | [280. 摆动排序](medium/src/wiggle-sort/wiggle-sort.md) | `排序` |
 | [281. 锯齿迭代器](medium/src/zigzag-iterator/zigzag-iterator.md) | `队列` |
 | [285. 二叉搜索树中的中序后继](medium/src/inorder-successor-in-bst/inorder-successor-in-bst.md) | `深度优先搜索` |
+| [286. 墙与门](medium/src/walls-and-gates/walls-and-gates.md) | `广度优先搜索` |
+| [287. 寻找重复数](medium/src/find-the-duplicate-number/find-the-duplicate-number.md) | `双指针` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
