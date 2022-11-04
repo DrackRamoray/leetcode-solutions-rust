@@ -67,6 +67,7 @@
 | [290. 单词规律](easy/src/word-pattern/word-pattern.md) | `哈希` |
 | [292. Nim 游戏](easy/src/nim-game/nim-game.md) | `数学` |
 | [293. 翻转游戏](easy/src/flip-game/flip-game.md) | `字符串` |
+| [303. 区域和检索 - 数组不可变](easy/src/range-sum-query-immutable/range-sum-query-immutable.md) | `前缀和` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -229,6 +230,7 @@
 | [298. 二叉树最长连续序列](medium/src/binary-tree-longest-consecutive-sequence/binary-tree-longest-consecutive-sequence.md) | `层序遍历` |
 | [299. 猜数字游戏](medium/src/bulls-and-cows/bulls-and-cows.md) | `计数` |
 | [300. 最长递增子序列](medium/src/longest-increasing-subsequence/longest-increasing-subsequence.md) | `动态规划` |
+| [304. 二维区域和检索 - 矩阵不可变](medium/src/range-sum-query-2d-immutable/range-sum-query-2d-immutable.md) | `前缀和` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -282,3 +284,6 @@
 | [295. 数据流的中位数](hard/src/find-median-from-data-stream/find-median-from-data-stream.md) | `堆` |
 | [296. 最佳的碰头地点](hard/src/best-meeting-point/best-meeting-point.md) | `数学` |
 | [297. 二叉树的序列化与反序列化](hard/src/serialize-and-deserialize-binary-tree/serialize-and-deserialize-binary-tree.md) | `深度优先遍历` |
+| [301. 删除无效的括号](hard/src/remove-invalid-parentheses/remove-invalid-parentheses.md)) | `回溯` |
+| [302. 包含全部黑色像素的最小矩形](hard/src/smallest-rectangle-enclosing-black-pixels/smallest-rectangle-enclosing-black-pixels.md) | `矩阵` |
+| [305. 岛屿数量 II](hard/src/number-of-islands-ii/number-of-islands-ii.md) | `并查集` |

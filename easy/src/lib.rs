@@ -127,3 +127,5 @@ pub mod word_pattern;
 pub mod nim_game;
 #[path="flip-game/mod.rs"]
 pub mod flip_game;
+#[path="range-sum-query-immutable/mod.rs"]
+pub mod range_sum_query_immutable;

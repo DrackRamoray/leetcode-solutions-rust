@@ -158,3 +158,4 @@
 | [298. 二叉树最长连续序列](src/binary-tree-longest-consecutive-sequence/binary-tree-longest-consecutive-sequence.md) | `层序遍历` |
 | [299. 猜数字游戏](src/bulls-and-cows/bulls-and-cows.md) | `计数` |
 | [300. 最长递增子序列](src/longest-increasing-subsequence/longest-increasing-subsequence.md) | `动态规划` |
+| [304. 二维区域和检索 - 矩阵不可变](src/range-sum-query-2d-immutable/range-sum-query-2d-immutable.md) | `前缀和` |

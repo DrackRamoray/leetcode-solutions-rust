@@ -95,3 +95,9 @@ pub mod find_median_from_data_stream;
 pub mod best_meeting_point;
 #[path="serialize-and-deserialize-binary-tree/mod.rs"]
 pub mod serialize_and_deserialize_binary_tree;
+#[path="remove-invalid-parentheses/mod.rs"]
+pub mod remove_invalid_parentheses;
+#[path="smallest-rectangle-enclosing-black-pixels/mod.rs"]
+pub mod smallest_rectangle_enclosing_black_pixels;
+#[path="number-of-islands-ii/mod.rs"]
+pub mod number_of_islands_ii;

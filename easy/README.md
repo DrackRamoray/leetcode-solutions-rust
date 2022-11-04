@@ -66,3 +66,4 @@
 | [290. 单词规律](src/word-pattern/word-pattern.md) | `哈希` |
 | [292. Nim 游戏](src/nim-game/nim-game.md) | `数学` |
 | [293. 翻转游戏](src/flip-game/flip-game.md) | `字符串` |
+| [303. 区域和检索 - 数组不可变](src/range-sum-query-immutable/range-sum-query-immutable.md) | `前缀和` |

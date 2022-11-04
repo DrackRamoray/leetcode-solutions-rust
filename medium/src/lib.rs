@@ -310,3 +310,5 @@ pub mod binary_tree_longest_consecutive_sequence;
 pub mod bulls_and_cows;
 #[path="longest-increasing-subsequence/mod.rs"]
 pub mod longest_increasing_subsequence;
+#[path="range-sum-query-2d-immutable/mod.rs"]
+pub mod range_sum_query_2_d_immutable;

@@ -49,3 +49,6 @@
 | [295. 数据流的中位数](src/find-median-from-data-stream/find-median-from-data-stream.md) | `堆` |
 | [296. 最佳的碰头地点](src/best-meeting-point/best-meeting-point.md) | `数学` |
 | [297. 二叉树的序列化与反序列化](src/serialize-and-deserialize-binary-tree/serialize-and-deserialize-binary-tree.md) | `深度优先遍历` |
+| [301. 删除无效的括号](src/remove-invalid-parentheses/remove-invalid-parentheses.md)) | `回溯` |
+| [302. 包含全部黑色像素的最小矩形](src/smallest-rectangle-enclosing-black-pixels/smallest-rectangle-enclosing-black-pixels.md) | `矩阵` |
+| [305. 岛屿数量 II](src/number-of-islands-ii/number-of-islands-ii.md) | `并查集` |
