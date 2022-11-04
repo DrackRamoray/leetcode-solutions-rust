@@ -64,6 +64,7 @@
 | [270. 最接近的二叉搜索树值](easy/src/closest-binary-search-tree-value/closest-binary-search-tree-value.md) | `深度优先搜索` |
 | [278. 第一个错误的版本](easy/src/first-bad-version/first-bad-version.md) | `二分查找` |
 | [283. 移动零](easy/src/move-zeroes/move-zeroes.md) | `双指针` |
+| [290. 单词规律](easy/src/word-pattern/word-pattern.md) | `哈希` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -219,6 +220,8 @@
 | [285. 二叉搜索树中的中序后继](medium/src/inorder-successor-in-bst/inorder-successor-in-bst.md) | `深度优先搜索` |
 | [286. 墙与门](medium/src/walls-and-gates/walls-and-gates.md) | `广度优先搜索` |
 | [287. 寻找重复数](medium/src/find-the-duplicate-number/find-the-duplicate-number.md) | `双指针` |
+| [288. 单词的唯一缩写](medium/src/unique-word-abbreviation/unique-word-abbreviation.md) | `数组` |
+| [289. 生命游戏](medium/src/game-of-life/game-of-life.md) | `矩阵` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |

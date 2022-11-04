@@ -151,3 +151,5 @@
 | [285. 二叉搜索树中的中序后继](src/inorder-successor-in-bst/inorder-successor-in-bst.md) | `深度优先搜索` |
 | [286. 墙与门](src/walls-and-gates/walls-and-gates.md) | `广度优先搜索` |
 | [287. 寻找重复数](src/find-the-duplicate-number/find-the-duplicate-number.md) | `双指针` |
+| [288. 单词的唯一缩写](src/unique-word-abbreviation/unique-word-abbreviation.md) | `数组` |
+| [289. 生命游戏](src/game-of-life/game-of-life.md) | `矩阵` |

@@ -63,3 +63,4 @@
 | [270. 最接近的二叉搜索树值](src/closest-binary-search-tree-value/closest-binary-search-tree-value.md) | `深度优先搜索` |
 | [278. 第一个错误的版本](src/first-bad-version/first-bad-version.md) | `二分查找` |
 | [283. 移动零](src/move-zeroes/move-zeroes.md) | `双指针` |
+| [290. 单词规律](src/word-pattern/word-pattern.md) | `哈希` |

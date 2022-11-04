@@ -121,3 +121,5 @@ pub mod closest_binary_search_tree_value;
 pub mod first_bad_version;
 #[path="move-zeroes/mod.rs"]
 pub mod move_zeroes;
+#[path="word-pattern/mod.rs"]
+pub mod word_pattern;

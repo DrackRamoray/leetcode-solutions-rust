@@ -296,3 +296,7 @@ pub mod inorder_successor_in_bst;
 pub mod walls_and_gates;
 #[path="find-the-duplicate-number/mod.rs"]
 pub mod find_the_duplicate_number;
+#[path="unique-word-abbreviation/mod.rs"]
+pub mod unique_word_abbreviation;
+#[path="game-of-life/mod.rs"]
+pub mod game_of_life;
