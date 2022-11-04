@@ -300,3 +300,13 @@ pub mod find_the_duplicate_number;
 pub mod unique_word_abbreviation;
 #[path="game-of-life/mod.rs"]
 pub mod game_of_life;
+#[path="word-pattern-ii/mod.rs"]
+pub mod word_pattern_ii;
+#[path="flip-game-ii/mod.rs"]
+pub mod flip_game_ii;
+#[path="binary-tree-longest-consecutive-sequence/mod.rs"]
+pub mod binary_tree_longest_consecutive_sequence;
+#[path="bulls-and-cows/mod.rs"]
+pub mod bulls_and_cows;
+#[path="longest-increasing-subsequence/mod.rs"]
+pub mod longest_increasing_subsequence;

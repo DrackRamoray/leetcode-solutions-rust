@@ -123,3 +123,7 @@ pub mod first_bad_version;
 pub mod move_zeroes;
 #[path="word-pattern/mod.rs"]
 pub mod word_pattern;
+#[path="nim-game/mod.rs"]
+pub mod nim_game;
+#[path="flip-game/mod.rs"]
+pub mod flip_game;

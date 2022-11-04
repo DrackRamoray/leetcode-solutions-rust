@@ -89,3 +89,9 @@ pub mod closest_binary_search_tree_value_ii;
 pub mod integer_to_english_words;
 #[path="expression-add-operators/mod.rs"]
 pub mod expression_add_operators;
+#[path="find-median-from-data-stream/mod.rs"]
+pub mod find_median_from_data_stream;
+#[path="best-meeting-point/mod.rs"]
+pub mod best_meeting_point;
+#[path="serialize-and-deserialize-binary-tree/mod.rs"]
+pub mod serialize_and_deserialize_binary_tree;

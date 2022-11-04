@@ -64,3 +64,5 @@
 | [278. 第一个错误的版本](src/first-bad-version/first-bad-version.md) | `二分查找` |
 | [283. 移动零](src/move-zeroes/move-zeroes.md) | `双指针` |
 | [290. 单词规律](src/word-pattern/word-pattern.md) | `哈希` |
+| [292. Nim 游戏](src/nim-game/nim-game.md) | `数学` |
+| [293. 翻转游戏](src/flip-game/flip-game.md) | `字符串` |

@@ -65,6 +65,8 @@
 | [278. 第一个错误的版本](easy/src/first-bad-version/first-bad-version.md) | `二分查找` |
 | [283. 移动零](easy/src/move-zeroes/move-zeroes.md) | `双指针` |
 | [290. 单词规律](easy/src/word-pattern/word-pattern.md) | `哈希` |
+| [292. Nim 游戏](easy/src/nim-game/nim-game.md) | `数学` |
+| [293. 翻转游戏](easy/src/flip-game/flip-game.md) | `字符串` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -222,6 +224,11 @@
 | [287. 寻找重复数](medium/src/find-the-duplicate-number/find-the-duplicate-number.md) | `双指针` |
 | [288. 单词的唯一缩写](medium/src/unique-word-abbreviation/unique-word-abbreviation.md) | `数组` |
 | [289. 生命游戏](medium/src/game-of-life/game-of-life.md) | `矩阵` |
+| [291. 单词规律 II](medium/src/word-pattern-ii/word-pattern-ii.md) | `回溯` |
+| [294. 翻转游戏 II](medium/src/flip-game-ii/flip-game-ii.md) | `回溯` |
+| [298. 二叉树最长连续序列](medium/src/binary-tree-longest-consecutive-sequence/binary-tree-longest-consecutive-sequence.md) | `层序遍历` |
+| [299. 猜数字游戏](medium/src/bulls-and-cows/bulls-and-cows.md) | `计数` |
+| [300. 最长递增子序列](medium/src/longest-increasing-subsequence/longest-increasing-subsequence.md) | `动态规划` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -272,3 +279,6 @@
 | [272. 最接近的二叉搜索树值 II](hard/src/closest-binary-search-tree-value-ii/closest-binary-search-tree-value-ii.md) | `中序遍历` |
 | [273. 整数转换英文表示](hard/src/integer-to-english-words/integer-to-english-words.md) | `递归` |
 | [282. 给表达式添加运算符](hard/src/expression-add-operators/expression-add-operators.md) | `回溯` |
+| [295. 数据流的中位数](hard/src/find-median-from-data-stream/find-median-from-data-stream.md) | `堆` |
+| [296. 最佳的碰头地点](hard/src/best-meeting-point/best-meeting-point.md) | `数学` |
+| [297. 二叉树的序列化与反序列化](hard/src/serialize-and-deserialize-binary-tree/serialize-and-deserialize-binary-tree.md) | `深度优先遍历` |

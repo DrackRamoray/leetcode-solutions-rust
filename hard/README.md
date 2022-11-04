@@ -46,3 +46,6 @@
 | [272. 最接近的二叉搜索树值 II](src/closest-binary-search-tree-value-ii/closest-binary-search-tree-value-ii.md) | `中序遍历` |
 | [273. 整数转换英文表示](src/integer-to-english-words/integer-to-english-words.md) | `递归` |
 | [282. 给表达式添加运算符](src/expression-add-operators/expression-add-operators.md) | `回溯` |
+| [295. 数据流的中位数](src/find-median-from-data-stream/find-median-from-data-stream.md) | `堆` |
+| [296. 最佳的碰头地点](src/best-meeting-point/best-meeting-point.md) | `数学` |
+| [297. 二叉树的序列化与反序列化](src/serialize-and-deserialize-binary-tree/serialize-and-deserialize-binary-tree.md) | `深度优先遍历` |

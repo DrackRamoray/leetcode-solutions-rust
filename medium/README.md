@@ -153,3 +153,8 @@
 | [287. 寻找重复数](src/find-the-duplicate-number/find-the-duplicate-number.md) | `双指针` |
 | [288. 单词的唯一缩写](src/unique-word-abbreviation/unique-word-abbreviation.md) | `数组` |
 | [289. 生命游戏](src/game-of-life/game-of-life.md) | `矩阵` |
+| [291. 单词规律 II](src/word-pattern-ii/word-pattern-ii.md) | `回溯` |
+| [294. 翻转游戏 II](src/flip-game-ii/flip-game-ii.md) | `回溯` |
+| [298. 二叉树最长连续序列](src/binary-tree-longest-consecutive-sequence/binary-tree-longest-consecutive-sequence.md) | `层序遍历` |
+| [299. 猜数字游戏](src/bulls-and-cows/bulls-and-cows.md) | `计数` |
+| [300. 最长递增子序列](src/longest-increasing-subsequence/longest-increasing-subsequence.md) | `动态规划` |
