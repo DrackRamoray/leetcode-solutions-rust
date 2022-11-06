@@ -103,3 +103,9 @@ pub mod smallest_rectangle_enclosing_black_pixels;
 pub mod number_of_islands_ii;
 #[path="range-sum-query-2d-mutable/mod.rs"]
 pub mod range_sum_query_2_d_mutable;
+#[path="burst-balloons/mod.rs"]
+pub mod burst_balloons;
+#[path="count-of-smaller-numbers-after-self/mod.rs"]
+pub mod count_of_smaller_numbers_after_self;
+#[path="shortest-distance-from-all-buildings/mod.rs"]
+pub mod shortest_distance_from_all_buildings;

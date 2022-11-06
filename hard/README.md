@@ -53,3 +53,6 @@
 | [302. 包含全部黑色像素的最小矩形](src/smallest-rectangle-enclosing-black-pixels/smallest-rectangle-enclosing-black-pixels.md) | `矩阵` |
 | [305. 岛屿数量 II](src/number-of-islands-ii/number-of-islands-ii.md) | `并查集` |
 | [308. 二维区域和检索 - 可变](src/range-sum-query-2d-mutable/range-sum-query-2d-mutable.md) | `矩阵` |
+| [312. 戳气球](src/burst-balloons/burst-balloons.md) | `动态规划` |
+| [315. 计算右侧小于当前元素的个数](src/count-of-smaller-numbers-after-self/count-of-smaller-numbers-after-self.md) | `归并排序` |
+| [317. 离建筑物最近的距离](src/shortest-distance-from-all-buildings/shortest-distance-from-all-buildings.md) | `广度优先搜索` |

@@ -320,3 +320,11 @@ pub mod range_sum_query_mutable;
 pub mod best_time_to_buy_and_sell_stock_with_cooldown;
 #[path="minimum-height-trees/mod.rs"]
 pub mod minimum_height_trees;
+#[path="sparse-matrix-multiplication/mod.rs"]
+pub mod sparse_matrix_multiplication;
+#[path="super-ugly-number/mod.rs"]
+pub mod super_ugly_number;
+#[path="binary-tree-vertical-order-traversal/mod.rs"]
+pub mod binary_tree_vertical_order_traversal;
+#[path="remove-duplicate-letters/mod.rs"]
+pub mod remove_duplicate_letters;

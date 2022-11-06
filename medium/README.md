@@ -163,3 +163,7 @@
 | [307. 区域和检索 - 数组可修改](src/range-sum-query-mutable/range-sum-query-mutable.md) | `数组` |
 | [309. 最佳买卖股票时机含冷冻期](src/best-time-to-buy-and-sell-stock-with-cooldown/best-time-to-buy-and-sell-stock-with-cooldown.md) | `动态规划` |
 | [310. 最小高度树](src/minimum-height-trees/minimum-height-trees.md) | `图` |
+| [311. 稀疏矩阵的乘法](src/sparse-matrix-multiplication/sparse-matrix-multiplication.md) | `矩阵` |
+| [313. 超级丑数](src/super-ugly-number/super-ugly-number.md) | `动态规划` |
+| [314. 二叉树的垂直遍历](src/binary-tree-vertical-order-traversal/binary-tree-vertical-order-traversal.md) | `哈希` |
+| [316. 去除重复字母](src/remove-duplicate-letters/remove-duplicate-letters.md) | `栈` |

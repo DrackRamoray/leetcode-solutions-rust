@@ -235,6 +235,10 @@
 | [307. 区域和检索 - 数组可修改](medium/src/range-sum-query-mutable/range-sum-query-mutable.md) | `数组` |
 | [309. 最佳买卖股票时机含冷冻期](medium/src/best-time-to-buy-and-sell-stock-with-cooldown/best-time-to-buy-and-sell-stock-with-cooldown.md) | `动态规划` |
 | [310. 最小高度树](medium/src/minimum-height-trees/minimum-height-trees.md) | `图` |
+| [311. 稀疏矩阵的乘法](medium/src/sparse-matrix-multiplication/sparse-matrix-multiplication.md) | `矩阵` |
+| [313. 超级丑数](medium/src/super-ugly-number/super-ugly-number.md) | `动态规划` |
+| [314. 二叉树的垂直遍历](medium/src/binary-tree-vertical-order-traversal/binary-tree-vertical-order-traversal.md) | `哈希` |
+| [316. 去除重复字母](medium/src/remove-duplicate-letters/remove-duplicate-letters.md) | `栈` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -292,3 +296,6 @@
 | [302. 包含全部黑色像素的最小矩形](hard/src/smallest-rectangle-enclosing-black-pixels/smallest-rectangle-enclosing-black-pixels.md) | `矩阵` |
 | [305. 岛屿数量 II](hard/src/number-of-islands-ii/number-of-islands-ii.md) | `并查集` |
 | [308. 二维区域和检索 - 可变](hard/src/range-sum-query-2d-mutable/range-sum-query-2d-mutable.md) | `矩阵` |
+| [312. 戳气球](hard/src/burst-balloons/burst-balloons.md) | `动态规划` |
+| [315. 计算右侧小于当前元素的个数](hard/src/count-of-smaller-numbers-after-self/count-of-smaller-numbers-after-self.md) | `归并排序` |
+| [317. 离建筑物最近的距离](hard/src/shortest-distance-from-all-buildings/shortest-distance-from-all-buildings.md) | `广度优先搜索` |
