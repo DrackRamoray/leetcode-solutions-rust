@@ -328,3 +328,9 @@ pub mod super_ugly_number;
 pub mod binary_tree_vertical_order_traversal;
 #[path="remove-duplicate-letters/mod.rs"]
 pub mod remove_duplicate_letters;
+#[path="maximum-product-of-word-lengths/mod.rs"]
+pub mod maximum_product_of_word_lengths;
+#[path="bulb-switcher/mod.rs"]
+pub mod bulb_switcher;
+#[path="generalized-abbreviation/mod.rs"]
+pub mod generalized_abbreviation;

@@ -239,6 +239,9 @@
 | [313. 超级丑数](medium/src/super-ugly-number/super-ugly-number.md) | `动态规划` |
 | [314. 二叉树的垂直遍历](medium/src/binary-tree-vertical-order-traversal/binary-tree-vertical-order-traversal.md) | `哈希` |
 | [316. 去除重复字母](medium/src/remove-duplicate-letters/remove-duplicate-letters.md) | `栈` |
+| [318. 最大单词长度乘积](medium/src/maximum-product-of-word-lengths/maximum-product-of-word-lengths.md) | `位运算` |
+| [319. 灯泡开关](medium/src/bulb-switcher/bulb-switcher.md) | `数学` |
+| [320. 列举单词的全部缩写](medium/src/generalized-abbreviation/generalized-abbreviation.md) | `回溯` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
