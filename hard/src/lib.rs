@@ -101,3 +101,5 @@ pub mod remove_invalid_parentheses;
 pub mod smallest_rectangle_enclosing_black_pixels;
 #[path="number-of-islands-ii/mod.rs"]
 pub mod number_of_islands_ii;
+#[path="range-sum-query-2d-mutable/mod.rs"]
+pub mod range_sum_query_2_d_mutable;

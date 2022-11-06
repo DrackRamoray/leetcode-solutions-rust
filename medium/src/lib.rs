@@ -312,3 +312,11 @@ pub mod bulls_and_cows;
 pub mod longest_increasing_subsequence;
 #[path="range-sum-query-2d-immutable/mod.rs"]
 pub mod range_sum_query_2_d_immutable;
+#[path="additive-number/mod.rs"]
+pub mod additive_number;
+#[path="range-sum-query-mutable/mod.rs"]
+pub mod range_sum_query_mutable;
+#[path="best-time-to-buy-and-sell-stock-with-cooldown/mod.rs"]
+pub mod best_time_to_buy_and_sell_stock_with_cooldown;
+#[path="minimum-height-trees/mod.rs"]
+pub mod minimum_height_trees;

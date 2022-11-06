@@ -231,6 +231,10 @@
 | [299. 猜数字游戏](medium/src/bulls-and-cows/bulls-and-cows.md) | `计数` |
 | [300. 最长递增子序列](medium/src/longest-increasing-subsequence/longest-increasing-subsequence.md) | `动态规划` |
 | [304. 二维区域和检索 - 矩阵不可变](medium/src/range-sum-query-2d-immutable/range-sum-query-2d-immutable.md) | `前缀和` |
+| [306. 累加数](medium/src/additive-number/additive-number.md) | `回溯` |
+| [307. 区域和检索 - 数组可修改](medium/src/range-sum-query-mutable/range-sum-query-mutable.md) | `数组` |
+| [309. 最佳买卖股票时机含冷冻期](medium/src/best-time-to-buy-and-sell-stock-with-cooldown/best-time-to-buy-and-sell-stock-with-cooldown.md) | `动态规划` |
+| [310. 最小高度树](medium/src/minimum-height-trees/minimum-height-trees.md) | `图` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -287,3 +291,4 @@
 | [301. 删除无效的括号](hard/src/remove-invalid-parentheses/remove-invalid-parentheses.md)) | `回溯` |
 | [302. 包含全部黑色像素的最小矩形](hard/src/smallest-rectangle-enclosing-black-pixels/smallest-rectangle-enclosing-black-pixels.md) | `矩阵` |
 | [305. 岛屿数量 II](hard/src/number-of-islands-ii/number-of-islands-ii.md) | `并查集` |
+| [308. 二维区域和检索 - 可变](hard/src/range-sum-query-2d-mutable/range-sum-query-2d-mutable.md) | `矩阵` |

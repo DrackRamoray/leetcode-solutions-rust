@@ -52,3 +52,4 @@
 | [301. 删除无效的括号](src/remove-invalid-parentheses/remove-invalid-parentheses.md)) | `回溯` |
 | [302. 包含全部黑色像素的最小矩形](src/smallest-rectangle-enclosing-black-pixels/smallest-rectangle-enclosing-black-pixels.md) | `矩阵` |
 | [305. 岛屿数量 II](src/number-of-islands-ii/number-of-islands-ii.md) | `并查集` |
+| [308. 二维区域和检索 - 可变](src/range-sum-query-2d-mutable/range-sum-query-2d-mutable.md) | `矩阵` |
