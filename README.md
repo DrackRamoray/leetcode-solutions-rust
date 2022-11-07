@@ -68,6 +68,7 @@
 | [292. Nim 游戏](easy/src/nim-game/nim-game.md) | `数学` |
 | [293. 翻转游戏](easy/src/flip-game/flip-game.md) | `字符串` |
 | [303. 区域和检索 - 数组不可变](easy/src/range-sum-query-immutable/range-sum-query-immutable.md) | `前缀和` |
+| [326. 3 的幂](easy/src/power-of-three/power-of-three.md) | `数学` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -242,6 +243,10 @@
 | [318. 最大单词长度乘积](medium/src/maximum-product-of-word-lengths/maximum-product-of-word-lengths.md) | `位运算` |
 | [319. 灯泡开关](medium/src/bulb-switcher/bulb-switcher.md) | `数学` |
 | [320. 列举单词的全部缩写](medium/src/generalized-abbreviation/generalized-abbreviation.md) | `回溯` |
+| [322. 零钱兑换](medium/src/coin-change/coin-change.md) | `动态规划` |
+| [323. 无向图中连通分量的数目](medium/src/number-of-connected-components-in-an-undirected-graph/number-of-connected-components-in-an-undirected-graph.md) | `并查集` |
+| [324. 摆动排序 II](medium/src/wiggle-sort-ii/wiggle-sort-ii.md) | `排序` |
+| [325. 和等于 k 的最长子数组长度](medium/src/maximum-size-subarray-sum-equals-k/maximum-size-subarray-sum-equals-k.md) | `前缀和` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -302,3 +307,4 @@
 | [312. 戳气球](hard/src/burst-balloons/burst-balloons.md) | `动态规划` |
 | [315. 计算右侧小于当前元素的个数](hard/src/count-of-smaller-numbers-after-self/count-of-smaller-numbers-after-self.md) | `归并排序` |
 | [317. 离建筑物最近的距离](hard/src/shortest-distance-from-all-buildings/shortest-distance-from-all-buildings.md) | `广度优先搜索` |
+| [~~321. 拼接最大数~~](hard/src/create-maximum-number/create-maximum-number.md) |  |

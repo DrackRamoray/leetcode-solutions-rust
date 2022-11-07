@@ -334,3 +334,11 @@ pub mod maximum_product_of_word_lengths;
 pub mod bulb_switcher;
 #[path="generalized-abbreviation/mod.rs"]
 pub mod generalized_abbreviation;
+#[path="coin-change/mod.rs"]
+pub mod coin_change;
+#[path="number-of-connected-components-in-an-undirected-graph/mod.rs"]
+pub mod number_of_connected_components_in_an_undirected_graph;
+#[path="wiggle-sort-ii/mod.rs"]
+pub mod wiggle_sort_ii;
+#[path="maximum-size-subarray-sum-equals-k/mod.rs"]
+pub mod maximum_size_subarray_sum_equals_k;

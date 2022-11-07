@@ -170,3 +170,7 @@
 | [318. 最大单词长度乘积](src/maximum-product-of-word-lengths/maximum-product-of-word-lengths.md) | `位运算` |
 | [319. 灯泡开关](src/bulb-switcher/bulb-switcher.md) | `数学` |
 | [320. 列举单词的全部缩写](src/generalized-abbreviation/generalized-abbreviation.md) | `回溯` |
+| [322. 零钱兑换](src/coin-change/coin-change.md) | `动态规划` |
+| [323. 无向图中连通分量的数目](src/number-of-connected-components-in-an-undirected-graph/number-of-connected-components-in-an-undirected-graph.md) | `并查集` |
+| [324. 摆动排序 II](src/wiggle-sort-ii/wiggle-sort-ii.md) | `排序` |
+| [325. 和等于 k 的最长子数组长度](src/maximum-size-subarray-sum-equals-k/maximum-size-subarray-sum-equals-k.md) | `前缀和` |

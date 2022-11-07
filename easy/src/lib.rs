@@ -129,3 +129,5 @@ pub mod nim_game;
 pub mod flip_game;
 #[path="range-sum-query-immutable/mod.rs"]
 pub mod range_sum_query_immutable;
+#[path="power-of-three/mod.rs"]
+pub mod power_of_three;

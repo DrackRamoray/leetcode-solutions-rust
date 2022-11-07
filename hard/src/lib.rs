@@ -109,3 +109,5 @@ pub mod burst_balloons;
 pub mod count_of_smaller_numbers_after_self;
 #[path="shortest-distance-from-all-buildings/mod.rs"]
 pub mod shortest_distance_from_all_buildings;
+#[path="create-maximum-number/mod.rs"]
+pub mod create_maximum_number;
