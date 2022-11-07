@@ -342,3 +342,5 @@ pub mod number_of_connected_components_in_an_undirected_graph;
 pub mod wiggle_sort_ii;
 #[path="maximum-size-subarray-sum-equals-k/mod.rs"]
 pub mod maximum_size_subarray_sum_equals_k;
+#[path="odd-even-linked-list/mod.rs"]
+pub mod odd_even_linked_list;

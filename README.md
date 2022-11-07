@@ -247,6 +247,7 @@
 | [323. 无向图中连通分量的数目](medium/src/number-of-connected-components-in-an-undirected-graph/number-of-connected-components-in-an-undirected-graph.md) | `并查集` |
 | [324. 摆动排序 II](medium/src/wiggle-sort-ii/wiggle-sort-ii.md) | `排序` |
 | [325. 和等于 k 的最长子数组长度](medium/src/maximum-size-subarray-sum-equals-k/maximum-size-subarray-sum-equals-k.md) | `前缀和` |
+| [328. 奇偶链表](medium/src/odd-even-linked-list/odd-even-linked-list.md) | `链表` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -308,3 +309,6 @@
 | [315. 计算右侧小于当前元素的个数](hard/src/count-of-smaller-numbers-after-self/count-of-smaller-numbers-after-self.md) | `归并排序` |
 | [317. 离建筑物最近的距离](hard/src/shortest-distance-from-all-buildings/shortest-distance-from-all-buildings.md) | `广度优先搜索` |
 | [~~321. 拼接最大数~~](hard/src/create-maximum-number/create-maximum-number.md) |  |
+| [~~327. 区间和的个数~~](hard/src/count-of-range-sum/count-of-range-sum.md) |  |
+| [329. 矩阵中的最长递增路径](hard/src/longest-increasing-path-in-a-matrix/longest-increasing-path-in-a-matrix.md) | `深度优先遍历` |
+| [330. 按要求补齐数组](hard/src/patching-array/patching-array.md) | `贪心` |

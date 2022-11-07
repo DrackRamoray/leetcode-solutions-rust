@@ -57,3 +57,6 @@
 | [315. 计算右侧小于当前元素的个数](src/count-of-smaller-numbers-after-self/count-of-smaller-numbers-after-self.md) | `归并排序` |
 | [317. 离建筑物最近的距离](src/shortest-distance-from-all-buildings/shortest-distance-from-all-buildings.md) | `广度优先搜索` |
 | [~~321. 拼接最大数~~](src/create-maximum-number/create-maximum-number.md) |  |
+| [~~327. 区间和的个数~~](src/count-of-range-sum/count-of-range-sum.md) |  |
+| [329. 矩阵中的最长递增路径](src/longest-increasing-path-in-a-matrix/longest-increasing-path-in-a-matrix.md) | `深度优先遍历` |
+| [330. 按要求补齐数组](src/patching-array/patching-array.md) | `贪心` |

@@ -111,3 +111,9 @@ pub mod count_of_smaller_numbers_after_self;
 pub mod shortest_distance_from_all_buildings;
 #[path="create-maximum-number/mod.rs"]
 pub mod create_maximum_number;
+#[path="count-of-range-sum/mod.rs"]
+pub mod count_of_range_sum;
+#[path="longest-increasing-path-in-a-matrix/mod.rs"]
+pub mod longest_increasing_path_in_a_matrix;
+#[path="patching-array/mod.rs"]
+pub mod patching_array;
