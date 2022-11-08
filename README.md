@@ -70,6 +70,9 @@
 | [303. 区域和检索 - 数组不可变](easy/src/range-sum-query-immutable/range-sum-query-immutable.md) | `前缀和` |
 | [326. 3 的幂](easy/src/power-of-three/power-of-three.md) | `数学` |
 | [338. 比特位计数](easy/src/counting-bits/counting-bits.md) | `动态规划` |
+| [342. 4的幂](easy/src/power-of-four/power-of-four.md) | `数学` |
+| [344. 反转字符串](easy/src/reverse-string/reverse-string.md) | `双指针` |
+| [345. 反转字符串中的元音字母](easy/src/reverse-vowels-of-a-string/reverse-vowels-of-a-string.md) | `双指针` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -255,6 +258,8 @@
 | [337. 打家劫舍 III](medium/src/house-robber-iii/house-robber-iii.md) | `深度优先搜索` |
 | [339. 嵌套列表权重和](medium/src/nested-list-weight-sum/nested-list-weight-sum.md) | `深度优先搜索` |
 | [340. 至多包含 K 个不同字符的最长子串](medium/src/longest-substring-with-at-most-k-distinct-characters/longest-substring-with-at-most-k-distinct-characters.md) | `滑动窗口` |
+| [341. 扁平化嵌套列表迭代器](medium/src/flatten-nested-list-iterator/flatten-nested-list-iterator.md) | `深度优先搜索` |
+| [343. 整数拆分](medium/src/integer-break/integer-break.md) | `动态规划` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |

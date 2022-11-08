@@ -181,3 +181,5 @@
 | [337. 打家劫舍 III](src/house-robber-iii/house-robber-iii.md) | `深度优先搜索` |
 | [339. 嵌套列表权重和](src/nested-list-weight-sum/nested-list-weight-sum.md) | `深度优先搜索` |
 | [340. 至多包含 K 个不同字符的最长子串](src/longest-substring-with-at-most-k-distinct-characters/longest-substring-with-at-most-k-distinct-characters.md) | `滑动窗口` |
+| [341. 扁平化嵌套列表迭代器](src/flatten-nested-list-iterator/flatten-nested-list-iterator.md) | `深度优先搜索` |
+| [343. 整数拆分](src/integer-break/integer-break.md) | `动态规划` |

@@ -133,3 +133,9 @@ pub mod range_sum_query_immutable;
 pub mod power_of_three;
 #[path="counting-bits/mod.rs"]
 pub mod counting_bits;
+#[path="power-of-four/mod.rs"]
+pub mod power_of_four;
+#[path="reverse-string/mod.rs"]
+pub mod reverse_string;
+#[path="reverse-vowels-of-a-string/mod.rs"]
+pub mod reverse_vowels_of_a_string;

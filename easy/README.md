@@ -69,3 +69,6 @@
 | [303. 区域和检索 - 数组不可变](src/range-sum-query-immutable/range-sum-query-immutable.md) | `前缀和` |
 | [326. 3 的幂](src/power-of-three/power-of-three.md) | `数学` |
 | [338. 比特位计数](src/counting-bits/counting-bits.md) | `动态规划` |
+| [342. 4的幂](src/power-of-four/power-of-four.md) | `数学` |
+| [344. 反转字符串](src/reverse-string/reverse-string.md) | `双指针` |
+| [345. 反转字符串中的元音字母](src/reverse-vowels-of-a-string/reverse-vowels-of-a-string.md) | `双指针` |

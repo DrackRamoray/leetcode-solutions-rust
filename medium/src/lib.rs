@@ -356,3 +356,7 @@ pub mod house_robber_iii;
 pub mod nested_list_weight_sum;
 #[path="longest-substring-with-at-most-k-distinct-characters/mod.rs"]
 pub mod longest_substring_with_at_most_k_distinct_characters;
+#[path="flatten-nested-list-iterator/mod.rs"]
+pub mod flatten_nested_list_iterator;
+#[path="integer-break/mod.rs"]
+pub mod integer_break;
