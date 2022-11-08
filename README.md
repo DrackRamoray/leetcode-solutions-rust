@@ -76,6 +76,7 @@
 | [346. 数据流中的移动平均值](easy/src/moving-average-from-data-stream/moving-average-from-data-stream.md) | `队列` |
 | [349. 两个数组的交集](easy/src/intersection-of-two-arrays/intersection-of-two-arrays.md) | `哈希` |
 | [350. 两个数组的交集 II](easy/src/intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.md) | `双指针` |
+| [359. 日志速率限制器](easy/src/logger-rate-limiter/logger-rate-limiter.md) | `哈希` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -268,6 +269,9 @@
 | [351. 安卓系统手势解锁](medium/src/android-unlock-patterns/android-unlock-patterns.md) | `回溯` |
 | [353. 贪吃蛇](medium/src/design-snake-game/design-snake-game.md) | `队列` |
 | [355. 设计推特](medium/src/design-twitter/design-twitter.md) | `哈希` |
+| [356. 直线镜像](medium/src/line-reflection/line-reflection.md) | `哈希` |
+| [~~357. 统计各位数字都不同的数字个数~~](medium/src/count-numbers-with-unique-digits/count-numbers-with-unique-digits.md) |  |
+| [360. 有序转化数组](medium/src/sort-transformed-array/sort-transformed-array.md) | `双指针` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -337,3 +341,4 @@
 | [336. 回文对](hard/src/palindrome-pairs/palindrome-pairs.md) | `哈希` |
 | [~~352. 将数据流变为多个不相交区间~~](hard/src/data-stream-as-disjoint-intervals/data-stream-as-disjoint-intervals.md) |  |
 | [~~354. 俄罗斯套娃信封问题~~](hard/src/russian-doll-envelopes/russian-doll-envelopes.md) |  |
+| [358. K 距离间隔重排字符串](hard/src/rearrange-string-k-distance-apart/rearrange-string-k-distance-apart.md) | `优先队列` |

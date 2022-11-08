@@ -370,3 +370,9 @@ pub mod android_unlock_patterns;
 pub mod design_snake_game;
 #[path="design-twitter/mod.rs"]
 pub mod design_twitter;
+#[path="line-reflection/mod.rs"]
+pub mod line_reflection;
+#[path="count-numbers-with-unique-digits/mod.rs"]
+pub mod count_numbers_with_unique_digits;
+#[path="sort-transformed-array/mod.rs"]
+pub mod sort_transformed_array;

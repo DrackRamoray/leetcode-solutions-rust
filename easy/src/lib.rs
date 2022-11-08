@@ -145,3 +145,5 @@ pub mod moving_average_from_data_stream;
 pub mod intersection_of_two_arrays;
 #[path="intersection-of-two-arrays-ii/mod.rs"]
 pub mod intersection_of_two_arrays_ii;
+#[path="logger-rate-limiter/mod.rs"]
+pub mod logger_rate_limiter;

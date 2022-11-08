@@ -127,3 +127,5 @@ pub mod palindrome_pairs;
 pub mod data_stream_as_disjoint_intervals;
 #[path="russian-doll-envelopes/mod.rs"]
 pub mod russian_doll_envelopes;
+#[path="rearrange-string-k-distance-apart/mod.rs"]
+pub mod rearrange_string_k_distance_apart;

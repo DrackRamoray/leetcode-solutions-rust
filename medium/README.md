@@ -188,3 +188,6 @@
 | [351. 安卓系统手势解锁](src/android-unlock-patterns/android-unlock-patterns.md) | `回溯` |
 | [353. 贪吃蛇](src/design-snake-game/design-snake-game.md) | `队列` |
 | [355. 设计推特](src/design-twitter/design-twitter.md) | `哈希` |
+| [356. 直线镜像](src/line-reflection/line-reflection.md) | `哈希` |
+| [~~357. 统计各位数字都不同的数字个数~~](src/count-numbers-with-unique-digits/count-numbers-with-unique-digits.md) |  |
+| [360. 有序转化数组](src/sort-transformed-array/sort-transformed-array.md) | `双指针` |

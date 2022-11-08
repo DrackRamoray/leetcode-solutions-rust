@@ -75,3 +75,4 @@
 | [346. 数据流中的移动平均值](src/moving-average-from-data-stream/moving-average-from-data-stream.md) | `队列` |
 | [349. 两个数组的交集](src/intersection-of-two-arrays/intersection-of-two-arrays.md) | `哈希` |
 | [350. 两个数组的交集 II](src/intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.md) | `双指针` |
+| [359. 日志速率限制器](src/logger-rate-limiter/logger-rate-limiter.md) | `哈希` |
