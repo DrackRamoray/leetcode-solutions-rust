@@ -183,3 +183,5 @@
 | [340. 至多包含 K 个不同字符的最长子串](src/longest-substring-with-at-most-k-distinct-characters/longest-substring-with-at-most-k-distinct-characters.md) | `滑动窗口` |
 | [341. 扁平化嵌套列表迭代器](src/flatten-nested-list-iterator/flatten-nested-list-iterator.md) | `深度优先搜索` |
 | [343. 整数拆分](src/integer-break/integer-break.md) | `动态规划` |
+| [347. 前 K 个高频元素](src/top-k-frequent-elements/top-k-frequent-elements.md) | `优先队列` |
+| [348. 设计井字棋](src/design-tic-tac-toe/design-tic-tac-toe.md) | `矩阵` |

@@ -73,6 +73,9 @@
 | [342. 4的幂](easy/src/power-of-four/power-of-four.md) | `数学` |
 | [344. 反转字符串](easy/src/reverse-string/reverse-string.md) | `双指针` |
 | [345. 反转字符串中的元音字母](easy/src/reverse-vowels-of-a-string/reverse-vowels-of-a-string.md) | `双指针` |
+| [346. 数据流中的移动平均值](easy/src/moving-average-from-data-stream/moving-average-from-data-stream.md) | `队列` |
+| [349. 两个数组的交集](easy/src/intersection-of-two-arrays/intersection-of-two-arrays.md) | `哈希` |
+| [350. 两个数组的交集 II](easy/src/intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.md) | `双指针` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -260,6 +263,8 @@
 | [340. 至多包含 K 个不同字符的最长子串](medium/src/longest-substring-with-at-most-k-distinct-characters/longest-substring-with-at-most-k-distinct-characters.md) | `滑动窗口` |
 | [341. 扁平化嵌套列表迭代器](medium/src/flatten-nested-list-iterator/flatten-nested-list-iterator.md) | `深度优先搜索` |
 | [343. 整数拆分](medium/src/integer-break/integer-break.md) | `动态规划` |
+| [347. 前 K 个高频元素](medium/src/top-k-frequent-elements/top-k-frequent-elements.md) | `优先队列` |
+| [348. 设计井字棋](medium/src/design-tic-tac-toe/design-tic-tac-toe.md) | `矩阵` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |

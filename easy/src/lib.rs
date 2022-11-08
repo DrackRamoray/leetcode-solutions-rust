@@ -139,3 +139,9 @@ pub mod power_of_four;
 pub mod reverse_string;
 #[path="reverse-vowels-of-a-string/mod.rs"]
 pub mod reverse_vowels_of_a_string;
+#[path="moving-average-from-data-stream/mod.rs"]
+pub mod moving_average_from_data_stream;
+#[path="intersection-of-two-arrays/mod.rs"]
+pub mod intersection_of_two_arrays;
+#[path="intersection-of-two-arrays-ii/mod.rs"]
+pub mod intersection_of_two_arrays_ii;

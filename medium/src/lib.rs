@@ -360,3 +360,7 @@ pub mod longest_substring_with_at_most_k_distinct_characters;
 pub mod flatten_nested_list_iterator;
 #[path="integer-break/mod.rs"]
 pub mod integer_break;
+#[path="top-k-frequent-elements/mod.rs"]
+pub mod top_k_frequent_elements;
+#[path="design-tic-tac-toe/mod.rs"]
+pub mod design_tic_tac_toe;
