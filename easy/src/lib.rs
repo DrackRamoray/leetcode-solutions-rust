@@ -131,3 +131,5 @@ pub mod flip_game;
 pub mod range_sum_query_immutable;
 #[path="power-of-three/mod.rs"]
 pub mod power_of_three;
+#[path="counting-bits/mod.rs"]
+pub mod counting_bits;

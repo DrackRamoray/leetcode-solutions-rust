@@ -344,3 +344,15 @@ pub mod wiggle_sort_ii;
 pub mod maximum_size_subarray_sum_equals_k;
 #[path="odd-even-linked-list/mod.rs"]
 pub mod odd_even_linked_list;
+#[path="verify-preorder-serialization-of-a-binary-tree/mod.rs"]
+pub mod verify_preorder_serialization_of_a_binary_tree;
+#[path="largest-bst-subtree/mod.rs"]
+pub mod largest_bst_subtree;
+#[path="increasing-triplet-subsequence/mod.rs"]
+pub mod increasing_triplet_subsequence;
+#[path="house-robber-iii/mod.rs"]
+pub mod house_robber_iii;
+#[path="nested-list-weight-sum/mod.rs"]
+pub mod nested_list_weight_sum;
+#[path="longest-substring-with-at-most-k-distinct-characters/mod.rs"]
+pub mod longest_substring_with_at_most_k_distinct_characters;

@@ -60,3 +60,6 @@
 | [~~327. 区间和的个数~~](src/count-of-range-sum/count-of-range-sum.md) |  |
 | [329. 矩阵中的最长递增路径](src/longest-increasing-path-in-a-matrix/longest-increasing-path-in-a-matrix.md) | `深度优先遍历` |
 | [330. 按要求补齐数组](src/patching-array/patching-array.md) | `贪心` |
+| [~~332. 重新安排行程~~](src/reconstruct-itinerary/reconstruct-itinerary.md) |  |
+| [~~335. 路径交叉~~](src/self-crossing/self-crossing.md) |  |
+| [336. 回文对](src/palindrome-pairs/palindrome-pairs.md) | `哈希` |

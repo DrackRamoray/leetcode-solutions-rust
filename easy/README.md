@@ -68,3 +68,4 @@
 | [293. 翻转游戏](src/flip-game/flip-game.md) | `字符串` |
 | [303. 区域和检索 - 数组不可变](src/range-sum-query-immutable/range-sum-query-immutable.md) | `前缀和` |
 | [326. 3 的幂](src/power-of-three/power-of-three.md) | `数学` |
+| [338. 比特位计数](src/counting-bits/counting-bits.md) | `动态规划` |

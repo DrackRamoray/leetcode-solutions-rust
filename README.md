@@ -69,6 +69,7 @@
 | [293. 翻转游戏](easy/src/flip-game/flip-game.md) | `字符串` |
 | [303. 区域和检索 - 数组不可变](easy/src/range-sum-query-immutable/range-sum-query-immutable.md) | `前缀和` |
 | [326. 3 的幂](easy/src/power-of-three/power-of-three.md) | `数学` |
+| [338. 比特位计数](easy/src/counting-bits/counting-bits.md) | `动态规划` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -248,6 +249,12 @@
 | [324. 摆动排序 II](medium/src/wiggle-sort-ii/wiggle-sort-ii.md) | `排序` |
 | [325. 和等于 k 的最长子数组长度](medium/src/maximum-size-subarray-sum-equals-k/maximum-size-subarray-sum-equals-k.md) | `前缀和` |
 | [328. 奇偶链表](medium/src/odd-even-linked-list/odd-even-linked-list.md) | `链表` |
+| [331. 验证二叉树的前序序列化](medium/src/verify-preorder-serialization-of-a-binary-tree/verify-preorder-serialization-of-a-binary-tree.md) | `计数` |
+| [333. 最大 BST 子树](medium/src/largest-bst-subtree/largest-bst-subtree.md) | `深度优先搜索` |
+| [334. 递增的三元子序列](medium/src/increasing-triplet-subsequence/increasing-triplet-subsequence.md) | `贪心` |
+| [337. 打家劫舍 III](medium/src/house-robber-iii/house-robber-iii.md) | `深度优先搜索` |
+| [339. 嵌套列表权重和](medium/src/nested-list-weight-sum/nested-list-weight-sum.md) | `深度优先搜索` |
+| [340. 至多包含 K 个不同字符的最长子串](medium/src/longest-substring-with-at-most-k-distinct-characters/longest-substring-with-at-most-k-distinct-characters.md) | `滑动窗口` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -312,3 +319,6 @@
 | [~~327. 区间和的个数~~](hard/src/count-of-range-sum/count-of-range-sum.md) |  |
 | [329. 矩阵中的最长递增路径](hard/src/longest-increasing-path-in-a-matrix/longest-increasing-path-in-a-matrix.md) | `深度优先遍历` |
 | [330. 按要求补齐数组](hard/src/patching-array/patching-array.md) | `贪心` |
+| [~~332. 重新安排行程~~](hard/src/reconstruct-itinerary/reconstruct-itinerary.md) |  |
+| [~~335. 路径交叉~~](hard/src/self-crossing/self-crossing.md) |  |
+| [336. 回文对](hard/src/palindrome-pairs/palindrome-pairs.md) | `哈希` |

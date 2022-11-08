@@ -117,3 +117,9 @@ pub mod count_of_range_sum;
 pub mod longest_increasing_path_in_a_matrix;
 #[path="patching-array/mod.rs"]
 pub mod patching_array;
+#[path="reconstruct-itinerary/mod.rs"]
+pub mod reconstruct_itinerary;
+#[path="self-crossing/mod.rs"]
+pub mod self_crossing;
+#[path="palindrome-pairs/mod.rs"]
+pub mod palindrome_pairs;

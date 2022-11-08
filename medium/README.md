@@ -175,3 +175,9 @@
 | [324. 摆动排序 II](src/wiggle-sort-ii/wiggle-sort-ii.md) | `排序` |
 | [325. 和等于 k 的最长子数组长度](src/maximum-size-subarray-sum-equals-k/maximum-size-subarray-sum-equals-k.md) | `前缀和` |
 | [328. 奇偶链表](src/odd-even-linked-list/odd-even-linked-list.md) | `链表` |
+| [331. 验证二叉树的前序序列化](src/verify-preorder-serialization-of-a-binary-tree/verify-preorder-serialization-of-a-binary-tree.md) | `计数` |
+| [333. 最大 BST 子树](src/largest-bst-subtree/largest-bst-subtree.md) | `深度优先搜索` |
+| [334. 递增的三元子序列](src/increasing-triplet-subsequence/increasing-triplet-subsequence.md) | `贪心` `子序列` |
+| [337. 打家劫舍 III](src/house-robber-iii/house-robber-iii.md) | `深度优先搜索` |
+| [339. 嵌套列表权重和](src/nested-list-weight-sum/nested-list-weight-sum.md) | `深度优先搜索` |
+| [340. 至多包含 K 个不同字符的最长子串](src/longest-substring-with-at-most-k-distinct-characters/longest-substring-with-at-most-k-distinct-characters.md) | `滑动窗口` |
