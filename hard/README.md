@@ -63,3 +63,5 @@
 | [~~332. 重新安排行程~~](src/reconstruct-itinerary/reconstruct-itinerary.md) |  |
 | [~~335. 路径交叉~~](src/self-crossing/self-crossing.md) |  |
 | [336. 回文对](src/palindrome-pairs/palindrome-pairs.md) | `哈希` |
+| [~~352. 将数据流变为多个不相交区间~~](src/data-stream-as-disjoint-intervals/data-stream-as-disjoint-intervals.md) |  |
+| [~~354. 俄罗斯套娃信封问题~~](src/russian-doll-envelopes/russian-doll-envelopes.md) |  |

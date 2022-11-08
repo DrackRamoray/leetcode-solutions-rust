@@ -265,6 +265,9 @@
 | [343. 整数拆分](medium/src/integer-break/integer-break.md) | `动态规划` |
 | [347. 前 K 个高频元素](medium/src/top-k-frequent-elements/top-k-frequent-elements.md) | `优先队列` |
 | [348. 设计井字棋](medium/src/design-tic-tac-toe/design-tic-tac-toe.md) | `矩阵` |
+| [351. 安卓系统手势解锁](medium/src/android-unlock-patterns/android-unlock-patterns.md) | `回溯` |
+| [353. 贪吃蛇](medium/src/design-snake-game/design-snake-game.md) | `队列` |
+| [355. 设计推特](medium/src/design-twitter/design-twitter.md) | `哈希` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -332,3 +335,5 @@
 | [~~332. 重新安排行程~~](hard/src/reconstruct-itinerary/reconstruct-itinerary.md) |  |
 | [~~335. 路径交叉~~](hard/src/self-crossing/self-crossing.md) |  |
 | [336. 回文对](hard/src/palindrome-pairs/palindrome-pairs.md) | `哈希` |
+| [~~352. 将数据流变为多个不相交区间~~](hard/src/data-stream-as-disjoint-intervals/data-stream-as-disjoint-intervals.md) |  |
+| [~~354. 俄罗斯套娃信封问题~~](hard/src/russian-doll-envelopes/russian-doll-envelopes.md) |  |

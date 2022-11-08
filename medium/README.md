@@ -185,3 +185,6 @@
 | [343. 整数拆分](src/integer-break/integer-break.md) | `动态规划` |
 | [347. 前 K 个高频元素](src/top-k-frequent-elements/top-k-frequent-elements.md) | `优先队列` |
 | [348. 设计井字棋](src/design-tic-tac-toe/design-tic-tac-toe.md) | `矩阵` |
+| [351. 安卓系统手势解锁](src/android-unlock-patterns/android-unlock-patterns.md) | `回溯` |
+| [353. 贪吃蛇](src/design-snake-game/design-snake-game.md) | `队列` |
+| [355. 设计推特](src/design-twitter/design-twitter.md) | `哈希` |

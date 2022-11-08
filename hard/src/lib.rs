@@ -123,3 +123,7 @@ pub mod reconstruct_itinerary;
 pub mod self_crossing;
 #[path="palindrome-pairs/mod.rs"]
 pub mod palindrome_pairs;
+#[path="data-stream-as-disjoint-intervals/mod.rs"]
+pub mod data_stream_as_disjoint_intervals;
+#[path="russian-doll-envelopes/mod.rs"]
+pub mod russian_doll_envelopes;

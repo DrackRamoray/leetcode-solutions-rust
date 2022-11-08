@@ -364,3 +364,9 @@ pub mod integer_break;
 pub mod top_k_frequent_elements;
 #[path="design-tic-tac-toe/mod.rs"]
 pub mod design_tic_tac_toe;
+#[path="android-unlock-patterns/mod.rs"]
+pub mod android_unlock_patterns;
+#[path="design-snake-game/mod.rs"]
+pub mod design_snake_game;
+#[path="design-twitter/mod.rs"]
+pub mod design_twitter;
