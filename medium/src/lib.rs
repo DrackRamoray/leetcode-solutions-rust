@@ -376,3 +376,11 @@ pub mod line_reflection;
 pub mod count_numbers_with_unique_digits;
 #[path="sort-transformed-array/mod.rs"]
 pub mod sort_transformed_array;
+#[path="bomb-enemy/mod.rs"]
+pub mod bomb_enemy;
+#[path="design-hit-counter/mod.rs"]
+pub mod design_hit_counter;
+#[path="nested-list-weight-sum-ii/mod.rs"]
+pub mod nested_list_weight_sum_ii;
+#[path="water-and-jug-problem/mod.rs"]
+pub mod water_and_jug_problem;

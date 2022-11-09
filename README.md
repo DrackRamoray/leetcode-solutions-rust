@@ -272,6 +272,10 @@
 | [356. 直线镜像](medium/src/line-reflection/line-reflection.md) | `哈希` |
 | [~~357. 统计各位数字都不同的数字个数~~](medium/src/count-numbers-with-unique-digits/count-numbers-with-unique-digits.md) |  |
 | [360. 有序转化数组](medium/src/sort-transformed-array/sort-transformed-array.md) | `双指针` |
+| [361. 轰炸敌人](medium/src/bomb-enemy/bomb-enemy.md) | `动态规划` |
+| [362. 敲击计数器](medium/src/design-hit-counter/design-hit-counter.md) | `队列` |
+| [364. 加权嵌套序列和 II](medium/src/nested-list-weight-sum-ii/nested-list-weight-sum-ii.md) | `深度优先搜索` |
+| [365. 水壶问题](medium/src/water-and-jug-problem/water-and-jug-problem.md) | `数学` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -342,3 +346,4 @@
 | [~~352. 将数据流变为多个不相交区间~~](hard/src/data-stream-as-disjoint-intervals/data-stream-as-disjoint-intervals.md) |  |
 | [~~354. 俄罗斯套娃信封问题~~](hard/src/russian-doll-envelopes/russian-doll-envelopes.md) |  |
 | [358. K 距离间隔重排字符串](hard/src/rearrange-string-k-distance-apart/rearrange-string-k-distance-apart.md) | `优先队列` |
+| [363. 矩形区域不超过 K 的最大数值和](hard/src/max-sum-of-rectangle-no-larger-than-k/max-sum-of-rectangle-no-larger-than-k.md) | `动态规划` |

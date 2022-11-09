@@ -191,3 +191,7 @@
 | [356. 直线镜像](src/line-reflection/line-reflection.md) | `哈希` |
 | [~~357. 统计各位数字都不同的数字个数~~](src/count-numbers-with-unique-digits/count-numbers-with-unique-digits.md) |  |
 | [360. 有序转化数组](src/sort-transformed-array/sort-transformed-array.md) | `双指针` |
+| [361. 轰炸敌人](src/bomb-enemy/bomb-enemy.md) | `动态规划` |
+| [362. 敲击计数器](src/design-hit-counter/design-hit-counter.md) | `队列` |
+| [364. 加权嵌套序列和 II](src/nested-list-weight-sum-ii/nested-list-weight-sum-ii.md) | `深度优先搜索` |
+| [365. 水壶问题](src/water-and-jug-problem/water-and-jug-problem.md) | `数学` |

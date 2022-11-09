@@ -66,3 +66,4 @@
 | [~~352. 将数据流变为多个不相交区间~~](src/data-stream-as-disjoint-intervals/data-stream-as-disjoint-intervals.md) |  |
 | [~~354. 俄罗斯套娃信封问题~~](src/russian-doll-envelopes/russian-doll-envelopes.md) |  |
 | [358. K 距离间隔重排字符串](src/rearrange-string-k-distance-apart/rearrange-string-k-distance-apart.md) | `优先队列` |
+| [363. 矩形区域不超过 K 的最大数值和](src/max-sum-of-rectangle-no-larger-than-k/max-sum-of-rectangle-no-larger-than-k.md) | `动态规划` |

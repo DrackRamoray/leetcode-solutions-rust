@@ -129,3 +129,5 @@ pub mod data_stream_as_disjoint_intervals;
 pub mod russian_doll_envelopes;
 #[path="rearrange-string-k-distance-apart/mod.rs"]
 pub mod rearrange_string_k_distance_apart;
+#[path="max-sum-of-rectangle-no-larger-than-k/mod.rs"]
+pub mod max_sum_of_rectangle_no_larger_than_k;
