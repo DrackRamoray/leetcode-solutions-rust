@@ -384,3 +384,13 @@ pub mod design_hit_counter;
 pub mod nested_list_weight_sum_ii;
 #[path="water-and-jug-problem/mod.rs"]
 pub mod water_and_jug_problem;
+#[path="find-leaves-of-binary-tree/mod.rs"]
+pub mod find_leaves_of_binary_tree;
+#[path="largest-divisible-subset/mod.rs"]
+pub mod largest_divisible_subset;
+#[path="plus-one-linked-list/mod.rs"]
+pub mod plus_one_linked_list;
+#[path="range-addition/mod.rs"]
+pub mod range_addition;
+#[path="sum-of-two-integers/mod.rs"]
+pub mod sum_of_two_integers;

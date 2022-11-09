@@ -147,3 +147,5 @@ pub mod intersection_of_two_arrays;
 pub mod intersection_of_two_arrays_ii;
 #[path="logger-rate-limiter/mod.rs"]
 pub mod logger_rate_limiter;
+#[path="valid-perfect-square/mod.rs"]
+pub mod valid_perfect_square;

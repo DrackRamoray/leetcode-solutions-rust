@@ -76,3 +76,4 @@
 | [349. 两个数组的交集](src/intersection-of-two-arrays/intersection-of-two-arrays.md) | `哈希` |
 | [350. 两个数组的交集 II](src/intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.md) | `双指针` |
 | [359. 日志速率限制器](src/logger-rate-limiter/logger-rate-limiter.md) | `哈希` |
+| [367. 有效的完全平方数](src/valid-perfect-square/valid-perfect-square.md) | `二分查找` |

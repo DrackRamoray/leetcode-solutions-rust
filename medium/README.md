@@ -195,3 +195,8 @@
 | [362. 敲击计数器](src/design-hit-counter/design-hit-counter.md) | `队列` |
 | [364. 加权嵌套序列和 II](src/nested-list-weight-sum-ii/nested-list-weight-sum-ii.md) | `深度优先搜索` |
 | [365. 水壶问题](src/water-and-jug-problem/water-and-jug-problem.md) | `数学` |
+| [366. 寻找二叉树的叶子节点](src/find-leaves-of-binary-tree/find-leaves-of-binary-tree.md) | `深度优先搜索` |
+| [368. 最大整除子集](src/largest-divisible-subset/largest-divisible-subset.md) | `动态规划` |
+| [369. 给单链表加一](src/plus-one-linked-list/plus-one-linked-list.md) | `递归` |
+| [370. 区间加法](src/range-addition/range-addition.md) | `前缀和` |
+| [371. 两整数之和](src/sum-of-two-integers/sum-of-two-integers.md) | `位运算` |

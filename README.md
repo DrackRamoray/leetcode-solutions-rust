@@ -77,6 +77,7 @@
 | [349. 两个数组的交集](easy/src/intersection-of-two-arrays/intersection-of-two-arrays.md) | `哈希` |
 | [350. 两个数组的交集 II](easy/src/intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.md) | `双指针` |
 | [359. 日志速率限制器](easy/src/logger-rate-limiter/logger-rate-limiter.md) | `哈希` |
+| [367. 有效的完全平方数](easy/src/valid-perfect-square/valid-perfect-square.md) | `二分查找` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -276,6 +277,11 @@
 | [362. 敲击计数器](medium/src/design-hit-counter/design-hit-counter.md) | `队列` |
 | [364. 加权嵌套序列和 II](medium/src/nested-list-weight-sum-ii/nested-list-weight-sum-ii.md) | `深度优先搜索` |
 | [365. 水壶问题](medium/src/water-and-jug-problem/water-and-jug-problem.md) | `数学` |
+| [366. 寻找二叉树的叶子节点](medium/src/find-leaves-of-binary-tree/find-leaves-of-binary-tree.md) | `深度优先搜索` |
+| [368. 最大整除子集](medium/src/largest-divisible-subset/largest-divisible-subset.md) | `动态规划` |
+| [369. 给单链表加一](medium/src/plus-one-linked-list/plus-one-linked-list.md) | `递归` |
+| [370. 区间加法](medium/src/range-addition/range-addition.md) | `前缀和` |
+| [371. 两整数之和](medium/src/sum-of-two-integers/sum-of-two-integers.md) | `位运算` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
