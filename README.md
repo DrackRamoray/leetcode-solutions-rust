@@ -78,6 +78,7 @@
 | [350. 两个数组的交集 II](easy/src/intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.md) | `双指针` |
 | [359. 日志速率限制器](easy/src/logger-rate-limiter/logger-rate-limiter.md) | `哈希` |
 | [367. 有效的完全平方数](easy/src/valid-perfect-square/valid-perfect-square.md) | `二分查找` |
+| [374. 猜数字大小](easy/src/guess-number-higher-or-lower/guess-number-higher-or-lower.md) | `二分查找` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -282,6 +283,9 @@
 | [369. 给单链表加一](medium/src/plus-one-linked-list/plus-one-linked-list.md) | `递归` |
 | [370. 区间加法](medium/src/range-addition/range-addition.md) | `前缀和` |
 | [371. 两整数之和](medium/src/sum-of-two-integers/sum-of-two-integers.md) | `位运算` |
+| [372. 超级次方](medium/src/super-pow/super-pow.md) | `数学` |
+| [373. 查找和最小的 K 对数字](medium/src/find-k-pairs-with-smallest-sums/find-k-pairs-with-smallest-sums.md) | `优先队列` |
+| [375. 猜数字大小 II](medium/src/guess-number-higher-or-lower-ii/guess-number-higher-or-lower-ii.md) | `动态规划` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |

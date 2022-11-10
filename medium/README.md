@@ -200,3 +200,6 @@
 | [369. 给单链表加一](src/plus-one-linked-list/plus-one-linked-list.md) | `递归` |
 | [370. 区间加法](src/range-addition/range-addition.md) | `前缀和` |
 | [371. 两整数之和](src/sum-of-two-integers/sum-of-two-integers.md) | `位运算` |
+| [372. 超级次方](src/super-pow/super-pow.md) | `数学` |
+| [373. 查找和最小的 K 对数字](src/find-k-pairs-with-smallest-sums/find-k-pairs-with-smallest-sums.md) | `优先队列` |
+| [375. 猜数字大小 II](src/guess-number-higher-or-lower-ii/guess-number-higher-or-lower-ii.md) | `动态规划` |

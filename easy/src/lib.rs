@@ -149,3 +149,5 @@ pub mod intersection_of_two_arrays_ii;
 pub mod logger_rate_limiter;
 #[path="valid-perfect-square/mod.rs"]
 pub mod valid_perfect_square;
+#[path="guess-number-higher-or-lower/mod.rs"]
+pub mod guess_number_higher_or_lower;

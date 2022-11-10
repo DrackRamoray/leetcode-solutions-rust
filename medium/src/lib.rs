@@ -394,3 +394,9 @@ pub mod plus_one_linked_list;
 pub mod range_addition;
 #[path="sum-of-two-integers/mod.rs"]
 pub mod sum_of_two_integers;
+#[path="super-pow/mod.rs"]
+pub mod super_pow;
+#[path="find-k-pairs-with-smallest-sums/mod.rs"]
+pub mod find_k_pairs_with_smallest_sums;
+#[path="guess-number-higher-or-lower-ii/mod.rs"]
+pub mod guess_number_higher_or_lower_ii;
