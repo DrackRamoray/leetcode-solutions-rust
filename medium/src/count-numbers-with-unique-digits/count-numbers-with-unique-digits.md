@@ -20,5 +20,12 @@
 
 ##### 题解：
 ```rust
-
+impl Solution {
+    pub fn count_numbers_with_unique_digits(n: i32) -> i32 {
+        match n {
+            0 => 1,
+            _ => Self::count_numbers_with_unique_digits(n-1) + 9 * (11-n..10).product::<i32>(),
+        }
+    }
+}
 ```

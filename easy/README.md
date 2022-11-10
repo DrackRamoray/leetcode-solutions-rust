@@ -78,3 +78,5 @@
 | [359. 日志速率限制器](src/logger-rate-limiter/logger-rate-limiter.md) | `哈希` |
 | [367. 有效的完全平方数](src/valid-perfect-square/valid-perfect-square.md) | `二分查找` |
 | [374. 猜数字大小](src/guess-number-higher-or-lower/guess-number-higher-or-lower.md) | `二分查找` |
+| [383. 赎金信](src/ransom-note/ransom-note.md) | `计数` |
+| [387. 字符串中的第一个唯一字符](src/first-unique-character-in-a-string/first-unique-character-in-a-string.md) | `计数` |

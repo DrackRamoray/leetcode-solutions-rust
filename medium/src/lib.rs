@@ -410,3 +410,11 @@ pub mod kth_smallest_element_in_a_sorted_matrix;
 pub mod design_phone_directory;
 #[path="insert-delete-getrandom-o1/mod.rs"]
 pub mod insert_delete_getrandom_o_1;
+#[path="linked-list-random-node/mod.rs"]
+pub mod linked_list_random_node;
+#[path="shuffle-an-array/mod.rs"]
+pub mod shuffle_an_array;
+#[path="mini-parser/mod.rs"]
+pub mod mini_parser;
+#[path="lexicographical-numbers/mod.rs"]
+pub mod lexicographical_numbers;

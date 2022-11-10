@@ -189,7 +189,7 @@
 | [353. 贪吃蛇](src/design-snake-game/design-snake-game.md) | `队列` |
 | [355. 设计推特](src/design-twitter/design-twitter.md) | `哈希` |
 | [356. 直线镜像](src/line-reflection/line-reflection.md) | `哈希` |
-| [~~357. 统计各位数字都不同的数字个数~~](src/count-numbers-with-unique-digits/count-numbers-with-unique-digits.md) |  |
+| [357. 统计各位数字都不同的数字个数](src/count-numbers-with-unique-digits/count-numbers-with-unique-digits.md) |  |
 | [360. 有序转化数组](src/sort-transformed-array/sort-transformed-array.md) | `双指针` |
 | [361. 轰炸敌人](src/bomb-enemy/bomb-enemy.md) | `动态规划` |
 | [362. 敲击计数器](src/design-hit-counter/design-hit-counter.md) | `队列` |
@@ -208,3 +208,7 @@
 | [378. 有序矩阵中第 K 小的元素](src/kth-smallest-element-in-a-sorted-matrix/kth-smallest-element-in-a-sorted-matrix.md) | `二分查找` |
 | [379. 电话目录管理系统](src/design-phone-directory/design-phone-directory.md) | `哈希` |
 | [380. O(1) 时间插入、删除和获取随机元素](src/insert-delete-getrandom-o1/insert-delete-getrandom-o1.md) | `哈希` |
+| [382. 链表随机节点](src/linked-list-random-node/linked-list-random-node.md) | `链表` |
+| [384. 打乱数组](src/shuffle-an-array/shuffle-an-array.md) | `数学` |
+| [385. 迷你语法分析器](src/mini-parser/mini-parser.md) | `栈` |
+| [386. 字典序排数](src/lexicographical-numbers/lexicographical-numbers.md) | `深度优先搜索` |

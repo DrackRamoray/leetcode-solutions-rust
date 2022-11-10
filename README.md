@@ -79,6 +79,8 @@
 | [359. 日志速率限制器](easy/src/logger-rate-limiter/logger-rate-limiter.md) | `哈希` |
 | [367. 有效的完全平方数](easy/src/valid-perfect-square/valid-perfect-square.md) | `二分查找` |
 | [374. 猜数字大小](easy/src/guess-number-higher-or-lower/guess-number-higher-or-lower.md) | `二分查找` |
+| [383. 赎金信](easy/src/ransom-note/ransom-note.md) | `计数` |
+| [387. 字符串中的第一个唯一字符](easy/src/first-unique-character-in-a-string/first-unique-character-in-a-string.md) | `计数` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -272,7 +274,7 @@
 | [353. 贪吃蛇](medium/src/design-snake-game/design-snake-game.md) | `队列` |
 | [355. 设计推特](medium/src/design-twitter/design-twitter.md) | `哈希` |
 | [356. 直线镜像](medium/src/line-reflection/line-reflection.md) | `哈希` |
-| [~~357. 统计各位数字都不同的数字个数~~](medium/src/count-numbers-with-unique-digits/count-numbers-with-unique-digits.md) |  |
+| [357. 统计各位数字都不同的数字个数](medium/src/count-numbers-with-unique-digits/count-numbers-with-unique-digits.md) |  |
 | [360. 有序转化数组](medium/src/sort-transformed-array/sort-transformed-array.md) | `双指针` |
 | [361. 轰炸敌人](medium/src/bomb-enemy/bomb-enemy.md) | `动态规划` |
 | [362. 敲击计数器](medium/src/design-hit-counter/design-hit-counter.md) | `队列` |
@@ -291,6 +293,10 @@
 | [378. 有序矩阵中第 K 小的元素](medium/src/kth-smallest-element-in-a-sorted-matrix/kth-smallest-element-in-a-sorted-matrix.md) | `二分查找` |
 | [379. 电话目录管理系统](medium/src/design-phone-directory/design-phone-directory.md) | `哈希` |
 | [380. O(1) 时间插入、删除和获取随机元素](medium/src/insert-delete-getrandom-o1/insert-delete-getrandom-o1.md) | `哈希` |
+| [382. 链表随机节点](medium/src/linked-list-random-node/linked-list-random-node.md) | `链表` |
+| [384. 打乱数组](medium/src/shuffle-an-array/shuffle-an-array.md) | `数学` |
+| [385. 迷你语法分析器](medium/src/mini-parser/mini-parser.md) | `栈` |
+| [386. 字典序排数](medium/src/lexicographical-numbers/lexicographical-numbers.md) | `深度优先搜索` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |

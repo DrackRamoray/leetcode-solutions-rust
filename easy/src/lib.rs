@@ -151,3 +151,7 @@ pub mod logger_rate_limiter;
 pub mod valid_perfect_square;
 #[path="guess-number-higher-or-lower/mod.rs"]
 pub mod guess_number_higher_or_lower;
+#[path="ransom-note/mod.rs"]
+pub mod ransom_note;
+#[path="first-unique-character-in-a-string/mod.rs"]
+pub mod first_unique_character_in_a_string;
