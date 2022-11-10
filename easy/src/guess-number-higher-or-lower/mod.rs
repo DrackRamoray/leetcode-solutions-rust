@@ -1,6 +1,7 @@
 pub struct Solution;
 
 impl Solution {
+    #[allow(dead_code)]
     unsafe fn guess_number(n: i32) -> i32 {
         let mut lo = 1;
         let mut hi = n;
@@ -19,4 +20,9 @@ impl Solution {
 
         lo
     }
+}
+
+// prevent from error
+fn guess(v: i32) -> i32 {
+    v
 }

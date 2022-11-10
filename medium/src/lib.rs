@@ -400,3 +400,13 @@ pub mod super_pow;
 pub mod find_k_pairs_with_smallest_sums;
 #[path="guess-number-higher-or-lower-ii/mod.rs"]
 pub mod guess_number_higher_or_lower_ii;
+#[path="wiggle-subsequence/mod.rs"]
+pub mod wiggle_subsequence;
+#[path="combination-sum-iv/mod.rs"]
+pub mod combination_sum_iv;
+#[path="kth-smallest-element-in-a-sorted-matrix/mod.rs"]
+pub mod kth_smallest_element_in_a_sorted_matrix;
+#[path="design-phone-directory/mod.rs"]
+pub mod design_phone_directory;
+#[path="insert-delete-getrandom-o1/mod.rs"]
+pub mod insert_delete_getrandom_o_1;

@@ -286,6 +286,11 @@
 | [372. 超级次方](medium/src/super-pow/super-pow.md) | `数学` |
 | [373. 查找和最小的 K 对数字](medium/src/find-k-pairs-with-smallest-sums/find-k-pairs-with-smallest-sums.md) | `优先队列` |
 | [375. 猜数字大小 II](medium/src/guess-number-higher-or-lower-ii/guess-number-higher-or-lower-ii.md) | `动态规划` |
+| [376. 摆动序列](medium/src/wiggle-subsequence/wiggle-subsequence.md) | `动态规划` |
+| [377. 组合总和 Ⅳ](medium/src/combination-sum-iv/combination-sum-iv.md) | `动态规划` |
+| [378. 有序矩阵中第 K 小的元素](medium/src/kth-smallest-element-in-a-sorted-matrix/kth-smallest-element-in-a-sorted-matrix.md) | `二分查找` |
+| [379. 电话目录管理系统](medium/src/design-phone-directory/design-phone-directory.md) | `哈希` |
+| [380. O(1) 时间插入、删除和获取随机元素](medium/src/insert-delete-getrandom-o1/insert-delete-getrandom-o1.md) | `哈希` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -357,3 +362,4 @@
 | [~~354. 俄罗斯套娃信封问题~~](hard/src/russian-doll-envelopes/russian-doll-envelopes.md) |  |
 | [358. K 距离间隔重排字符串](hard/src/rearrange-string-k-distance-apart/rearrange-string-k-distance-apart.md) | `优先队列` |
 | [363. 矩形区域不超过 K 的最大数值和](hard/src/max-sum-of-rectangle-no-larger-than-k/max-sum-of-rectangle-no-larger-than-k.md) | `动态规划` |
+| [381. O(1) 时间插入、删除和获取随机元素 - 允许重复](hard/src/insert-delete-getrandom-o1-duplicates-allowed/insert-delete-getrandom-o1-duplicates-allowed.md) | `哈希` |

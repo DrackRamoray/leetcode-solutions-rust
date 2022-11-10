@@ -67,3 +67,4 @@
 | [~~354. 俄罗斯套娃信封问题~~](src/russian-doll-envelopes/russian-doll-envelopes.md) |  |
 | [358. K 距离间隔重排字符串](src/rearrange-string-k-distance-apart/rearrange-string-k-distance-apart.md) | `优先队列` |
 | [363. 矩形区域不超过 K 的最大数值和](src/max-sum-of-rectangle-no-larger-than-k/max-sum-of-rectangle-no-larger-than-k.md) | `动态规划` |
+| [381. O(1) 时间插入、删除和获取随机元素 - 允许重复](src/insert-delete-getrandom-o1-duplicates-allowed/insert-delete-getrandom-o1-duplicates-allowed.md) | `哈希` |

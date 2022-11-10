@@ -203,3 +203,8 @@
 | [372. 超级次方](src/super-pow/super-pow.md) | `数学` |
 | [373. 查找和最小的 K 对数字](src/find-k-pairs-with-smallest-sums/find-k-pairs-with-smallest-sums.md) | `优先队列` |
 | [375. 猜数字大小 II](src/guess-number-higher-or-lower-ii/guess-number-higher-or-lower-ii.md) | `动态规划` |
+| [376. 摆动序列](src/wiggle-subsequence/wiggle-subsequence.md) | `动态规划` |
+| [377. 组合总和 Ⅳ](src/combination-sum-iv/combination-sum-iv.md) | `动态规划` |
+| [378. 有序矩阵中第 K 小的元素](src/kth-smallest-element-in-a-sorted-matrix/kth-smallest-element-in-a-sorted-matrix.md) | `二分查找` |
+| [379. 电话目录管理系统](src/design-phone-directory/design-phone-directory.md) | `哈希` |
+| [380. O(1) 时间插入、删除和获取随机元素](src/insert-delete-getrandom-o1/insert-delete-getrandom-o1.md) | `哈希` |

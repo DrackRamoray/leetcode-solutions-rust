@@ -131,3 +131,5 @@ pub mod russian_doll_envelopes;
 pub mod rearrange_string_k_distance_apart;
 #[path="max-sum-of-rectangle-no-larger-than-k/mod.rs"]
 pub mod max_sum_of_rectangle_no_larger_than_k;
+#[path="insert-delete-getrandom-o1-duplicates-allowed/mod.rs"]
+pub mod insert_delete_getrandom_o_1_duplicates_allowed;
