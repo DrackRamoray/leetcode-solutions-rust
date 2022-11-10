@@ -80,3 +80,4 @@
 | [374. 猜数字大小](src/guess-number-higher-or-lower/guess-number-higher-or-lower.md) | `二分查找` |
 | [383. 赎金信](src/ransom-note/ransom-note.md) | `计数` |
 | [387. 字符串中的第一个唯一字符](src/first-unique-character-in-a-string/first-unique-character-in-a-string.md) | `计数` |
+| [389. 找不同](src/find-the-difference/find-the-difference.md) | `计数` |

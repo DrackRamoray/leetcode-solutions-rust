@@ -155,3 +155,5 @@ pub mod guess_number_higher_or_lower;
 pub mod ransom_note;
 #[path="first-unique-character-in-a-string/mod.rs"]
 pub mod first_unique_character_in_a_string;
+#[path="find-the-difference/mod.rs"]
+pub mod find_the_difference;

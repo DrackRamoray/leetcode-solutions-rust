@@ -212,3 +212,5 @@
 | [384. 打乱数组](src/shuffle-an-array/shuffle-an-array.md) | `数学` |
 | [385. 迷你语法分析器](src/mini-parser/mini-parser.md) | `栈` |
 | [386. 字典序排数](src/lexicographical-numbers/lexicographical-numbers.md) | `深度优先搜索` |
+| [388. 文件的最长绝对路径](src/longest-absolute-file-path/longest-absolute-file-path.md) | `栈` |
+| [390. 消除游戏](src/elimination-game/elimination-game.md) | `数学` |

@@ -81,6 +81,7 @@
 | [374. 猜数字大小](easy/src/guess-number-higher-or-lower/guess-number-higher-or-lower.md) | `二分查找` |
 | [383. 赎金信](easy/src/ransom-note/ransom-note.md) | `计数` |
 | [387. 字符串中的第一个唯一字符](easy/src/first-unique-character-in-a-string/first-unique-character-in-a-string.md) | `计数` |
+| [389. 找不同](easy/src/find-the-difference/find-the-difference.md) | `计数` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -297,6 +298,8 @@
 | [384. 打乱数组](medium/src/shuffle-an-array/shuffle-an-array.md) | `数学` |
 | [385. 迷你语法分析器](medium/src/mini-parser/mini-parser.md) | `栈` |
 | [386. 字典序排数](medium/src/lexicographical-numbers/lexicographical-numbers.md) | `深度优先搜索` |
+| [388. 文件的最长绝对路径](medium/src/longest-absolute-file-path/longest-absolute-file-path.md) | `栈` |
+| [390. 消除游戏](medium/src/elimination-game/elimination-game.md) | `数学` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |

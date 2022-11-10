@@ -418,3 +418,7 @@ pub mod shuffle_an_array;
 pub mod mini_parser;
 #[path="lexicographical-numbers/mod.rs"]
 pub mod lexicographical_numbers;
+#[path="longest-absolute-file-path/mod.rs"]
+pub mod longest_absolute_file_path;
+#[path="elimination-game/mod.rs"]
+pub mod elimination_game;
