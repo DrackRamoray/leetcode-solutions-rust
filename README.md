@@ -82,6 +82,7 @@
 | [383. 赎金信](easy/src/ransom-note/ransom-note.md) | `计数` |
 | [387. 字符串中的第一个唯一字符](easy/src/first-unique-character-in-a-string/first-unique-character-in-a-string.md) | `计数` |
 | [389. 找不同](easy/src/find-the-difference/find-the-difference.md) | `计数` |
+| [392. 判断子序列](easy/src/is-subsequence/is-subsequence.md) | `双指针` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -300,6 +301,14 @@
 | [386. 字典序排数](medium/src/lexicographical-numbers/lexicographical-numbers.md) | `深度优先搜索` |
 | [388. 文件的最长绝对路径](medium/src/longest-absolute-file-path/longest-absolute-file-path.md) | `栈` |
 | [390. 消除游戏](medium/src/elimination-game/elimination-game.md) | `数学` |
+| [393. UTF-8 编码验证](medium/src/utf-8-validation/utf-8-validation.md) | `位运算` |
+| [394. 字符串解码](medium/src/decode-string/decode-string.md) | `栈` |
+| [395. 至少有 K 个重复字符的最长子串](medium/src/longest-substring-with-at-least-k-repeating-characters/longest-substring-with-at-least-k-repeating-characters.md) | `递归` `滑动窗口` |
+| [396. 旋转函数](medium/src/rotate-function/rotate-function.md) | `动态规划` |
+| [397. 整数替换](medium/src/integer-replacement/integer-replacement.md) | `哈希` |
+| [398. 随机数索引](medium/src/random-pick-index/random-pick-index.md) | `哈希` |
+| [399. 除法求值](medium/src/evaluate-division/evaluate-division.md) | `并查集` |
+| [400. 第 N 位数字](medium/src/nth-digit/nth-digit.md) | `数学` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -372,3 +381,4 @@
 | [358. K 距离间隔重排字符串](hard/src/rearrange-string-k-distance-apart/rearrange-string-k-distance-apart.md) | `优先队列` |
 | [363. 矩形区域不超过 K 的最大数值和](hard/src/max-sum-of-rectangle-no-larger-than-k/max-sum-of-rectangle-no-larger-than-k.md) | `动态规划` |
 | [381. O(1) 时间插入、删除和获取随机元素 - 允许重复](hard/src/insert-delete-getrandom-o1-duplicates-allowed/insert-delete-getrandom-o1-duplicates-allowed.md) | `哈希` |
+| [~~391. 完美矩形~~](hard/src/perfect-rectangle/perfect-rectangle.md) |  |

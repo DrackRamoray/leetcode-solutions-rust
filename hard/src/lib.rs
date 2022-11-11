@@ -133,3 +133,5 @@ pub mod rearrange_string_k_distance_apart;
 pub mod max_sum_of_rectangle_no_larger_than_k;
 #[path="insert-delete-getrandom-o1-duplicates-allowed/mod.rs"]
 pub mod insert_delete_getrandom_o_1_duplicates_allowed;
+#[path="perfect-rectangle/mod.rs"]
+pub mod perfect_rectangle;

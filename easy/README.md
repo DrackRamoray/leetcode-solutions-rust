@@ -81,3 +81,4 @@
 | [383. 赎金信](src/ransom-note/ransom-note.md) | `计数` |
 | [387. 字符串中的第一个唯一字符](src/first-unique-character-in-a-string/first-unique-character-in-a-string.md) | `计数` |
 | [389. 找不同](src/find-the-difference/find-the-difference.md) | `计数` |
+| [392. 判断子序列](src/is-subsequence/is-subsequence.md) | `双指针` |

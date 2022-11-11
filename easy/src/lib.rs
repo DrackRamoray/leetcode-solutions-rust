@@ -157,3 +157,5 @@ pub mod ransom_note;
 pub mod first_unique_character_in_a_string;
 #[path="find-the-difference/mod.rs"]
 pub mod find_the_difference;
+#[path="is-subsequence/mod.rs"]
+pub mod is_subsequence;

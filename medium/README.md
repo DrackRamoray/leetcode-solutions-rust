@@ -214,3 +214,11 @@
 | [386. 字典序排数](src/lexicographical-numbers/lexicographical-numbers.md) | `深度优先搜索` |
 | [388. 文件的最长绝对路径](src/longest-absolute-file-path/longest-absolute-file-path.md) | `栈` |
 | [390. 消除游戏](src/elimination-game/elimination-game.md) | `数学` |
+| [393. UTF-8 编码验证](src/utf-8-validation/utf-8-validation.md) | `位运算` |
+| [394. 字符串解码](src/decode-string/decode-string.md) | `栈` |
+| [395. 至少有 K 个重复字符的最长子串](src/longest-substring-with-at-least-k-repeating-characters/longest-substring-with-at-least-k-repeating-characters.md) | `递归` `滑动窗口` |
+| [396. 旋转函数](src/rotate-function/rotate-function.md) | `动态规划` |
+| [397. 整数替换](src/integer-replacement/integer-replacement.md) | `哈希` |
+| [398. 随机数索引](src/random-pick-index/random-pick-index.md) | `哈希` |
+| [399. 除法求值](src/evaluate-division/evaluate-division.md) | `并查集` |
+| [400. 第 N 位数字](src/nth-digit/nth-digit.md) | `数学` |

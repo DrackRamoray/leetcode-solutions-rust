@@ -422,3 +422,19 @@ pub mod lexicographical_numbers;
 pub mod longest_absolute_file_path;
 #[path="elimination-game/mod.rs"]
 pub mod elimination_game;
+#[path="utf-8-validation/mod.rs"]
+pub mod utf_8_validation;
+#[path="decode-string/mod.rs"]
+pub mod decode_string;
+#[path="longest-substring-with-at-least-k-repeating-characters/mod.rs"]
+pub mod longest_substring_with_at_least_k_repeating_characters;
+#[path="rotate-function/mod.rs"]
+pub mod rotate_function;
+#[path="integer-replacement/mod.rs"]
+pub mod integer_replacement;
+#[path="random-pick-index/mod.rs"]
+pub mod random_pick_index;
+#[path="evaluate-division/mod.rs"]
+pub mod evaluate_division;
+#[path="nth-digit/mod.rs"]
+pub mod nth_digit;
