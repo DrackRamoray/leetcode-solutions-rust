@@ -82,3 +82,6 @@
 | [387. 字符串中的第一个唯一字符](src/first-unique-character-in-a-string/first-unique-character-in-a-string.md) | `计数` |
 | [389. 找不同](src/find-the-difference/find-the-difference.md) | `计数` |
 | [392. 判断子序列](src/is-subsequence/is-subsequence.md) | `双指针` |
+| [401. 二进制手表](src/binary-watch/binary-watch.md) | `字符串` |
+| [404. 左叶子之和](src/sum-of-left-leaves/sum-of-left-leaves.md) | `深度优先搜索` |
+| [405. 数字转换为十六进制数](src/convert-a-number-to-hexadecimal/convert-a-number-to-hexadecimal.md) | `数学` |

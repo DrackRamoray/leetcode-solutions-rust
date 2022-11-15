@@ -159,3 +159,9 @@ pub mod first_unique_character_in_a_string;
 pub mod find_the_difference;
 #[path="is-subsequence/mod.rs"]
 pub mod is_subsequence;
+#[path="binary-watch/mod.rs"]
+pub mod binary_watch;
+#[path="sum-of-left-leaves/mod.rs"]
+pub mod sum_of_left_leaves;
+#[path="convert-a-number-to-hexadecimal/mod.rs"]
+pub mod convert_a_number_to_hexadecimal;

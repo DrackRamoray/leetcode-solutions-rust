@@ -222,3 +222,4 @@
 | [398. 随机数索引](src/random-pick-index/random-pick-index.md) | `哈希` |
 | [399. 除法求值](src/evaluate-division/evaluate-division.md) | `并查集` |
 | [400. 第 N 位数字](src/nth-digit/nth-digit.md) | `数学` |
+| [402. 移掉 K 位数字](src/remove-k-digits/remove-k-digits.md) | `单调栈` |

@@ -69,3 +69,4 @@
 | [363. 矩形区域不超过 K 的最大数值和](src/max-sum-of-rectangle-no-larger-than-k/max-sum-of-rectangle-no-larger-than-k.md) | `动态规划` |
 | [381. O(1) 时间插入、删除和获取随机元素 - 允许重复](src/insert-delete-getrandom-o1-duplicates-allowed/insert-delete-getrandom-o1-duplicates-allowed.md) | `哈希` |
 | [~~391. 完美矩形~~](src/perfect-rectangle/perfect-rectangle.md) |  |
+| [403. 青蛙过河](src/frog-jump/frog-jump.md) | `动态规划` |

@@ -83,6 +83,9 @@
 | [387. 字符串中的第一个唯一字符](easy/src/first-unique-character-in-a-string/first-unique-character-in-a-string.md) | `计数` |
 | [389. 找不同](easy/src/find-the-difference/find-the-difference.md) | `计数` |
 | [392. 判断子序列](easy/src/is-subsequence/is-subsequence.md) | `双指针` |
+| [401. 二进制手表](easy/src/binary-watch/binary-watch.md) | `字符串` |
+| [404. 左叶子之和](easy/src/sum-of-left-leaves/sum-of-left-leaves.md) | `深度优先搜索` |
+| [405. 数字转换为十六进制数](easy/src/convert-a-number-to-hexadecimal/convert-a-number-to-hexadecimal.md) | `数学` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -309,6 +312,7 @@
 | [398. 随机数索引](medium/src/random-pick-index/random-pick-index.md) | `哈希` |
 | [399. 除法求值](medium/src/evaluate-division/evaluate-division.md) | `并查集` |
 | [400. 第 N 位数字](medium/src/nth-digit/nth-digit.md) | `数学` |
+| [402. 移掉 K 位数字](medium/src/remove-k-digits/remove-k-digits.md) | `单调栈` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -382,3 +386,4 @@
 | [363. 矩形区域不超过 K 的最大数值和](hard/src/max-sum-of-rectangle-no-larger-than-k/max-sum-of-rectangle-no-larger-than-k.md) | `动态规划` |
 | [381. O(1) 时间插入、删除和获取随机元素 - 允许重复](hard/src/insert-delete-getrandom-o1-duplicates-allowed/insert-delete-getrandom-o1-duplicates-allowed.md) | `哈希` |
 | [~~391. 完美矩形~~](hard/src/perfect-rectangle/perfect-rectangle.md) |  |
+| [403. 青蛙过河](hard/src/frog-jump/frog-jump.md) | `动态规划` |

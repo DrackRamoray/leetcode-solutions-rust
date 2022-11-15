@@ -135,3 +135,5 @@ pub mod max_sum_of_rectangle_no_larger_than_k;
 pub mod insert_delete_getrandom_o_1_duplicates_allowed;
 #[path="perfect-rectangle/mod.rs"]
 pub mod perfect_rectangle;
+#[path="frog-jump/mod.rs"]
+pub mod frog_jump;

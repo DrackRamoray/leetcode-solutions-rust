@@ -438,3 +438,5 @@ pub mod random_pick_index;
 pub mod evaluate_division;
 #[path="nth-digit/mod.rs"]
 pub mod nth_digit;
+#[path="remove-k-digits/mod.rs"]
+pub mod remove_k_digits;
