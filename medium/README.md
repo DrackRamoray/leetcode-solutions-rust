@@ -224,3 +224,4 @@
 | [400. 第 N 位数字](src/nth-digit/nth-digit.md) | `数学` |
 | [402. 移掉 K 位数字](src/remove-k-digits/remove-k-digits.md) | `单调栈` |
 | [406. 根据身高重建队列](src/queue-reconstruction-by-height/queue-reconstruction-by-height.md) | `排序` |
+| [413. 等差数列划分](src/arithmetic-slices/arithmetic-slices.md) | `动态规划` |

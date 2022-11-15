@@ -141,3 +141,5 @@ pub mod frog_jump;
 pub mod trapping_rain_water_ii;
 #[path="split-array-largest-sum/mod.rs"]
 pub mod split_array_largest_sum;
+#[path="minimum-unique-word-abbreviation/mod.rs"]
+pub mod minimum_unique_word_abbreviation;

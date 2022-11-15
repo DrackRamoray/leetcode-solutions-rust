@@ -87,3 +87,6 @@
 | [405. 数字转换为十六进制数](src/convert-a-number-to-hexadecimal/convert-a-number-to-hexadecimal.md) | `数学` |
 | [408. 有效单词缩写](src/valid-word-abbreviation/valid-word-abbreviation.md) | `字符串` |
 | [409. 最长回文串](src/longest-palindrome/longest-palindrome.md) | `计数` |
+| [412. Fizz Buzz](src/fizz-buzz/fizz-buzz.md) | `字符串` |
+| [414. 第三大的数](src/third-maximum-number/third-maximum-number.md) | `数组` |
+| [415. 字符串相加](src/add-strings/add-strings.md) | `字符串` |

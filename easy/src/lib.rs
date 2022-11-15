@@ -169,3 +169,9 @@ pub mod convert_a_number_to_hexadecimal;
 pub mod valid_word_abbreviation;
 #[path="longest-palindrome/mod.rs"]
 pub mod longest_palindrome;
+#[path="fizz-buzz/mod.rs"]
+pub mod fizz_buzz;
+#[path="third-maximum-number/mod.rs"]
+pub mod third_maximum_number;
+#[path="add-strings/mod.rs"]
+pub mod add_strings;

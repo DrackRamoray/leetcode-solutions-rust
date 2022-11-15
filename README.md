@@ -88,6 +88,9 @@
 | [405. 数字转换为十六进制数](easy/src/convert-a-number-to-hexadecimal/convert-a-number-to-hexadecimal.md) | `数学` |
 | [408. 有效单词缩写](easy/src/valid-word-abbreviation/valid-word-abbreviation.md) | `字符串` |
 | [409. 最长回文串](easy/src/longest-palindrome/longest-palindrome.md) | `计数` |
+| [412. Fizz Buzz](easy/src/fizz-buzz/fizz-buzz.md) | `字符串` |
+| [414. 第三大的数](easy/src/third-maximum-number/third-maximum-number.md) | `数组` |
+| [415. 字符串相加](easy/src/add-strings/add-strings.md) | `字符串` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -316,6 +319,7 @@
 | [400. 第 N 位数字](medium/src/nth-digit/nth-digit.md) | `数学` |
 | [402. 移掉 K 位数字](medium/src/remove-k-digits/remove-k-digits.md) | `单调栈` |
 | [406. 根据身高重建队列](medium/src/queue-reconstruction-by-height/queue-reconstruction-by-height.md) | `排序` |
+| [413. 等差数列划分](medium/src/arithmetic-slices/arithmetic-slices.md) | `动态规划` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -392,3 +396,4 @@
 | [403. 青蛙过河](hard/src/frog-jump/frog-jump.md) | `动态规划` |
 | [407. 接雨水 II](hard/src/trapping-rain-water-ii/trapping-rain-water-ii.md) | `广度优先搜索` |
 | [410. 分割数组的最大值](hard/src/split-array-largest-sum/split-array-largest-sum.md) | `二分查找` |
+| [411. 最短独占单词缩写](hard/src/minimum-unique-word-abbreviation/minimum-unique-word-abbreviation.md) | `回溯` |

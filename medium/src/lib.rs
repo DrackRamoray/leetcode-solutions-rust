@@ -442,3 +442,5 @@ pub mod nth_digit;
 pub mod remove_k_digits;
 #[path="queue-reconstruction-by-height/mod.rs"]
 pub mod queue_reconstruction_by_height;
+#[path="arithmetic-slices/mod.rs"]
+pub mod arithmetic_slices;
