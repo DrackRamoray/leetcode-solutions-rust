@@ -70,3 +70,5 @@
 | [381. O(1) 时间插入、删除和获取随机元素 - 允许重复](src/insert-delete-getrandom-o1-duplicates-allowed/insert-delete-getrandom-o1-duplicates-allowed.md) | `哈希` |
 | [~~391. 完美矩形~~](src/perfect-rectangle/perfect-rectangle.md) |  |
 | [403. 青蛙过河](src/frog-jump/frog-jump.md) | `动态规划` |
+| [407. 接雨水 II](src/trapping-rain-water-ii/trapping-rain-water-ii.md) | `广度优先搜索` |
+| [410. 分割数组的最大值](src/split-array-largest-sum/split-array-largest-sum.md) | `二分查找` |

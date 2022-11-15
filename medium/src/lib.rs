@@ -440,3 +440,5 @@ pub mod evaluate_division;
 pub mod nth_digit;
 #[path="remove-k-digits/mod.rs"]
 pub mod remove_k_digits;
+#[path="queue-reconstruction-by-height/mod.rs"]
+pub mod queue_reconstruction_by_height;

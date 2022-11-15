@@ -86,6 +86,8 @@
 | [401. 二进制手表](easy/src/binary-watch/binary-watch.md) | `字符串` |
 | [404. 左叶子之和](easy/src/sum-of-left-leaves/sum-of-left-leaves.md) | `深度优先搜索` |
 | [405. 数字转换为十六进制数](easy/src/convert-a-number-to-hexadecimal/convert-a-number-to-hexadecimal.md) | `数学` |
+| [408. 有效单词缩写](easy/src/valid-word-abbreviation/valid-word-abbreviation.md) | `字符串` |
+| [409. 最长回文串](easy/src/longest-palindrome/longest-palindrome.md) | `计数` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -313,6 +315,7 @@
 | [399. 除法求值](medium/src/evaluate-division/evaluate-division.md) | `并查集` |
 | [400. 第 N 位数字](medium/src/nth-digit/nth-digit.md) | `数学` |
 | [402. 移掉 K 位数字](medium/src/remove-k-digits/remove-k-digits.md) | `单调栈` |
+| [406. 根据身高重建队列](medium/src/queue-reconstruction-by-height/queue-reconstruction-by-height.md) | `排序` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -387,3 +390,5 @@
 | [381. O(1) 时间插入、删除和获取随机元素 - 允许重复](hard/src/insert-delete-getrandom-o1-duplicates-allowed/insert-delete-getrandom-o1-duplicates-allowed.md) | `哈希` |
 | [~~391. 完美矩形~~](hard/src/perfect-rectangle/perfect-rectangle.md) |  |
 | [403. 青蛙过河](hard/src/frog-jump/frog-jump.md) | `动态规划` |
+| [407. 接雨水 II](hard/src/trapping-rain-water-ii/trapping-rain-water-ii.md) | `广度优先搜索` |
+| [410. 分割数组的最大值](hard/src/split-array-largest-sum/split-array-largest-sum.md) | `二分查找` |

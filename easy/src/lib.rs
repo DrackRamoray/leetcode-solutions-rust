@@ -165,3 +165,7 @@ pub mod binary_watch;
 pub mod sum_of_left_leaves;
 #[path="convert-a-number-to-hexadecimal/mod.rs"]
 pub mod convert_a_number_to_hexadecimal;
+#[path="valid-word-abbreviation/mod.rs"]
+pub mod valid_word_abbreviation;
+#[path="longest-palindrome/mod.rs"]
+pub mod longest_palindrome;

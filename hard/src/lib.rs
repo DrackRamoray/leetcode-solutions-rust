@@ -137,3 +137,7 @@ pub mod insert_delete_getrandom_o_1_duplicates_allowed;
 pub mod perfect_rectangle;
 #[path="frog-jump/mod.rs"]
 pub mod frog_jump;
+#[path="trapping-rain-water-ii/mod.rs"]
+pub mod trapping_rain_water_ii;
+#[path="split-array-largest-sum/mod.rs"]
+pub mod split_array_largest_sum;

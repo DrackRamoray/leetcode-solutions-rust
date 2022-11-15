@@ -85,3 +85,5 @@
 | [401. 二进制手表](src/binary-watch/binary-watch.md) | `字符串` |
 | [404. 左叶子之和](src/sum-of-left-leaves/sum-of-left-leaves.md) | `深度优先搜索` |
 | [405. 数字转换为十六进制数](src/convert-a-number-to-hexadecimal/convert-a-number-to-hexadecimal.md) | `数学` |
+| [408. 有效单词缩写](src/valid-word-abbreviation/valid-word-abbreviation.md) | `字符串` |
+| [409. 最长回文串](src/longest-palindrome/longest-palindrome.md) | `计数` |

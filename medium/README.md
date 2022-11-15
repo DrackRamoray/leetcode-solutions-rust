@@ -223,3 +223,4 @@
 | [399. 除法求值](src/evaluate-division/evaluate-division.md) | `并查集` |
 | [400. 第 N 位数字](src/nth-digit/nth-digit.md) | `数学` |
 | [402. 移掉 K 位数字](src/remove-k-digits/remove-k-digits.md) | `单调栈` |
+| [406. 根据身高重建队列](src/queue-reconstruction-by-height/queue-reconstruction-by-height.md) | `排序` |
