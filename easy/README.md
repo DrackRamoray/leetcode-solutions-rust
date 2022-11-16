@@ -90,3 +90,4 @@
 | [412. Fizz Buzz](src/fizz-buzz/fizz-buzz.md) | `字符串` |
 | [414. 第三大的数](src/third-maximum-number/third-maximum-number.md) | `数组` |
 | [415. 字符串相加](src/add-strings/add-strings.md) | `字符串` |
+| [422. 有效的单词方块](src/valid-word-square/valid-word-square.md) | `数组` |

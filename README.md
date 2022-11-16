@@ -91,6 +91,7 @@
 | [412. Fizz Buzz](easy/src/fizz-buzz/fizz-buzz.md) | `字符串` |
 | [414. 第三大的数](easy/src/third-maximum-number/third-maximum-number.md) | `数组` |
 | [415. 字符串相加](easy/src/add-strings/add-strings.md) | `字符串` |
+| [422. 有效的单词方块](easy/src/valid-word-square/valid-word-square.md) | `数组` |
 
 ### [中等](medium/README.md)
 | 题目  |  标签 |
@@ -324,6 +325,9 @@
 | [417. 太平洋大西洋水流问题](medium/src/pacific-atlantic-water-flow/pacific-atlantic-water-flow.md) | `深度优先搜索` |
 | [418. 屏幕可显示句子的数量](medium/src/sentence-screen-fitting/sentence-screen-fitting.md) | `字符串` |
 | [419. 甲板上的战舰](medium/src/battleships-in-a-board/battleships-in-a-board.md) | `矩阵` |
+| [421. 数组中两个数的最大异或值](medium/src/maximum-xor-of-two-numbers-in-an-array/maximum-xor-of-two-numbers-in-an-array.md) | `trie` |
+| [423. 从英文中重建数字](medium/src/reconstruct-original-digits-from-english/reconstruct-original-digits-from-english.md) | `哈希` |
+| [424. 替换后的最长重复字符](medium/src/longest-repeating-character-replacement/longest-repeating-character-replacement.md) | `滑动窗口` |
 
 ### [困难](hard/README.md)
 | 题目  |  标签 |
@@ -402,3 +406,4 @@
 | [410. 分割数组的最大值](hard/src/split-array-largest-sum/split-array-largest-sum.md) | `二分查找` |
 | [411. 最短独占单词缩写](hard/src/minimum-unique-word-abbreviation/minimum-unique-word-abbreviation.md) | `回溯` |
 | [420. 强密码检验器](hard/src/strong-password-checker/strong-password-checker.md) | `字符串` |
+| [425. 单词方块](hard/src/word-squares/word-squares.md) | `回溯` |

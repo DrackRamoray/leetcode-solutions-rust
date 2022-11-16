@@ -229,3 +229,6 @@
 | [417. 太平洋大西洋水流问题](src/pacific-atlantic-water-flow/pacific-atlantic-water-flow.md) | `深度优先搜索` |
 | [418. 屏幕可显示句子的数量](src/sentence-screen-fitting/sentence-screen-fitting.md) | `字符串` |
 | [419. 甲板上的战舰](src/battleships-in-a-board/battleships-in-a-board.md) | `矩阵` |
+| [421. 数组中两个数的最大异或值](src/maximum-xor-of-two-numbers-in-an-array/maximum-xor-of-two-numbers-in-an-array.md) | `trie` |
+| [423. 从英文中重建数字](src/reconstruct-original-digits-from-english/reconstruct-original-digits-from-english.md) | `哈希` |
+| [424. 替换后的最长重复字符](src/longest-repeating-character-replacement/longest-repeating-character-replacement.md) | `滑动窗口` |

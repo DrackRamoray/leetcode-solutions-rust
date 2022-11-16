@@ -145,3 +145,5 @@ pub mod split_array_largest_sum;
 pub mod minimum_unique_word_abbreviation;
 #[path="strong-password-checker/mod.rs"]
 pub mod strong_password_checker;
+#[path="word-squares/mod.rs"]
+pub mod word_squares;

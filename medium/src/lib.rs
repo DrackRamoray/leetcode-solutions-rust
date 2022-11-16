@@ -452,3 +452,9 @@ pub mod pacific_atlantic_water_flow;
 pub mod sentence_screen_fitting;
 #[path="battleships-in-a-board/mod.rs"]
 pub mod battleships_in_a_board;
+#[path="maximum-xor-of-two-numbers-in-an-array/mod.rs"]
+pub mod maximum_xor_of_two_numbers_in_an_array;
+#[path="reconstruct-original-digits-from-english/mod.rs"]
+pub mod reconstruct_original_digits_from_english;
+#[path="longest-repeating-character-replacement/mod.rs"]
+pub mod longest_repeating_character_replacement;

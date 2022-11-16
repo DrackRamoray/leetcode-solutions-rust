@@ -175,3 +175,5 @@ pub mod fizz_buzz;
 pub mod third_maximum_number;
 #[path="add-strings/mod.rs"]
 pub mod add_strings;
+#[path="valid-word-square/mod.rs"]
+pub mod valid_word_square;
