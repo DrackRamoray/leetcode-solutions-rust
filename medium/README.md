@@ -225,3 +225,7 @@
 | [402. 移掉 K 位数字](src/remove-k-digits/remove-k-digits.md) | `单调栈` |
 | [406. 根据身高重建队列](src/queue-reconstruction-by-height/queue-reconstruction-by-height.md) | `排序` |
 | [413. 等差数列划分](src/arithmetic-slices/arithmetic-slices.md) | `动态规划` |
+| [416. 分割等和子集](src/partition-equal-subset-sum/partition-equal-subset-sum.md) | `动态规划` |
+| [417. 太平洋大西洋水流问题](src/pacific-atlantic-water-flow/pacific-atlantic-water-flow.md) | `深度优先搜索` |
+| [418. 屏幕可显示句子的数量](src/sentence-screen-fitting/sentence-screen-fitting.md) | `字符串` |
+| [419. 甲板上的战舰](src/battleships-in-a-board/battleships-in-a-board.md) | `矩阵` |

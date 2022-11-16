@@ -444,3 +444,11 @@ pub mod remove_k_digits;
 pub mod queue_reconstruction_by_height;
 #[path="arithmetic-slices/mod.rs"]
 pub mod arithmetic_slices;
+#[path="partition-equal-subset-sum/mod.rs"]
+pub mod partition_equal_subset_sum;
+#[path="pacific-atlantic-water-flow/mod.rs"]
+pub mod pacific_atlantic_water_flow;
+#[path="sentence-screen-fitting/mod.rs"]
+pub mod sentence_screen_fitting;
+#[path="battleships-in-a-board/mod.rs"]
+pub mod battleships_in_a_board;

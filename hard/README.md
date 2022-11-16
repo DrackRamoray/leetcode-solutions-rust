@@ -73,3 +73,4 @@
 | [407. 接雨水 II](src/trapping-rain-water-ii/trapping-rain-water-ii.md) | `广度优先搜索` |
 | [410. 分割数组的最大值](src/split-array-largest-sum/split-array-largest-sum.md) | `二分查找` |
 | [411. 最短独占单词缩写](src/minimum-unique-word-abbreviation/minimum-unique-word-abbreviation.md) | `回溯` |
+| [420. 强密码检验器](src/strong-password-checker/strong-password-checker.md) | `字符串` |
