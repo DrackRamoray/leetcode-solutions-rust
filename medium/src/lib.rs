@@ -458,3 +458,7 @@ pub mod maximum_xor_of_two_numbers_in_an_array;
 pub mod reconstruct_original_digits_from_english;
 #[path="longest-repeating-character-replacement/mod.rs"]
 pub mod longest_repeating_character_replacement;
+#[path="minimum-genetic-mutation/mod.rs"]
+pub mod minimum_genetic_mutation;
+#[path="non-overlapping-intervals/mod.rs"]
+pub mod non_overlapping_intervals;

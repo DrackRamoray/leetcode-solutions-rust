@@ -75,3 +75,4 @@
 | [411. 最短独占单词缩写](src/minimum-unique-word-abbreviation/minimum-unique-word-abbreviation.md) | `回溯` |
 | [420. 强密码检验器](src/strong-password-checker/strong-password-checker.md) | `字符串` |
 | [425. 单词方块](src/word-squares/word-squares.md) | `回溯` |
+| [~~432. 全 O(1) 的数据结构~~](src/all-oone-data-structure/all-oone-data-structure.md) |  |

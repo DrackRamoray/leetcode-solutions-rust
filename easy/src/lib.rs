@@ -177,3 +177,5 @@ pub mod third_maximum_number;
 pub mod add_strings;
 #[path="valid-word-square/mod.rs"]
 pub mod valid_word_square;
+#[path="number-of-segments-in-a-string/mod.rs"]
+pub mod number_of_segments_in_a_string;

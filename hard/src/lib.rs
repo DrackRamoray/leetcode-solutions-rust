@@ -147,3 +147,5 @@ pub mod minimum_unique_word_abbreviation;
 pub mod strong_password_checker;
 #[path="word-squares/mod.rs"]
 pub mod word_squares;
+#[path="all-oone-data-structure/mod.rs"]
+pub mod all_oone_data_structure;

@@ -91,3 +91,4 @@
 | [414. 第三大的数](src/third-maximum-number/third-maximum-number.md) | `数组` |
 | [415. 字符串相加](src/add-strings/add-strings.md) | `字符串` |
 | [422. 有效的单词方块](src/valid-word-square/valid-word-square.md) | `数组` |
+| [字符串中的单词数](src/number-of-segments-in-a-string/number-of-segments-in-a-string.md) | `字符串` |
