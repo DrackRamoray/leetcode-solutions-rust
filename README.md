@@ -93,6 +93,7 @@
 | [415. 字符串相加](easy/src/add-strings/add-strings.md)                                                                       | `字符串`       |
 | [422. 有效的单词方块](easy/src/valid-word-square/valid-word-square.md)                                                         | `数组`        |
 | [434. 字符串中的单词数](easy/src/number-of-segments-in-a-string/number-of-segments-in-a-string.md)                              | `字符串`       |
+| [441. 排列硬币](easy/src/arranging-coins/arranging-coins.md)                                                                | `二分查找`      |
 
 ### [中等](medium/README.md)
 | 题目                                                                                                                                                          | 标签                       |
@@ -335,6 +336,10 @@
 | [437. 路径总和 III](medium/src/path-sum-iii/path-sum-iii.md)                                                                                                    | `深度优先搜索`                 |
 | [438. 找到字符串中所有字母异位词](medium/src/find-all-anagrams-in-a-string/find-all-anagrams-in-a-string.md)                                                             | `滑动窗口`                   |
 | [439. 三元表达式解析器](medium/src/ternary-expression-parser/ternary-expression-parser.md)                                                                          | `栈`                      |
+| [442. 数组中重复的数据](medium/src/find-all-duplicates-in-an-array/find-all-duplicates-in-an-array.md)                                                              | `哈希`                     |
+| [443. 压缩字符串](medium/src/string-compression/string-compression.md)                                                                                           | `双指针`                    |
+| [444. 序列重建](medium/src/sequence-reconstruction/sequence-reconstruction.md)                                                                                  | `图`                      |
+| [445. 两数相加 II](medium/src/add-two-numbers-ii/add-two-numbers-ii.md)                                                                                         | `链表`                     |
 
 ### [困难](hard/README.md)
 | 题目                                                                                                                                         | 标签                |

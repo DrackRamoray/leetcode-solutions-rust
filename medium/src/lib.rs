@@ -470,3 +470,11 @@ pub mod path_sum_iii;
 pub mod find_all_anagrams_in_a_string;
 #[path="ternary-expression-parser/mod.rs"]
 pub mod ternary_expression_parser;
+#[path="find-all-duplicates-in-an-array/mod.rs"]
+pub mod find_all_duplicates_in_an_array;
+#[path="string-compression/mod.rs"]
+pub mod string_compression;
+#[path="sequence-reconstruction/mod.rs"]
+pub mod sequence_reconstruction;
+#[path="add-two-numbers-ii/mod.rs"]
+pub mod add_two_numbers_ii;

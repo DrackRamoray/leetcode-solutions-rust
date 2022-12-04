@@ -238,3 +238,7 @@
 | [437. 路径总和 III](src/path-sum-iii/path-sum-iii.md)                                                                                                    | `深度优先搜索`                 |
 | [438. 找到字符串中所有字母异位词](src/find-all-anagrams-in-a-string/find-all-anagrams-in-a-string.md)                                                             | `滑动窗口`                   |
 | [439. 三元表达式解析器](src/ternary-expression-parser/ternary-expression-parser.md)                                                                          | `栈`                      |
+| [442. 数组中重复的数据](src/find-all-duplicates-in-an-array/find-all-duplicates-in-an-array.md)                                                              | `哈希`                     |
+| [443. 压缩字符串](src/string-compression/string-compression.md)                                                                                           | `双指针`                    |
+| [444. 序列重建](src/sequence-reconstruction/sequence-reconstruction.md)                                                                                  | `图`                      |
+| [445. 两数相加 II](src/add-two-numbers-ii/add-two-numbers-ii.md)                                                                                         | `链表`                     |

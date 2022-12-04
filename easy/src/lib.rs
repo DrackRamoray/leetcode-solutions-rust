@@ -179,3 +179,5 @@ pub mod add_strings;
 pub mod valid_word_square;
 #[path="number-of-segments-in-a-string/mod.rs"]
 pub mod number_of_segments_in_a_string;
+#[path="arranging-coins/mod.rs"]
+pub mod arranging_coins;
