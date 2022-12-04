@@ -462,3 +462,11 @@ pub mod longest_repeating_character_replacement;
 pub mod minimum_genetic_mutation;
 #[path="non-overlapping-intervals/mod.rs"]
 pub mod non_overlapping_intervals;
+#[path="find-right-interval/mod.rs"]
+pub mod find_right_interval;
+#[path="path-sum-iii/mod.rs"]
+pub mod path_sum_iii;
+#[path="find-all-anagrams-in-a-string/mod.rs"]
+pub mod find_all_anagrams_in_a_string;
+#[path="ternary-expression-parser/mod.rs"]
+pub mod ternary_expression_parser;

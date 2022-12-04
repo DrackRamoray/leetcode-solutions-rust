@@ -331,6 +331,10 @@
 | [424. 替换后的最长重复字符](medium/src/longest-repeating-character-replacement/longest-repeating-character-replacement.md)                                            | `滑动窗口`                   |
 | [433. 最小基因变化](medium/src/minimum-genetic-mutation/minimum-genetic-mutation.md)                                                                              | `广度优先搜索`                 |
 | [435. 无重叠区间](medium/src/non-overlapping-intervals/non-overlapping-intervals.md)                                                                             | `贪心`                     |
+| [436. 寻找右区间](medium/src/find-right-interval/find-right-interval.md)                                                                                         | `二分查找`                   |
+| [437. 路径总和 III](medium/src/path-sum-iii/path-sum-iii.md)                                                                                                    | `深度优先搜索`                 |
+| [438. 找到字符串中所有字母异位词](medium/src/find-all-anagrams-in-a-string/find-all-anagrams-in-a-string.md)                                                             | `滑动窗口`                   |
+| [439. 三元表达式解析器](medium/src/ternary-expression-parser/ternary-expression-parser.md)                                                                          | `栈`                      |
 
 ### [困难](hard/README.md)
 | 题目                                                                                                                                         | 标签                |
@@ -411,3 +415,4 @@
 | [420. 强密码检验器](hard/src/strong-password-checker/strong-password-checker.md)                                                                 | `字符串`             |
 | [425. 单词方块](hard/src/word-squares/word-squares.md)                                                                                         | `回溯`              |
 | [~~432. 全 O(1) 的数据结构~~](hard/src/all-oone-data-structure/all-oone-data-structure.md)                                                       |                   |
+| [440. 字典序的第K小数字](hard/src/k-th-smallest-in-lexicographical-order/k-th-smallest-in-lexicographical-order.md)                                | `字典树`             |

@@ -234,3 +234,7 @@
 | [424. 替换后的最长重复字符](src/longest-repeating-character-replacement/longest-repeating-character-replacement.md)                                            | `滑动窗口`                   |
 | [433. 最小基因变化](src/minimum-genetic-mutation/minimum-genetic-mutation.md)                                                                              | `广度优先搜索`                 |
 | [435. 无重叠区间](src/non-overlapping-intervals/non-overlapping-intervals.md)                                                                             | `贪心`                     |
+| [436. 寻找右区间](src/find-right-interval/find-right-interval.md)                                                                                         | `二分查找`                   |
+| [437. 路径总和 III](src/path-sum-iii/path-sum-iii.md)                                                                                                    | `深度优先搜索`                 |
+| [438. 找到字符串中所有字母异位词](src/find-all-anagrams-in-a-string/find-all-anagrams-in-a-string.md)                                                             | `滑动窗口`                   |
+| [439. 三元表达式解析器](src/ternary-expression-parser/ternary-expression-parser.md)                                                                          | `栈`                      |

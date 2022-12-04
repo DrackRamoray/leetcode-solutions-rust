@@ -149,3 +149,5 @@ pub mod strong_password_checker;
 pub mod word_squares;
 #[path="all-oone-data-structure/mod.rs"]
 pub mod all_oone_data_structure;
+#[path="k-th-smallest-in-lexicographical-order/mod.rs"]
+pub mod k_th_smallest_in_lexicographical_order;
