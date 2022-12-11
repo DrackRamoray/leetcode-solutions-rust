@@ -242,3 +242,6 @@
 | [443. 压缩字符串](src/string-compression/string-compression.md)                                                                                           | `双指针`                    |
 | [444. 序列重建](src/sequence-reconstruction/sequence-reconstruction.md)                                                                                  | `图`                      |
 | [445. 两数相加 II](src/add-two-numbers-ii/add-two-numbers-ii.md)                                                                                         | `链表`                     |
+| [447. 回旋镖的数量](src/number-of-boomerangs/number-of-boomerangs.md)                                                                                      | `哈希`                     |
+| [449. 序列化和反序列化二叉搜索树](src/serialize-and-deserialize-bst/serialize-and-deserialize-bst.md)                                                             | `深度优先搜索`                 |
+| [450. 删除二叉搜索树中的节点](src/delete-node-in-a-bst/delete-node-in-a-bst.md)                                                                                 | `二叉搜索树`                  |

@@ -94,6 +94,7 @@
 | [422. 有效的单词方块](easy/src/valid-word-square/valid-word-square.md)                                                         | `数组`        |
 | [434. 字符串中的单词数](easy/src/number-of-segments-in-a-string/number-of-segments-in-a-string.md)                              | `字符串`       |
 | [441. 排列硬币](easy/src/arranging-coins/arranging-coins.md)                                                                | `二分查找`      |
+| [448. 找到所有数组中消失的数字](easy/src/find-all-numbers-disappeared-in-an-array/find-all-numbers-disappeared-in-an-array.md)      | `哈希`        |
 
 ### [中等](medium/README.md)
 | 题目                                                                                                                                                          | 标签                       |
@@ -340,6 +341,9 @@
 | [443. 压缩字符串](medium/src/string-compression/string-compression.md)                                                                                           | `双指针`                    |
 | [444. 序列重建](medium/src/sequence-reconstruction/sequence-reconstruction.md)                                                                                  | `图`                      |
 | [445. 两数相加 II](medium/src/add-two-numbers-ii/add-two-numbers-ii.md)                                                                                         | `链表`                     |
+| [447. 回旋镖的数量](medium/src/number-of-boomerangs/number-of-boomerangs.md)                                                                                      | `哈希`                     |
+| [449. 序列化和反序列化二叉搜索树](medium/src/serialize-and-deserialize-bst/serialize-and-deserialize-bst.md)                                                             | `深度优先搜索`                 |
+| [450. 删除二叉搜索树中的节点](medium/src/delete-node-in-a-bst/delete-node-in-a-bst.md)                                                                                 | `二叉搜索树`                  |
 
 ### [困难](hard/README.md)
 | 题目                                                                                                                                         | 标签                |
@@ -421,3 +425,4 @@
 | [425. 单词方块](hard/src/word-squares/word-squares.md)                                                                                         | `回溯`              |
 | [~~432. 全 O(1) 的数据结构~~](hard/src/all-oone-data-structure/all-oone-data-structure.md)                                                       |                   |
 | [440. 字典序的第K小数字](hard/src/k-th-smallest-in-lexicographical-order/k-th-smallest-in-lexicographical-order.md)                                | `字典树`             |
+| [~~等差数列划分-ii - 子序列~~](hard/src/arithmetic-slices-ii-subsequence/arithmetic-slices-ii-subsequence.md)                                       | `字典树`             |

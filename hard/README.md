@@ -77,3 +77,4 @@
 | [425. 单词方块](src/word-squares/word-squares.md)                                                                                         | `回溯`              |
 | [~~432. 全 O(1) 的数据结构~~](src/all-oone-data-structure/all-oone-data-structure.md)                                                       |                   |
 | [440. 字典序的第K小数字](src/k-th-smallest-in-lexicographical-order/k-th-smallest-in-lexicographical-order.md)                                | `字典树`             |
+| [~~等差数列划分-ii - 子序列~~](src/arithmetic-slices-ii-subsequence/arithmetic-slices-ii-subsequence.md)                                       | `字典树`             |

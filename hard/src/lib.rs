@@ -151,3 +151,5 @@ pub mod word_squares;
 pub mod all_oone_data_structure;
 #[path="k-th-smallest-in-lexicographical-order/mod.rs"]
 pub mod k_th_smallest_in_lexicographical_order;
+#[path="arithmetic-slices-ii-subsequence/mod.rs"]
+pub mod arithmetic_slices_ii_subsequence;

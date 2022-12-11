@@ -478,3 +478,9 @@ pub mod string_compression;
 pub mod sequence_reconstruction;
 #[path="add-two-numbers-ii/mod.rs"]
 pub mod add_two_numbers_ii;
+#[path="number-of-boomerangs/mod.rs"]
+pub mod number_of_boomerangs;
+#[path="serialize-and-deserialize-bst/mod.rs"]
+pub mod serialize_and_deserialize_bst;
+#[path="delete-node-in-a-bst/mod.rs"]
+pub mod delete_node_in_a_bst;

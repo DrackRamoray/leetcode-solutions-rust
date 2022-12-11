@@ -181,3 +181,5 @@ pub mod valid_word_square;
 pub mod number_of_segments_in_a_string;
 #[path="arranging-coins/mod.rs"]
 pub mod arranging_coins;
+#[path="find-all-numbers-disappeared-in-an-array/mod.rs"]
+pub mod find_all_numbers_disappeared_in_an_array;
