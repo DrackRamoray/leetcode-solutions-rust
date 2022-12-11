@@ -183,3 +183,5 @@ pub mod number_of_segments_in_a_string;
 pub mod arranging_coins;
 #[path="find-all-numbers-disappeared-in-an-array/mod.rs"]
 pub mod find_all_numbers_disappeared_in_an_array;
+#[path="assign-cookies/mod.rs"]
+pub mod assign_cookies;

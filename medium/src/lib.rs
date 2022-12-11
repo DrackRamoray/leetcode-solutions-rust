@@ -484,3 +484,11 @@ pub mod number_of_boomerangs;
 pub mod serialize_and_deserialize_bst;
 #[path="delete-node-in-a-bst/mod.rs"]
 pub mod delete_node_in_a_bst;
+#[path="sort-characters-by-frequency/mod.rs"]
+pub mod sort_characters_by_frequency;
+#[path="minimum-number-of-arrows-to-burst-balloons/mod.rs"]
+pub mod minimum_number_of_arrows_to_burst_balloons;
+#[path="minimum-moves-to-equal-array-elements/mod.rs"]
+pub mod minimum_moves_to_equal_array_elements;
+#[path="4sum-ii/mod.rs"]
+pub mod four_sum_ii;

@@ -245,3 +245,7 @@
 | [447. 回旋镖的数量](src/number-of-boomerangs/number-of-boomerangs.md)                                                                                      | `哈希`                     |
 | [449. 序列化和反序列化二叉搜索树](src/serialize-and-deserialize-bst/serialize-and-deserialize-bst.md)                                                             | `深度优先搜索`                 |
 | [450. 删除二叉搜索树中的节点](src/delete-node-in-a-bst/delete-node-in-a-bst.md)                                                                                 | `二叉搜索树`                  |
+| [451. 根据字符出现频率排序](src/sort-characters-by-frequency/sort-characters-by-frequency.md)                                                                  | `哈希`                     |
+| [452. 用最少数量的箭引爆气球](src/minimum-number-of-arrows-to-burst-balloons/minimum-number-of-arrows-to-burst-balloons.md)                                     | `贪心`                     |
+| [453. 最小操作次数使数组元素相等](src/minimum-moves-to-equal-array-elements/minimum-moves-to-equal-array-elements.md)                                             | `数学`                     |
+| [454. 四数相加 II](src/4sum-ii/4sum-ii.md)                                                                                                               | `哈希`                     |

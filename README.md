@@ -95,6 +95,7 @@
 | [434. 字符串中的单词数](easy/src/number-of-segments-in-a-string/number-of-segments-in-a-string.md)                              | `字符串`       |
 | [441. 排列硬币](easy/src/arranging-coins/arranging-coins.md)                                                                | `二分查找`      |
 | [448. 找到所有数组中消失的数字](easy/src/find-all-numbers-disappeared-in-an-array/find-all-numbers-disappeared-in-an-array.md)      | `哈希`        |
+| [455. 分发饼干](easy/src/assign-cookies/assign-cookies.md)                                                                  | `双指针`       |
 
 ### [中等](medium/README.md)
 | 题目                                                                                                                                                          | 标签                       |
@@ -344,6 +345,10 @@
 | [447. 回旋镖的数量](medium/src/number-of-boomerangs/number-of-boomerangs.md)                                                                                      | `哈希`                     |
 | [449. 序列化和反序列化二叉搜索树](medium/src/serialize-and-deserialize-bst/serialize-and-deserialize-bst.md)                                                             | `深度优先搜索`                 |
 | [450. 删除二叉搜索树中的节点](medium/src/delete-node-in-a-bst/delete-node-in-a-bst.md)                                                                                 | `二叉搜索树`                  |
+| [451. 根据字符出现频率排序](medium/src/sort-characters-by-frequency/sort-characters-by-frequency.md)                                                                  | `哈希`                     |
+| [452. 用最少数量的箭引爆气球](medium/src/minimum-number-of-arrows-to-burst-balloons/minimum-number-of-arrows-to-burst-balloons.md)                                     | `贪心`                     |
+| [453. 最小操作次数使数组元素相等](medium/src/minimum-moves-to-equal-array-elements/minimum-moves-to-equal-array-elements.md)                                             | `数学`                     |
+| [454. 四数相加 II](medium/src/4sum-ii/4sum-ii.md)                                                                                                               | `哈希`                     |
 
 ### [困难](hard/README.md)
 | 题目                                                                                                                                         | 标签                |
